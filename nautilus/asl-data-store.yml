@@ -1,0 +1,36 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: daksh-nextbrain-job
+  namespace: autoslug
+spec:
+  template:
+    spec:
+      containers:
+      - name: daksh-asl-data-download
+        image: ubuntu:22.04
+        command: ["/bin/bash", "-c"]
+        args: ["bash ~/persistent/scripts/wlasl-data.sh"]
+        volumeMounts:
+        - name: dataset
+          mountPath: /root/dataset
+        - name: persistent    
+          mountPath: /root/persistent
+        resources:
+          limits:
+            memory: 10Gi
+            cpu: "2"
+            ephemeral-storage: 20Gi
+          requests:
+            memory: 10Gi
+            cpu: "2"
+            ephemeral-storage: 20Gi
+      volumes:
+      - name: dataset
+        persistentVolumeClaim:
+          claimName: asl-dataset
+      - name: persistent
+        persistentVolumeClaim:
+          claimName: asl-persistent
+      restartPolicy: Never
+  backoffLimit: 1
