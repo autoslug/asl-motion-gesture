@@ -1,5 +1,6 @@
 import requests, argparse, bs4, json
 from tqdm import tqdm
+from collections import defaultdict
 
 API_URL: str = "https://www.handspeak.com/word/asl-eng/asleng-data.php" 
 HEADERS: dict = {
@@ -31,7 +32,7 @@ PAYLOAD: dict = {
 }
 LAST_PAGE: int = 549
 
-links = {}
+links: dict[str, str] = {}
 
 def extractWords() -> None:
     for page in tqdm(range(1, LAST_PAGE + 1), desc="Extracting pages"):
@@ -46,13 +47,27 @@ def extractWords() -> None:
         for word in wordList:
             word_text = word.find('a').text.strip()
             link = word.find('a').get('href')
-            links[word_text] = link
+
+            # sometimes multiple words link to the same article, eg "close, close-by, close to"
+            # split by ", " and make multiple things
+            words: list[str] = word_text.split(", ")
+            for w in words:
+                links[w] = link
     
     with open('allWordLinks2.json', 'w') as file:
         json.dump(links, file, indent=4)
 
-def extractVideosFromArticle(url: str) -> None:
-    pass
+def extractVideosFromArticle(word: str, url: str) -> list[str]:
+    response: requests.Response = requests.get("https://www.handspeak.com" + url, headers=HEADERS)
+    if response.status_code != 200:
+        tqdm.write(f"Error fetching page for {word}, code {response.status_code}")
+        tqdm.write(response.text)
+        return []
+    
+    soup: bs4.BeautifulSoup = bs4.BeautifulSoup(response.content, 'lxml')
+    videos = soup.find_all('video', class_='v-asl')
+    return [video.get('src') for video in videos]
+
 
 if __name__ == "__main__":
     parser : argparse.ArgumentParser = argparse.ArgumentParser(description="stuff")
@@ -64,8 +79,30 @@ if __name__ == "__main__":
         extractWords()
     
     if args.get_videos:
-        with open('allWordLinks.txt', 'r') as file:
-            allLinks: list[str] = [l.strip() for l in file.readlines()]
+        with open('allWordLinks2.json', 'r') as file:
+            lookup: dict[str, str] = json.load(file)
+
+        with open('WLASL/start_kit/WLASL_v0.3.json', 'r') as file:
+            starterData: dict[str, str] = json.load(file)
         
-        for link in tqdm(allLinks, desc='Extracting videos'):
-            pass
+        updatedURLs: defaultdict[str, list] = defaultdict(list)
+        
+        # loop through the WLASL json, and find all words with handspeak.com links
+        for gloss in tqdm(starterData, desc='Extracting videos'):
+            word: str = gloss["gloss"]
+
+            for instance in gloss["instances"]:
+                if instance["source"] != "handspeak": continue
+
+                # found a word with handspeak.com link. find its updated URL.
+                if word not in lookup: continue 
+                
+                updatedURLs[word] = extractVideosFromArticle(word, lookup[word])
+
+        with open('updatedURLs.json', 'w') as file:
+            json.dump(dict(updatedURLs), file, indent=4)
+                
+
+
+
+

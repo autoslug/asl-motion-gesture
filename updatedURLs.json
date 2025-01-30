@@ -1,0 +1,6346 @@
+{
+    "book": [
+        "/word/b/boo/book.mp4",
+        "/word/b/boo/book2.mp4",
+        "/word/b/boo/booklet.mp4"
+    ],
+    "drink": [
+        "/word/d/dri/drink.mp4",
+        "/word/d/dri/drink2.mp4",
+        "/word/d/dri/drink-plu.mp4",
+        "/word/d/dri/drink-alcohol.mp4",
+        "/word/d/dri/drink-british.mp4",
+        "/word/d/dri/drink-mug.mp4"
+    ],
+    "computer": [
+        "/word/c/com/computer-arm.mp4",
+        "/word/c/com/computer-arm2.mp4",
+        "/word/c/com/computer-head.mp4",
+        "/word/c/com/computer-old.mp4",
+        "/word/c/com/computer-old2.mp4"
+    ],
+    "before": [
+        "/word/b/bef/before.mp4",
+        "/word/b/bef/before-past.mp4",
+        "/word/b/bef/before-long.mp4"
+    ],
+    "chair": [
+        "/word/c/cha/chair.mp4",
+        "/word/p/pap/papasan-chair.mp4"
+    ],
+    "go": [
+        "/word/r/rea/ready-set-go.mp4"
+    ],
+    "who": [
+        "/word/w/who/who.mp4",
+        "/word/w/who/who-old.mp4",
+        "/word/w/who/who-1913.mp4",
+        "/kid/asl/uvw/whoboy-juli1.mp4"
+    ],
+    "candy": [
+        "/word/c/can/candy-usa.mp4",
+        "/word/c/can/candy-sweet.mp4"
+    ],
+    "cousin": [
+        "/word/c/cou/cousin.mp4",
+        "/word/c/cou/cousin-female.mp4",
+        "/word/c/cou/cousin-male.mp4"
+    ],
+    "deaf": [
+        "/word/d/dea/deaf.mp4",
+        "/word/d/dea/deaf2.mp4",
+        "/word/d/dea/deaf-close.mp4",
+        "/word/d/dea/deaf-profoundly.mp4",
+        "/word/d/dea/deaf-profoundly2.mp4",
+        "/word/d/dea/deaf-pokorny.mp4"
+    ],
+    "fine": [
+        "/word/f/fin/fine-good2.mp4",
+        "/word/f/fin/fine-good.mp4"
+    ],
+    "help": [
+        "/word/h/hel/help.mp4",
+        "/word/h/hel/help2.mp4"
+    ],
+    "no": [
+        "/word/n/no/no.mp4",
+        "/word/n/no/no-wave.mp4",
+        "/word/n/no/no-fs.mp4",
+        "/pix/n/no-why2020.mp4"
+    ],
+    "thin": [
+        "/word/t/thi/thin.mp4",
+        "/word/t/thi/thin2.mp4"
+    ],
+    "walk": [
+        "/word/w/wal/walk.mp4",
+        "/word/w/wal/walk2.mp4"
+    ],
+    "year": [
+        "/word/y/yea/year.mp4",
+        "/word/y/yea/year-inf.mp4",
+        "/word/y/yea/years.mp4",
+        "/word/y/yea/year-1913.mp4"
+    ],
+    "yes": [
+        "/word/y/yes/yes.mp4",
+        "/word/y/yes/yes-fs.mp4",
+        "/word/y/yes/yep-fs.mp4",
+        "/word/y/yes/yes-mhmm.mp4",
+        "/word/y/yes/yes-nose.mp4"
+    ],
+    "all": [
+        "/word/a/all/all.mp4",
+        "/word/a/all/all-you.mp4"
+    ],
+    "black": [
+        "/word/b/bla/black.mp4"
+    ],
+    "cool": [
+        "/word/c/coo/cool-neat.mp4",
+        "/word/c/coo/cool-neat2.mp4",
+        "/word/c/coo/cool-fs.mp4",
+        "/word/c/coo/cool-weather.mp4"
+    ],
+    "finish": [
+        "/word/f/fin/finish2.mp4",
+        "/word/f/fin/finish-complete.mp4",
+        "/word/f/fin/finish-stop.mp4",
+        "/word/f/fin/finish-toolate.mp4",
+        "/word/f/fin/finish-trouble.mp4"
+    ],
+    "hot": [
+        "/word/h/hot/hot2.mp4",
+        "/word/h/hot/hot.mp4"
+    ],
+    "like": [
+        "/word/a/ali/alike.mp4",
+        "/word/l/lik/like-same.mp4",
+        "/word/a/ali/alike.mp4"
+    ],
+    "many": [
+        "/word/m/man/many.mp4",
+        "/word/m/man/many2.mp4"
+    ],
+    "mother": [
+        "/word/m/mot/mother.mp4",
+        "/word/m/mot/mother2.mp4",
+        "/word/m/mot/mother-mama.mp4"
+    ],
+    "now": [
+        "/word/n/now/now.mp4",
+        "/word/n/now/now-right.mp4"
+    ],
+    "orange": [
+        "/word/o/ora/orange.mp4",
+        "/word/o/ora/orange-obselete.mp4"
+    ],
+    "table": [
+        "/word/t/tab/table.mp4",
+        "/word/t/tab/table-ca.mp4"
+    ],
+    "what": [
+        "/word/w/wha/what.mp4",
+        "/word/w/wha/what2.mp4",
+        "/word/w/wha/what-fs.mp4"
+    ],
+    "woman": [
+        "/word/w/wom/woman.mp4",
+        "/word/w/wom/woman2.mp4"
+    ],
+    "bed": [
+        "/word/b/bed/bed.mp4"
+    ],
+    "blue": [
+        "/word/b/blu/blue.mp4"
+    ],
+    "bowling": [
+        "/word/b/bow/bowling-game.mp4",
+        "/word/b/bow/bowling2.mp4"
+    ],
+    "can": [
+        "/word/c/can/can.mp4"
+    ],
+    "dog": [
+        "/word/d/dog/dog-fs.mp4",
+        "/word/d/dog/dog-timelapse.mp4",
+        "/pix/d/dogtrick-jaymeeyben.mp4"
+    ],
+    "family": [
+        "/word/f/fam/family.mp4",
+        "/word/f/fam/family-isl.mp4"
+    ],
+    "fish": [
+        "/word/f/fis/fish.mp4",
+        "/word/f/fis/fish2.mp4"
+    ],
+    "graduate": [
+        "/word/g/gra/graduate.mp4",
+        "/word/g/gra/graduate-person.mp4"
+    ],
+    "hat": [
+        "/word/h/hat/hat.mp4"
+    ],
+    "hearing": [
+        "/word/h/hea/hearing.mp4",
+        "/word/h/hea/hearing-but.mp4"
+    ],
+    "kiss": [
+        "/word/k/kis/kiss.mp4",
+        "/word/k/kis/kiss-cl.mp4",
+        "/word/k/kis/kiss-cl2.mp4"
+    ],
+    "language": [
+        "/word/l/lan/language.mp4",
+        "/word/l/lan/language2.mp4"
+    ],
+    "later": [
+        "/word/l/lat/later.mp4",
+        "/word/l/lat/later2.mp4",
+        "/word/l/lat/later-inf.mp4"
+    ],
+    "man": [
+        "/word/m/man/man.mp4",
+        "/word/m/man/man2.mp4",
+        "/word/m/man/man-cap.mp4"
+    ],
+    "study": [
+        "/word/s/stu/study.mp4",
+        "/word/s/stu/study2.mp4",
+        "/word/s/stu/study-reg.mp4",
+        "/word/s/stu/study-rep.mp4",
+        "/word/s/stu/study-cont.mp4"
+    ],
+    "tall": [
+        "/word/t/tal/tall.mp4"
+    ],
+    "white": [
+        "/word/w/whi/white.mp4"
+    ],
+    "wrong": [
+        "/word/w/wro/wrong.mp4",
+        "/word/w/wha/what-wrong.mp4"
+    ],
+    "accident": [
+        "/word/a/acc/accident.mp4",
+        "/word/a/acc/accident-mistake.mp4"
+    ],
+    "apple": [
+        "/word/a/app/apple.mp4"
+    ],
+    "bird": [
+        "/word/b/bir/bird.mp4"
+    ],
+    "change": [
+        "/word/c/cha/change.mp4",
+        "/word/c/cha/change2.mp4"
+    ],
+    "color": [
+        "/word/c/col/color.mp4",
+        "/word/c/col/colorful.mp4"
+    ],
+    "corn": [
+        "/word/c/cor/corn.mp4",
+        "/word/c/cor/corn2.mp4",
+        "/word/c/cor/corn-fs.mp4"
+    ],
+    "cow": [
+        "/word/c/cow/cow2.mp4",
+        "/word/c/cow/cow.mp4"
+    ],
+    "dance": [
+        "/word/d/dan/dance.mp4"
+    ],
+    "dark": [
+        "/word/d/dar/dark.mp4",
+        "/word/d/dar/dark-color.mp4",
+        "/word/d/dar/dark-color2.mp4"
+    ],
+    "doctor": [
+        "/word/d/doc/doctor.mp4",
+        "/word/d/doc/doctor-d.mp4",
+        "/word/d/doc/doctor-dr.mp4"
+    ],
+    "eat": [
+        "/word/e/eat/eat.mp4",
+        "/word/e/eat/eat-alot.mp4",
+        "/word/e/eat/eat-iclx.mp4",
+        "/word/e/eat/eat-iclpop.mp4",
+        "/word/e/eat/eat-up.mp4"
+    ],
+    "enjoy": [
+        "/word/e/enj/enjoy2.mp4",
+        "/word/e/enj/enjoy.mp4"
+    ],
+    "forget": [
+        "/word/f/for/forget.mp4",
+        "/word/f/for/forget-disappear.mp4",
+        "/word/f/for/forget-it.mp4",
+        "/word/f/for/forget-it-pshaw.mp4"
+    ],
+    "give": [
+        "/word/g/giv/give2.mp4",
+        "/word/g/giv/give-you.mp4",
+        "/word/g/giv/give-me.mp4",
+        "/word/g/giv/give-hir-from-me.mp4"
+    ],
+    "last": [
+        "/word/l/las/last-final.mp4",
+        "/word/l/las/last-past.mp4",
+        "/word/l/las/last-continue.mp4"
+    ],
+    "meet": [
+        "/word/m/mee/meet.mp4",
+        "/word/m/mee/meet-swim.mp4"
+    ],
+    "pink": [
+        "/word/p/pin/pink.mp4",
+        "/word/p/pin/pink2.mp4"
+    ],
+    "pizza": [
+        "/word/p/piz/pizza-fs.mp4",
+        "/word/p/piz/pizza-wheeler.mp4",
+        "/word/p/piz/pizza-eat.mp4"
+    ],
+    "play": [
+        "/word/p/pla/play.mp4"
+    ],
+    "school": [
+        "/word/s/sch/school.mp4"
+    ],
+    "secretary": [
+        "/word/s/sec/secretary.mp4",
+        "/word/s/sec/secretary2.mp4"
+    ],
+    "short": [
+        "/word/s/sho/short-duration.mp4",
+        "/word/s/sho/short-soon.mp4",
+        "/word/s/sho/short-height.mp4",
+        "/lang/s/short/short-string.mp4",
+        "/lang/s/short/short-pencil.mp4",
+        "/lang/s/short/short-pants.mp4"
+    ],
+    "time": [
+        "/word/t/tim/time2.mp4",
+        "/word/t/tim/time-q.mp4",
+        "/word/t/tim/time-x.mp4",
+        "/word/a/at/at-same-time.mp4"
+    ],
+    "want": [
+        "/word/w/wan/want.mp4"
+    ],
+    "work": [
+        "/word/w/wor/work.mp4",
+        "/kid/sen/uvw/work-sen3.mp4"
+    ],
+    "basketball": [
+        "/word/b/bas/basketball.mp4",
+        "/word/b/bas/basketball-hs5.mp4",
+        "/word/b/bas/basketball2.mp4"
+    ],
+    "birthday": [
+        "/word/b/bir/birthday.mp4",
+        "/word/b/bir/birthday2.mp4",
+        "/word/b/bir/birthday-1913.mp4"
+    ],
+    "brown": [
+        "/word/b/bro/brown-usa.mp4",
+        "/word/b/bro/brown.mp4"
+    ],
+    "but": [
+        "/word/b/but/but.mp4",
+        "/word/b/but/but-fs.mp4"
+    ],
+    "cheat": [
+        "/word/c/che/cheat-eyben.mp4",
+        "/word/c/che/cheat-ca.mp4",
+        "/word/c/che/cheat-us.mp4",
+        "/word/c/che/cheat-on.mp4"
+    ],
+    "city": [
+        "/word/c/cit/city.mp4"
+    ],
+    "cook": [
+        "/word/c/coo/cook.mp4",
+        "/word/o/ove/overcook.mp4",
+        "/word/c/coo/cook-pro.mp4",
+        "/word/c/coo/cook-long.mp4",
+        "/word/c/coo/cook-hard.mp4"
+    ],
+    "decide": [
+        "/word/d/dec/decide.mp4"
+    ],
+    "full": [
+        "/word/f/ful/full.mp4",
+        "/word/f/ful/full-eat.mp4",
+        "/pix/t/talking-full-hand.mp4"
+    ],
+    "how": [
+        "/word/h/how/how.mp4",
+        "/word/h/how/how2.mp4",
+        "/word/h/how/how-1913.mp4",
+        "/word/h/how/how-oldvar.mp4",
+        "/word/h/how/how-you.mp4",
+        "/word/h/how/how-many.mp4",
+        "/word/h/how/how-much.mp4"
+    ],
+    "jacket": [
+        "/word/j/jac/jacket.mp4",
+        "/word/j/jac/jacket-light.mp4",
+        "/word/j/jac/jacket-thin.mp4",
+        "/word/j/jac/jacket-zipper.mp4"
+    ],
+    "letter": [
+        "/word/l/let/letter.mp4",
+        "/word/l/let/letter-abc.mp4"
+    ],
+    "medicine": [
+        "/word/m/med/medicine.mp4"
+    ],
+    "need": [
+        "/word/n/nee/need.mp4"
+    ],
+    "paint": [
+        "/word/p/pai/paint-wall.mp4",
+        "/word/p/pai/paint-art.mp4"
+    ],
+    "paper": [
+        "/word/p/pap/paper.mp4",
+        "/word/p/pap/papyrus-fs.mp4",
+        "/word/p/par/parchment-fs.mp4"
+    ],
+    "pull": [
+        "/word/p/pul/pull.mp4",
+        "/word/p/pul/pull2.mp4"
+    ],
+    "purple": [
+        "/word/p/pur/purple.mp4"
+    ],
+    "right": [
+        "/word/r/rig/right-dir.mp4"
+    ],
+    "same": [
+        "/word/s/sam/same-also.mp4",
+        "/word/s/sam/same-as.mp4"
+    ],
+    "son": [
+        "/word/s/son/son.mp4"
+    ],
+    "tell": [
+        "/word/t/tel/tell.mp4",
+        "/word/t/tel/tell-me.mp4",
+        "/word/t/tel/tell-them.mp4",
+        "/word/c/can/can-tell.mp4",
+        "/word/t/tol/told-you-so.mp4"
+    ],
+    "visit": [
+        "/word/v/vis/visit.mp4",
+        "/word/v/vis/visit2.mp4"
+    ],
+    "wait": [
+        "/word/w/wai/wait.mp4",
+        "/word/w/wai/wait-long.mp4"
+    ],
+    "water": [
+        "/word/w/wat/water.mp4"
+    ],
+    "wife": [
+        "/word/w/wif/wife.mp4"
+    ],
+    "yellow": [
+        "/word/y/yel/yellow.mp4"
+    ],
+    "backpack": [
+        "/word/b/bac/backpack.mp4",
+        "/word/b/bac/backpack-c.mp4",
+        "/word/b/bac/backpack-travel.mp4"
+    ],
+    "bar": [
+        "/word/b/bar/bar-rod.mp4",
+        "/word/b/bat/baton.mp4"
+    ],
+    "brother": [
+        "/word/b/bro/brother.mp4",
+        "/word/b/bio/biological-brother.mp4"
+    ],
+    "cat": [
+        "/word/c/cat/cat.mp4",
+        "/word/c/cat/cat-hs20.mp4"
+    ],
+    "check": [
+        "/word/c/che/cheque.mp4",
+        "/word/c/che/cheque2.mp4"
+    ],
+    "class": [
+        "/word/c/cla/class.mp4"
+    ],
+    "cry": [
+        "/word/c/cry/cry-reg.mp4",
+        "/word/c/cry/cry.mp4",
+        "/word/c/cry/cry-alt.mp4"
+    ],
+    "different": [
+        "/word/d/dif/different.mp4",
+        "/word/d/dif/different2.mp4"
+    ],
+    "door": [
+        "/word/d/doo/door.mp4",
+        "/word/d/doo/door-timelapse.mp4"
+    ],
+    "green": [
+        "/word/g/gre/green.mp4"
+    ],
+    "have": [
+        "/word/h/hav/have2.mp4",
+        "/word/h/hav/have.mp4",
+        "/word/h/hav/have-to.mp4",
+        "/word/h/hav/have-seen.mp4",
+        "/word/h/hav/havenotseen.mp4",
+        "/word/h/hav/have-beento.mp4",
+        "/word/h/hav/have-1913.mp4"
+    ],
+    "headache": [
+        "/word/h/hea/headache.mp4"
+    ],
+    "inform": [
+        "/word/i/inf/inform2.mp4"
+    ],
+    "knife": [
+        "/word/k/kni/knife.mp4"
+    ],
+    "learn": [
+        "/word/l/lea/learn.mp4",
+        "/word/l/lea/learn-plu.mp4",
+        "/word/l/lea/learn-from.mp4",
+        "/word/l/lea/learn-lesson.mp4"
+    ],
+    "movie": [
+        "/word/m/mov/movie.mp4"
+    ],
+    "rabbit": [
+        "/word/r/rab/rabbit.mp4"
+    ],
+    "read": [
+        "/word/r/rea/read.mp4",
+        "/word/r/rea/read2.mp4",
+        "/word/r/rea/read-newspaper.mp4",
+        "/word/r/rea/read-upon.mp4"
+    ],
+    "red": [
+        "/word/r/red/red2.mp4",
+        "/word/r/red/red.mp4",
+        "/kid/asl/r/red-a1m8.mp4"
+    ],
+    "room": [
+        "/word/r/roo/room.mp4"
+    ],
+    "run": [
+        "/word/r/run/run-jog.mp4",
+        "/word/r/run/run-feet2.mp4",
+        "/word/r/run/run-hurry.mp4",
+        "/word/r/run/run-operate.mp4"
+    ],
+    "show": [
+        "/word/s/sho/show.mp4",
+        "/word/s/sho/show-each2.mp4",
+        "/word/s/sho/show-all.mp4",
+        "/word/s/sho/show-me-from-hir.mp4",
+        "/word/s/sho/show-tell.mp4"
+    ],
+    "sick": [
+        "/word/s/sic/sick.mp4",
+        "/word/s/sic/sick2.mp4"
+    ],
+    "snow": [
+        "/word/s/sno/snow.mp4",
+        "/word/s/sno/snowfall.mp4",
+        "/word/s/sno/snow-a1m2.mp4"
+    ],
+    "take": [
+        "/word/t/tak/take.mp4",
+        "/word/t/tak/take-me.mp4",
+        "/word/t/tak/take-hir.mp4",
+        "/word/t/tak/take-charge.mp4",
+        "/word/t/tak/take-time.mp4",
+        "/word/t/tak/take-time2.mp4",
+        "/word/t/tak/take-liberty.mp4"
+    ],
+    "tea": [
+        "/word/t/tea/tea.mp4",
+        "/word/t/tea/tea2.mp4"
+    ],
+    "teacher": [
+        "/word/t/tea/teacher.mp4"
+    ],
+    "week": [
+        "/word/w/wee/week.mp4",
+        "/word/w/wee/week-this.mp4",
+        "/word/w/wee/week-this3.mp4",
+        "/word/t/two/two-weeks.mp4",
+        "/word/t/two/two-weeks-ago.mp4",
+        "/word/t/thr/three-weeks.mp4",
+        "/word/t/thr/three-weeks-ago.mp4",
+        "/word/t/thr/three-times-week.mp4",
+        "/word/q/qui/quintuple-week.mp4"
+    ],
+    "why": [
+        "/word/w/why/why.mp4",
+        "/word/w/why/why-not.mp4"
+    ],
+    "with": [
+        "/word/w/wit/with.mp4"
+    ],
+    "write": [
+        "/word/w/wri/write.mp4",
+        "/word/w/wri/write2.mp4",
+        "/word/w/wri/write-board.mp4",
+        "/word/w/wri/write-down.mp4"
+    ],
+    "yesterday": [
+        "/word/y/yes/yesterday.mp4"
+    ],
+    "again": [
+        "/word/a/aga/again.mp4"
+    ],
+    "bad": [
+        "/word/b/bad/bad.mp4"
+    ],
+    "ball": [
+        "/word/b/bal/ball.mp4",
+        "/kid/asl/f/fallapple-age1.mp4"
+    ],
+    "bathroom": [
+        "/word/b/bat/bathroom.mp4",
+        "/word/b/bat/bathroom2.mp4"
+    ],
+    "blanket": [
+        "/word/b/bla/blanket.mp4"
+    ],
+    "buy": [
+        "/word/b/buy/buy.mp4"
+    ],
+    "call": [
+        "/word/c/cal/call-name.mp4",
+        "/word/d/dub/dub.mp4"
+    ],
+    "coffee": [
+        "/word/c/cof/coffee.mp4",
+        "/word/c/cof/coffee-bean-fs.mp4"
+    ],
+    "cold": [
+        "/word/c/col/cold-brr.mp4"
+    ],
+    "college": [
+        "/word/c/col/college.mp4"
+    ],
+    "copy": [
+        "/word/c/cop/copy.mp4",
+        "/word/c/cop/copy-me.mp4",
+        "/word/c/cop/copy-everyone.mp4",
+        "/word/c/cop/copy-paste.mp4",
+        "/word/c/cop/copy-paste2.mp4"
+    ],
+    "cute": [
+        "/word/c/cut/cute.mp4",
+        "/word/c/cut/cute2.mp4"
+    ],
+    "daughter": [
+        "/word/d/dau/daughter.mp4"
+    ],
+    "example": [
+        "/word/e/exa/example.mp4",
+        "/word/f/for/for-example.mp4",
+        "/word/f/for/for-example-sameidea.mp4"
+    ],
+    "far": [
+        "/word/f/far/far.mp4"
+    ],
+    "first": [
+        "/word/f/fir/first-time.mp4",
+        "/word/f/fir/first-ordinal.mp4",
+        "/word/f/fir/first-place.mp4"
+    ],
+    "friend": [
+        "/word/f/fri/friend.mp4",
+        "/word/c/clo/close-friend.mp4",
+        "/word/f/fri/friend-good.mp4",
+        "/word/f/fri/friend-best.mp4"
+    ],
+    "good": [
+        "/word/g/goo/good.mp4",
+        "/word/g/goo/good-var.mp4"
+    ],
+    "happy": [
+        "/word/h/hap/happy.mp4",
+        "/word/h/hap/happy2.mp4"
+    ],
+    "home": [
+        "/word/h/hom/home.mp4"
+    ],
+    "know": [
+        "/word/k/kno/know.mp4",
+        "/word/k/kno/know-that.mp4"
+    ],
+    "late": [
+        "/word/l/lat/late.mp4"
+    ],
+    "leave": [
+        "/word/l/lea/leave-depart.mp4",
+        "/word/l/lea/leave-gone.mp4",
+        "/word/l/lea/leave-gonow.mp4",
+        "/word/l/lea/leave-it.mp4"
+    ],
+    "list": [
+        "/word/l/lis/list.mp4"
+    ],
+    "lose": [
+        "/word/l/los/lose.mp4",
+        "/word/l/los/lose-game.mp4"
+    ],
+    "name": [
+        "/word/n/nam/name.mp4",
+        "/word/n/nam/name-verb.mp4"
+    ],
+    "old": [
+        "/word/o/old/old-notnew.mp4",
+        "/word/o/old/old-age.mp4"
+    ],
+    "person": [
+        "/word/p/per/person.mp4"
+    ],
+    "police": [
+        "/word/p/pol/police.mp4",
+        "/word/p/pol/police-c.mp4"
+    ],
+    "problem": [
+        "/word/p/pro/problem.mp4"
+    ],
+    "remember": [
+        "/word/r/rem/remember.mp4",
+        "/word/r/rem/remember-press.mp4"
+    ],
+    "share": [
+        "/word/s/sha/share.mp4"
+    ],
+    "soon": [
+        "/word/s/soo/soon.mp4",
+        "/word/s/soo/soon-short.mp4",
+        "/word/s/soo/soon-asap.mp4"
+    ],
+    "stay": [
+        "/word/s/sta/stay.mp4",
+        "/word/s/sta/stay2.mp4"
+    ],
+    "test": [
+        "/word/t/tes/test.mp4",
+        "/word/t/tes/test2.mp4",
+        "/word/t/tes/test-o.mp4",
+        "/word/t/tes/test-5.mp4",
+        "/word/t/tes/test-try2.mp4",
+        "/word/t/tes/test-try.mp4"
+    ],
+    "tired": [
+        "/word/t/tir/tired.mp4"
+    ],
+    "trade": [
+        "/word/t/tra/trade.mp4",
+        "/word/f/fre/free-trade.mp4"
+    ],
+    "travel": [
+        "/word/t/tra/travel.mp4"
+    ],
+    "window": [
+        "/word/w/win/window.mp4",
+        "/word/w/win/window-open.mp4"
+    ],
+    "you": [
+        "/word/y/you/you.mp4"
+    ],
+    "about": [
+        "/word/a/abo/about.mp4",
+        "/word/a/abo/about-around.mp4"
+    ],
+    "approve": [
+        "/word/a/app/approve.mp4"
+    ],
+    "arrive": [
+        "/word/a/arr/arrive.mp4",
+        "/word/a/arr/arrival-time.mp4"
+    ],
+    "balance": [
+        "/word/b/bal/balance.mp4"
+    ],
+    "banana": [
+        "/word/b/ban/banana.mp4",
+        "/word/b/ban/banana2.mp4"
+    ],
+    "beard": [
+        "/word/b/bea/beard.mp4",
+        "/word/b/bea/beard-styles.mp4",
+        "/word/b/bea/beard-types.mp4",
+        "/word/b/bea/beard-bandholz.mp4",
+        "/word/c/chi/chinstrap-beard.mp4"
+    ],
+    "because": [
+        "/word/b/bec/because.mp4",
+        "/word/b/bec/because-l.mp4",
+        "/word/b/bec/because-why.mp4",
+        "/word/b/bec/because-calvinpetrowsky.mp4"
+    ],
+    "boy": [
+        "/word/b/boy/boy.mp4",
+        "/word/b/boy/boy-kidsign.mp4",
+        "/word/b/boy/boy2.mp4"
+    ],
+    "business": [
+        "/word/b/bus/business.mp4"
+    ],
+    "careful": [
+        "/word/c/car/careful.mp4",
+        "/word/c/car/careful-be.mp4"
+    ],
+    "center": [
+        "/word/c/cen/center.mp4"
+    ],
+    "chat": [
+        "/word/c/cha/chat-conversation.mp4"
+    ],
+    "children": [
+        "/word/c/chi/child.mp4",
+        "/word/c/chi/children.mp4"
+    ],
+    "clock": [
+        "/word/c/clo/clock-wall.mp4",
+        "/word/c/clo/clock-desk.mp4"
+    ],
+    "close": [
+        "/word/c/clo/close-near.mp4",
+        "/word/n/nea/near.mp4"
+    ],
+    "convince": [
+        "/word/c/conv/convince.mp4",
+        "/word/c/conv/convince-me2.mp4",
+        "/word/c/conv/convince-me.mp4",
+        "/word/c/conv/convinced-patrickgraybill.mp4"
+    ],
+    "country": [
+        "/word/c/cou/country.mp4",
+        "/word/c/cou/country2.mp4"
+    ],
+    "crash": [
+        "/word/c/cra/crash-accident.mp4",
+        "/word/c/cra/crash-plane.mp4"
+    ],
+    "day": [
+        "/word/d/day/day.mp4",
+        "/word/a/all/all-day.mp4",
+        "/word/t/two/two-days.mp4",
+        "/word/t/two/two-days2.mp4",
+        "/word/t/thr/three-days.mp4",
+        "/word/t/thr/three-days2.mp4",
+        "/word/f/fou/four-days.mp4",
+        "/word/f/fiv/five-days.mp4",
+        "/word/s/six/six-days.mp4",
+        "/word/t/ten/ten-days.mp4"
+    ],
+    "discuss": [
+        "/word/d/dis/discuss.mp4",
+        "/word/d/dis/discuss2.mp4",
+        "/word/d/dis/discuss-all-jacobowitz.mp4"
+    ],
+    "dress": [
+        "/word/d/dre/dress.mp4"
+    ],
+    "drive": [
+        "/word/d/dri/drive.mp4",
+        "/word/d/dri/drive-to.mp4",
+        "/word/d/dri/drive-rec.mp4",
+        "/word/d/dri/drive-tofrom.mp4",
+        "/word/d/dri/drive2.mp4",
+        "/word/d/dri/drive-fast.mp4",
+        "/word/d/dri/drive-stressed.mp4"
+    ],
+    "drop": [
+        "/word/d/dro/drop.mp4",
+        "/word/d/dro/drop2.mp4"
+    ],
+    "fat": [
+        "/word/f/fat/fat-fs.mp4",
+        "/word/f/fat/fat.mp4"
+    ],
+    "feel": [
+        "/word/f/fee/feel.mp4"
+    ],
+    "football": [
+        "/word/f/foo/football.mp4",
+        "/word/f/foo/football2.mp4",
+        "/word/f/foo/football-ball.mp4"
+    ],
+    "future": [
+        "/word/f/fut/future.mp4"
+    ],
+    "game": [
+        "/word/g/gam/game.mp4"
+    ],
+    "girl": [
+        "/word/g/gir/girl.mp4",
+        "/kid/asl/g/girl-age1.mp4"
+    ],
+    "government": [
+        "/word/g/gov/government-us.mp4",
+        "/word/g/gov/government-ca.mp4"
+    ],
+    "hear": [
+        "/word/h/hea/hear-sound.mp4",
+        "/word/h/hea/hear-news.mp4"
+    ],
+    "here": [
+        "/word/h/her/here.mp4",
+        "/word/h/her/here-ix.mp4"
+    ],
+    "hope": [
+        "/word/h/hop/hope.mp4",
+        "/word/h/hop/hope-wish2.mp4",
+        "/word/h/hop/hope-fingerscrossed.mp4"
+    ],
+    "house": [
+        "/word/h/hou/house.mp4",
+        "/word/b/bun/bungalow-desc.mp4"
+    ],
+    "husband": [
+        "/word/h/hus/husband.mp4",
+        "/word/h/hus/husband-to-be.mp4"
+    ],
+    "interest": [
+        "/word/i/int/interested.mp4",
+        "/word/i/int/interesting.mp4",
+        "/word/i/int/interesting2.mp4"
+    ],
+    "join": [
+        "/word/j/joi/join.mp4",
+        "/word/j/joi/join-me.mp4"
+    ],
+    "light": [
+        "/word/l/lig/light.mp4"
+    ],
+    "live": [
+        "/word/l/liv/live.mp4",
+        "/word/l/liv/live2.mp4",
+        "/word/l/liv/live-alive.mp4",
+        "/word/l/liv/live-alive2.mp4"
+    ],
+    "make": [
+        "/word/m/mak/make.mp4"
+    ],
+    "mean": [
+        "/word/m/mea/mean-cruel.mp4"
+    ],
+    "more": [
+        "/word/m/mor/more.mp4",
+        "/word/m/mor/more-more-polke.mp4",
+        "/word/m/mor/more-than.mp4"
+    ],
+    "most": [
+        "/word/m/mos/most.mp4"
+    ],
+    "music": [
+        "/word/m/mus/music.mp4"
+    ],
+    "new": [
+        "/word/n/new/new.mp4",
+        "/word/n/new/new2.mp4"
+    ],
+    "none": [
+        "/word/n/non/none.mp4",
+        "/word/n/non/none2.mp4"
+    ],
+    "office": [
+        "/word/o/off/office.mp4"
+    ],
+    "order": [
+        "/word/o/ord/order2.mp4",
+        "/word/o/ord/order-sequence.mp4",
+        "/word/o/ord/order-organize.mp4"
+    ],
+    "pants": [
+        "/word/p/pan/pants.mp4",
+        "/word/p/pan/pants-usa.mp4"
+    ],
+    "party": [
+        "/word/p/par/party.mp4",
+        "/word/p/par/party2.mp4",
+        "/word/p/par/party-hard.mp4"
+    ],
+    "past": [
+        "/word/p/pas/past.mp4"
+    ],
+    "pencil": [
+        "/word/p/pen/pencil.mp4",
+        "/word/p/pen/pencil-mechanical.mp4"
+    ],
+    "plan": [
+        "/word/p/pla/plan.mp4",
+        "/word/p/pla/plan2.mp4"
+    ],
+    "please": [
+        "/word/p/ple/please.mp4"
+    ],
+    "practice": [
+        "/word/p/pra/practice.mp4",
+        "/kid/asl/p/practice-a1m8.mp4"
+    ],
+    "president": [
+        "/word/p/pre/president.mp4"
+    ],
+    "restaurant": [
+        "/word/r/res/restaurant.mp4",
+        "/word/r/res/restaurant2.mp4"
+    ],
+    "ride": [
+        "/word/r/rid/ride-vehicle.mp4",
+        "/word/r/rid/ride-vehicle2.mp4",
+        "/word/r/rid/ride-vehicle3.mp4",
+        "/word/r/rid/ride-bicycle.mp4",
+        "/word/r/rid/ride-animal.mp4"
+    ],
+    "salt": [
+        "/word/s/sal/salt.mp4"
+    ],
+    "sandwich": [
+        "/word/s/san/sandwich2.mp4",
+        "/word/s/san/sandwich.mp4"
+    ],
+    "since": [
+        "/word/s/sin/since.mp4",
+        "/word/s/sin/since-why.mp4"
+    ],
+    "small": [
+        "/word/s/sma/small.mp4",
+        "/word/s/sma/small-so.mp4"
+    ],
+    "some": [
+        "/word/s/som/some.mp4"
+    ],
+    "south": [
+        "/word/s/sou/south.mp4"
+    ],
+    "student": [
+        "/word/s/stu/student.mp4"
+    ],
+    "teach": [
+        "/word/t/tea/teach.mp4",
+        "/word/t/tea/teach-reteach.mp4"
+    ],
+    "theory": [
+        "/word/t/the/theory.mp4",
+        "/word/t/the/theory-t.mp4",
+        "/word/t/the/theory-v.mp4"
+    ],
+    "tomato": [
+        "/word/t/tom/tomato.mp4",
+        "/word/t/tom/tomato2.mp4"
+    ],
+    "train": [
+        "/word/t/tra/train-teach.mp4"
+    ],
+    "ugly": [
+        "/word/u/ugl/ugly.mp4"
+    ],
+    "war": [
+        "/word/w/war/war.mp4",
+        "/word/w/war/war2.mp4"
+    ],
+    "where": [
+        "/word/w/whe/where2.mp4",
+        "/word/w/whe/where.mp4"
+    ],
+    "your": [
+        "/word/y/you/your.mp4",
+        "/word/y/you/your-plu.mp4"
+    ],
+    "always": [
+        "/word/a/alw/always.mp4"
+    ],
+    "animal": [
+        "/word/a/ani/animal.mp4"
+    ],
+    "argue": [
+        "/word/a/arg/argue.mp4",
+        "/word/a/arg/argue-debate.mp4"
+    ],
+    "baby": [
+        "/word/b/bab/baby.mp4",
+        "/kid/asl/b/babyme-age1.mp4"
+    ],
+    "back": [
+        "/word/b/bac/back-fs.mp4",
+        "/word/b/bac/back-body.mp4",
+        "/word/b/bac/back-body2.mp4"
+    ],
+    "bake": [
+        "/word/b/bak/bake-oven.mp4"
+    ],
+    "bath": [
+        "/word/b/bat/bath.mp4"
+    ],
+    "behind": [
+        "/word/b/beh/behind.mp4",
+        "/word/b/beh/behind-delay.mp4"
+    ],
+    "bring": [
+        "/word/b/bri/bring.mp4",
+        "/word/b/bri/bring-to-light.mp4"
+    ],
+    "catch": [
+        "/word/c/cat/catch.mp4",
+        "/word/c/cat/catch-object.mp4",
+        "/word/c/cat/catch-talon.mp4"
+    ],
+    "champion": [
+        "/word/c/cha/champion.mp4",
+        "/word/c/cha/champion5.mp4"
+    ],
+    "cheese": [
+        "/word/c/che/cheese.mp4",
+        "/word/m/moz/mozzarella-fs.mp4",
+        "/word/p/pro/provolene-fs.mp4"
+    ],
+    "cough": [
+        "/word/c/cou/cough.mp4",
+        "/word/c/cou/cough2.mp4"
+    ],
+    "crazy": [
+        "/word/c/cra/crazy2.mp4",
+        "/word/c/cra/crazy.mp4"
+    ],
+    "delay": [
+        "/word/d/del/delay.mp4"
+    ],
+    "delicious": [
+        "/word/d/del/delicious.mp4"
+    ],
+    "disappear": [
+        "/word/d/dis/disappear.mp4"
+    ],
+    "divorce": [
+        "/word/d/div/divorce2.mp4"
+    ],
+    "draw": [
+        "/word/d/dra/draw-art.mp4",
+        "/word/d/dra/draw-raffle.mp4"
+    ],
+    "east": [
+        "/word/e/eas/east.mp4"
+    ],
+    "easy": [
+        "/word/e/eas/easy.mp4"
+    ],
+    "egg": [
+        "/word/e/egg/egg2.mp4",
+        "/word/e/egg/egg.mp4"
+    ],
+    "environment": [
+        "/word/e/env/environment.mp4"
+    ],
+    "father": [
+        "/word/f/fat/father.mp4",
+        "/word/f/fat/father2.mp4",
+        "/word/f/fat/father-day.mp4"
+    ],
+    "fault": [
+        "/word/f/fau/fault.mp4"
+    ],
+    "flower": [
+        "/word/f/flo/flower.mp4",
+        "/word/b/bou/bouquet.mp4",
+        "/word/c/cor/corsage.mp4",
+        "/word/c/cor/corsage-wrist.mp4",
+        "/word/f/flo/flower-aster.mp4",
+        "/word/f/flo/flower-calendula.mp4",
+        "/word/f/flo/flower-gaillardia.mp4",
+        "/word/p/pet/petunia-fs.mp4",
+        "/word/p/phl/phlox-fs.mp4"
+    ],
+    "friendly": [
+        "/word/f/fri/friendly.mp4"
+    ],
+    "hard": [
+        "/word/h/har/hard2.mp4",
+        "/word/h/har/hard.mp4"
+    ],
+    "heart": [
+        "/word/h/hea/heart.mp4",
+        "/word/h/hea/heart2.mp4"
+    ],
+    "hour": [
+        "/word/h/hou/hour.mp4",
+        "/word/h/hou/hour2.mp4",
+        "/word/o/one/one-hour.mp4",
+        "/word/t/thr/three-hours2.mp4",
+        "/word/t/thr/three-hours.mp4"
+    ],
+    "humble": [
+        "/word/h/hum/humble.mp4"
+    ],
+    "hurry": [
+        "/word/h/hur/hurry.mp4",
+        "/word/h/hur/hurry2.mp4"
+    ],
+    "improve": [
+        "/word/i/imp/improve.mp4",
+        "/word/i/imp/improve2.mp4",
+        "/word/i/imp/improve-big.mp4"
+    ],
+    "jump": [
+        "/word/j/jum/jump.mp4",
+        "/word/j/jum/jump2.mp4",
+        "/word/j/jum/jump-start.mp4",
+        "/word/j/jum/jump-conclusion.mp4",
+        "/word/j/jum/jump-anim2022.mp4"
+    ],
+    "kill": [
+        "/word/k/kil/kill.mp4",
+        "/word/k/kil/kill-fs.mp4"
+    ],
+    "law": [
+        "/word/l/law/law.mp4"
+    ],
+    "match": [
+        "/word/m/mat/match.mp4",
+        "/word/m/mat/match-sports.mp4"
+    ],
+    "meat": [
+        "/word/m/mea/meat.mp4"
+    ],
+    "milk": [
+        "/word/m/mil/milk.mp4",
+        "/word/f/for/formula-milk.mp4",
+        "/word/m/mil/milk-kidsign.mp4"
+    ],
+    "money": [
+        "/word/m/mon/money.mp4"
+    ],
+    "month": [
+        "/word/m/mon/month.mp4",
+        "/word/t/two/two-months2.mp4",
+        "/word/t/two/two-months.mp4",
+        "/word/n/nin/nine-months.mp4"
+    ],
+    "moon": [
+        "/word/m/moo/moon.mp4",
+        "/word/m/moo/moon2.mp4"
+    ],
+    "move": [
+        "/word/m/mov/move.mp4",
+        "/word/m/mov/move-plu.mp4",
+        "/word/m/mov/move-arrange.mp4"
+    ],
+    "near": [
+        "/word/n/nea/near2.mp4",
+        "/word/n/nea/near.mp4",
+        "/word/n/nea/near-very.mp4"
+    ],
+    "nephew": [
+        "/word/n/nep/nephew.mp4"
+    ],
+    "nice": [
+        "/word/n/nic/nice.mp4"
+    ],
+    "niece": [
+        "/word/n/nie/niece.mp4"
+    ],
+    "noon": [
+        "/word/n/noo/noon.mp4"
+    ],
+    "north": [
+        "/word/n/nor/north.mp4"
+    ],
+    "not": [
+        "/word/n/not/not.mp4"
+    ],
+    "nurse": [
+        "/word/n/nur/nurse.mp4"
+    ],
+    "off": [
+        "/word/o/off/off.mp4",
+        "/word/o/off/off-fs.mp4"
+    ],
+    "ok": [
+        "/word/o/oka/ok.mp4"
+    ],
+    "patient": [
+        "/word/p/pat/patient.mp4",
+        "/word/p/pat/patient-healthcare.mp4"
+    ],
+    "pay": [
+        "/word/p/pay/pay.mp4",
+        "/word/p/pay/pay-treat.mp4"
+    ],
+    "perspective": [
+        "/word/p/per/perspective.mp4",
+        "/word/p/per/perspective-art.mp4"
+    ],
+    "potato": [
+        "/word/p/pot/potato.mp4"
+    ],
+    "sad": [
+        "/word/s/sad/sad.mp4"
+    ],
+    "save": [
+        "/word/s/sav/save-rescue.mp4",
+        "/word/s/sav/save-thing.mp4",
+        "/word/s/sav/save-thing2.mp4",
+        "/word/s/sav/save-up.mp4",
+        "/word/s/sav/save-money.mp4"
+    ],
+    "scissors": [
+        "/word/s/sci/scissors.mp4"
+    ],
+    "secret": [
+        "/word/s/sec/secret.mp4",
+        "/word/s/sec/secret-confidential.mp4"
+    ],
+    "shop": [
+        "/word/s/sho/shop.mp4"
+    ],
+    "silly": [
+        "/word/s/sil/silly.mp4"
+    ],
+    "sister": [
+        "/word/s/sis/sister.mp4",
+        "/word/b/bio/biological-sister.mp4"
+    ],
+    "sleep": [
+        "/word/s/sle/sleep.mp4"
+    ],
+    "sorry": [
+        "/word/s/sor/sorry.mp4"
+    ],
+    "straight": [
+        "/word/s/str/straight-blunt.mp4",
+        "/word/s/str/straight-line.mp4",
+        "/word/g/go/go-straight.mp4",
+        "/word/s/str/straight-go2.mp4",
+        "/word/s/str/straight-go.mp4",
+        "/word/s/str/straight-away.mp4"
+    ],
+    "sweet": [
+        "/word/s/swe/sweet.mp4",
+        "/word/s/swe/sweet2.mp4"
+    ],
+    "temperature": [
+        "/word/t/tem/temperature.mp4"
+    ],
+    "tent": [
+        "/word/t/ten/tent.mp4"
+    ],
+    "thank you": [
+        "/word/t/tha/thankyou-adavis.mp4",
+        "/word/t/tha/thank.mp4",
+        "/word/t/tha/thanks.mp4",
+        "/word/t/tha/thank2.mp4"
+    ],
+    "think": [
+        "/word/t/thi/think.mp4"
+    ],
+    "throw": [
+        "/word/t/thr/throw.mp4",
+        "/word/t/thr/throw-away.mp4",
+        "/word/t/thr/throw-frisbee.mp4"
+    ],
+    "today": [
+        "/word/t/tod/today.mp4",
+        "/word/t/tod/today2.mp4"
+    ],
+    "traffic": [
+        "/word/t/tra/traffic.mp4"
+    ],
+    "understand": [
+        "/word/u/und/understand.mp4",
+        "/word/u/und/understand-clear.mp4",
+        "/word/u/und/understanding.mp4"
+    ],
+    "use": [
+        "/word/u/use/use.mp4",
+        "/word/u/use/use-1913.mp4",
+        "/word/u/use/use-to.mp4",
+        "/word/u/use/usedto-past.mp4",
+        "/word/u/use/usedto-before.mp4"
+    ],
+    "voice": [
+        "/word/v/voi/voice-express.mp4",
+        "/word/v/voi/voice2.mp4",
+        "/word/v/voi/voice.mp4"
+    ],
+    "vomit": [
+        "/word/v/vom/vomit.mp4"
+    ],
+    "vote": [
+        "/word/v/vot/vote.mp4",
+        "/word/v/vot/vote2.mp4"
+    ],
+    "west": [
+        "/word/w/wes/west.mp4"
+    ],
+    "wet": [
+        "/word/w/wet/wet.mp4"
+    ],
+    "when": [
+        "/word/w/whe/when.mp4",
+        "/word/w/whe/when-g.mp4"
+    ],
+    "which": [
+        "/word/w/whi/which.mp4"
+    ],
+    "win": [
+        "/word/w/win/win.mp4",
+        "/word/w/win/win-t.mp4",
+        "/word/w/win/win-t2.mp4"
+    ],
+    "word": [
+        "/word/w/wor/word.mp4",
+        "/word/w/wor/word-cl.mp4",
+        "/word/w/wor/word-plu.mp4",
+        "/word/w/wor/word-big.mp4"
+    ],
+    "afternoon": [
+        "/word/a/aft/afternoon.mp4",
+        "/word/a/aft/afternoon-all.mp4",
+        "/word/e/eve/every-afternoon.mp4"
+    ],
+    "age": [
+        "/word/a/age/age.mp4",
+        "/word/n/nin/nine-years-old.mp4"
+    ],
+    "alone": [
+        "/word/a/alo/alone.mp4",
+        "/word/l/lea/leave-alone.mp4",
+        "/word/l/lea/leave-me-alone.mp4"
+    ],
+    "avoid": [
+        "/word/a/avo/avoid.mp4"
+    ],
+    "balloon": [
+        "/word/b/bal/balloon.mp4"
+    ],
+    "basement": [
+        "/word/b/bas/basement.mp4"
+    ],
+    "bear": [
+        "/word/b/bea/bear-putupwith.mp4",
+        "/word/b/bea/bear-carry.mp4",
+        "/word/b/bea/bear-birth.mp4",
+        "/word/b/bea/bear-support.mp4"
+    ],
+    "believe": [
+        "/word/b/bel/believe.mp4"
+    ],
+    "better": [
+        "/word/b/bet/better.mp4"
+    ],
+    "blind": [
+        "/word/b/bli/blind.mp4"
+    ],
+    "bored": [
+        "/word/b/bor/boring.mp4"
+    ],
+    "bowl": [
+        "/word/b/bow/bowl.mp4"
+    ],
+    "box": [
+        "/word/b/box/box.mp4"
+    ],
+    "bracelet": [
+        "/word/b/bra/bracelet.mp4"
+    ],
+    "bread": [
+        "/word/b/bre/bread.mp4"
+    ],
+    "cafeteria": [
+        "/word/c/caf/cafeteria.mp4"
+    ],
+    "car": [
+        "/word/c/car/car2.mp4",
+        "/word/c/car/car-fs.mp4",
+        "/word/c/car/car.mp4"
+    ],
+    "chicken": [
+        "/word/c/chi/chicken.mp4"
+    ],
+    "child": [
+        "/word/c/chi/child.mp4",
+        "/word/c/chi/children.mp4"
+    ],
+    "choose": [
+        "/word/c/cho/choose.mp4",
+        "/word/c/cho/choose-you.mp4",
+        "/word/c/cho/choose-you2.mp4"
+    ],
+    "church": [
+        "/word/c/chu/church.mp4"
+    ],
+    "cookie": [
+        "/word/c/coo/cookie.mp4"
+    ],
+    "cup": [
+        "/word/c/cup/cup.mp4"
+    ],
+    "cut": [
+        "/word/c/cut/cut-incise.mp4",
+        "/word/c/cut/cut-wound.mp4",
+        "/word/c/cut/cut-slices.mp4",
+        "/word/c/cut/cut-scissors.mp4",
+        "/word/c/cut/cut-hair.mp4",
+        "/word/c/cut/cut-nails.mp4"
+    ],
+    "decorate": [
+        "/word/d/dec/decorate.mp4",
+        "/word/d/dec/decorate2.mp4"
+    ],
+    "deep": [
+        "/word/d/dee/deep.mp4"
+    ],
+    "deer": [
+        "/word/d/dee/deer.mp4",
+        "/word/d/dee/deer2.mp4"
+    ],
+    "dentist": [
+        "/word/d/den/dentist.mp4"
+    ],
+    "dirty": [
+        "/word/d/dir/dirty.mp4",
+        "/word/u/unc/unclean.mp4",
+        "/word/u/unc/unclean-dirty.mp4"
+    ],
+    "dive": [
+        "/word/d/div/dive.mp4"
+    ],
+    "down": [
+        "/word/d/dow/down.mp4"
+    ],
+    "dry": [
+        "/word/d/dry/dry.mp4"
+    ],
+    "ear": [
+        "/word/e/ear/ear.mp4",
+        "/word/e/ear/ear-cat.mp4",
+        "/word/e/ear/ear-rabbit.mp4"
+    ],
+    "earn": [
+        "/word/e/ear/earn.mp4"
+    ],
+    "earring": [
+        "/word/e/ear/earring.mp4",
+        "/word/e/ear/earrings.mp4",
+        "/word/e/ear/earrings-stud.mp4",
+        "/word/e/ear/eardrop-earrings.mp4"
+    ],
+    "elephant": [
+        "/word/e/ele/elephant.mp4",
+        "/word/e/ele/elephant-age2.mp4"
+    ],
+    "escape": [
+        "/word/e/esc/escape.mp4"
+    ],
+    "expensive": [
+        "/word/e/exp/expensive.mp4"
+    ],
+    "explain": [
+        "/word/e/exp/explain.mp4"
+    ],
+    "fast": [
+        "/word/f/fas/fast-quick.mp4",
+        "/word/f/fas/fast-very-marcusbryant.mp4",
+        "/word/f/fas/fast-ca.mp4"
+    ],
+    "fight": [
+        "/word/f/fig/fight-hand.mp4",
+        "/word/f/fig/fight.mp4",
+        "/word/f/fig/fight-argue.mp4"
+    ],
+    "find": [
+        "/word/f/fin/find.mp4"
+    ],
+    "fishing": [
+        "/word/f/fis/fishing.mp4"
+    ],
+    "floor": [
+        "/word/f/flo/floor.mp4"
+    ],
+    "fly": [
+        "/word/f/fly/fly-plane2.mp4",
+        "/word/f/fly/fly-animal.mp4",
+        "/word/f/fly/fly-fs.mp4",
+        "/word/f/fly/fly-frequent.mp4",
+        "/word/f/fly/fly-pathline.mp4"
+    ],
+    "follow": [
+        "/word/f/fol/follow.mp4"
+    ],
+    "from": [
+        "/word/f/fro/from.mp4"
+    ],
+    "get": [
+        "/word/g/get/get.mp4"
+    ],
+    "happen": [
+        "/word/h/hap/happen.mp4"
+    ],
+    "hello": [
+        "/word/h/hel/hello.mp4",
+        "/word/h/hel/hello-everyone.mp4",
+        "/word/h/hel/hello-plu.mp4"
+    ],
+    "hit": [
+        "/word/h/hit/hit.mp4"
+    ],
+    "hospital": [
+        "/word/h/hos/hospital.mp4",
+        "/word/h/hos/hospital2.mp4"
+    ],
+    "idea": [
+        "/word/i/ide/idea.mp4",
+        "/word/i/ide/ideas.mp4"
+    ],
+    "important": [
+        "/word/i/imp/important.mp4"
+    ],
+    "investigate": [
+        "/word/i/inv/investigate.mp4"
+    ],
+    "jealous": [
+        "/word/j/jea/jealous.mp4",
+        "/word/j/jea/jealous2.mp4",
+        "/word/j/jea/jealous-1913.mp4"
+    ],
+    "king": [
+        "/word/k/kin/king.mp4"
+    ],
+    "kitchen": [
+        "/word/k/kit/kitchen.mp4",
+        "/word/k/kit/kitchen-k.mp4"
+    ],
+    "large": [
+        "/word/l/lar/large.mp4",
+        "/word/l/lar/large-arc.mp4",
+        "/word/l/lar/large-height.mp4"
+    ],
+    "last year": [
+        "/word/l/las/last-year.mp4",
+        "/word/y/yea/year-ago.mp4",
+        "/word/y/yea/year-ago-two.mp4"
+    ],
+    "lemon": [
+        "/word/l/lem/lemon-fruit.mp4",
+        "/word/l/lem/lemon-fruit2.mp4"
+    ],
+    "lettuce": [
+        "/word/l/let/lettuce.mp4"
+    ],
+    "marry": [
+        "/word/m/mar/marry.mp4"
+    ],
+    "meeting": [
+        "/word/m/mee/meeting.mp4"
+    ],
+    "minute": [
+        "/word/m/min/minute.mp4"
+    ],
+    "mirror": [
+        "/word/m/mir/mirror.mp4"
+    ],
+    "miss": [
+        "/word/m/mis/miss-fail.mp4"
+    ],
+    "monkey": [
+        "/word/m/mon/monkey.mp4"
+    ],
+    "morning": [
+        "/word/m/mor/morning.mp4",
+        "/word/m/mor/mornings.mp4",
+        "/word/m/mor/morning-all.mp4",
+        "/word/g/goo/good-morning.mp4",
+        "/word/m/mor/morning-good2.mp4"
+    ],
+    "motorcycle": [
+        "/word/m/mot/motorcycle.mp4"
+    ],
+    "necklace": [
+        "/word/n/nec/necklace.mp4",
+        "/word/n/nec/necklace2.mp4"
+    ],
+    "never": [
+        "/word/n/nev/never.mp4",
+        "/word/n/nev/never.mp4"
+    ],
+    "newspaper": [
+        "/word/n/new/newspaper.mp4"
+    ],
+    "night": [
+        "/word/n/nig/night.mp4",
+        "/word/a/all/all-night.mp4"
+    ],
+    "onion": [
+        "/word/o/oni/onion.mp4"
+    ],
+    "people": [
+        "/word/p/peo/people.mp4",
+        "/word/p/peo/people-isl.mp4"
+    ],
+    "pepper": [
+        "/word/c/chi/chili.mp4"
+    ],
+    "phone": [
+        "/word/p/pho/phone.mp4",
+        "/word/p/pho/phone-you.mp4"
+    ],
+    "picture": [
+        "/word/p/pic/picture.mp4",
+        "/word/t/tak/take-picture.mp4"
+    ],
+    "plus": [
+        "/word/p/plu/plus.mp4"
+    ],
+    "point": [
+        "/word/p/poi/point-score.mp4",
+        "/word/p/poi/point-purpose.mp4"
+    ],
+    "poor": [
+        "/word/p/poo/poor-poverty.mp4",
+        "/word/p/poo/poor-pity.mp4"
+    ],
+    "possible": [
+        "/word/p/pos/possible.mp4"
+    ],
+    "quiet": [
+        "/word/q/qui/quiet.mp4"
+    ],
+    "rain": [
+        "/word/r/rai/rain.mp4"
+    ],
+    "ready": [
+        "/word/r/rea/ready-set-go.mp4"
+    ],
+    "research": [
+        "/word/r/res/research.mp4"
+    ],
+    "scared": [
+        "/word/s/sca/scared.mp4"
+    ],
+    "science": [
+        "/word/s/sci/science.mp4"
+    ],
+    "score": [
+        "/word/s/sco/score-goal.mp4",
+        "/word/s/sco/score-point.mp4"
+    ],
+    "sentence": [
+        "/word/s/sen/sentence.mp4",
+        "/word/s/sen/sentence2.mp4"
+    ],
+    "shape": [
+        "/word/s/sha/shape.mp4",
+        "/word/s/sha/shape2.mp4"
+    ],
+    "sit": [
+        "/word/s/sit/sit.mp4",
+        "/word/s/sit/sit-down.mp4",
+        "/word/s/sit/sitout.mp4"
+    ],
+    "slow": [
+        "/word/s/slo/slow.mp4"
+    ],
+    "snake": [
+        "/word/s/sna/snake.mp4",
+        "/kid/asl/s/snake-timelapse.mp4"
+    ],
+    "soda": [
+        "/word/s/sod/soda.mp4",
+        "/word/s/sod/soda-fs.mp4"
+    ],
+    "speech": [
+        "/word/s/spe/speech-express.mp4",
+        "/word/s/spe/speech-lecture.mp4",
+        "/word/s/spe/speech-oral.mp4"
+    ],
+    "star": [
+        "/word/s/sta/star.mp4",
+        "/word/s/sta/stars.mp4",
+        "/pix/o/owlmoonstar.mov"
+    ],
+    "struggle": [
+        "/word/s/str/struggle.mp4"
+    ],
+    "stubborn": [
+        "/word/s/stu/stubborn.mp4"
+    ],
+    "sunset": [
+        "/word/s/sun/sunset.mp4"
+    ],
+    "surgery": [
+        "/word/s/sur/surgery.mp4",
+        "/word/s/sur/surgery2.mp4"
+    ],
+    "there": [
+        "/word/t/the/there-l.mp4",
+        "/word/t/the/there-r.mp4"
+    ],
+    "tiger": [
+        "/word/t/tig/tiger.mp4"
+    ],
+    "toilet": [
+        "/word/t/toi/toilet.mp4"
+    ],
+    "tomorrow": [
+        "/word/t/tom/tomorrow.mp4"
+    ],
+    "town": [
+        "/word/t/tow/town.mp4"
+    ],
+    "transfer": [
+        "/word/t/tra/transfer.mp4",
+        "/word/t/tec/technology-transfer.mp4"
+    ],
+    "tree": [
+        "/word/t/tre/tree.mp4",
+        "/word/t/tre/tree2.mp4"
+    ],
+    "truck": [
+        "/word/t/tru/truck-fs.mp4",
+        "/word/t/tru/truck.mp4"
+    ],
+    "uncle": [
+        "/word/u/unc/uncle.mp4"
+    ],
+    "vacation": [
+        "/word/v/vac/vacation.mp4"
+    ],
+    "weekend": [
+        "/word/w/wee/weekend.mp4"
+    ],
+    "accept": [
+        "/word/a/acc/accept.mp4"
+    ],
+    "adult": [
+        "/word/a/adu/adult.mp4",
+        "/word/a/adu/adult2.mp4",
+        "/word/a/adu/adults.mp4"
+    ],
+    "after": [
+        "/word/a/aft/after.mp4"
+    ],
+    "ago": [
+        "/word/a/ago/ago.mp4",
+        "/word/l/lon/long-ago2.mp4",
+        "/word/l/lon/long-ago.mp4"
+    ],
+    "allow": [
+        "/word/a/all/allow.mp4"
+    ],
+    "angel": [
+        "/word/a/ang/angel.mp4",
+        "/word/a/ang/angel-j1.mp4"
+    ],
+    "answer": [
+        "/word/a/ans/answer.mp4"
+    ],
+    "any": [
+        "/word/a/any/any.mp4"
+    ],
+    "area": [
+        "/word/a/are/area.mp4"
+    ],
+    "art": [
+        "/word/a/art/art-fs.mp4",
+        "/word/a/art/art.mp4"
+    ],
+    "aunt": [
+        "/word/a/aun/aunt.mp4"
+    ],
+    "awful": [
+        "/word/a/awf/awful.mp4"
+    ],
+    "awkward": [
+        "/word/a/awk/awkward.mp4"
+    ],
+    "bacon": [
+        "/word/b/bac/bacon.mp4"
+    ],
+    "bark": [
+        "/word/b/bar/bark.mp4",
+        "/word/b/bar/bark-tree.mp4"
+    ],
+    "bedroom": [
+        "/word/b/bed/bedroom.mp4"
+    ],
+    "beer": [
+        "/word/b/bee/beer.mp4",
+        "/word/b/bee/beer-edtugg.mp4"
+    ],
+    "belt": [
+        "/word/b/bel/belt-waist.mp4"
+    ],
+    "big": [
+        "/word/b/big/big.mp4",
+        "/word/b/big/big2.mp4",
+        "/word/b/big/big-grownup.mp4"
+    ],
+    "bitter": [
+        "/word/b/bit/bitter.mp4",
+        "/word/b/bit/bitter-resentful.mp4"
+    ],
+    "both": [
+        "/word/b/bot/both.mp4",
+        "/word/b/bot/both-hirme.mp4",
+        "/word/b/bot/both-youme.mp4"
+    ],
+    "cake": [
+        "/word/c/cak/cake-fs.mp4",
+        "/word/c/cak/cake2.mp4",
+        "/word/c/cak/cake-mcgregor1912.mp4"
+    ],
+    "carrot": [
+        "/word/c/car/carrot.mp4"
+    ],
+    "cause": [
+        "/word/c/cau/cause.mp4"
+    ],
+    "challenge": [
+        "/word/c/cha/challenge.mp4"
+    ],
+    "cheap": [
+        "/word/c/che/cheap.mp4",
+        "/word/c/che/cheaper.mp4",
+        "/word/i/ine/inexpensive.mp4"
+    ],
+    "chocolate": [
+        "/word/c/cho/chocolate.mp4"
+    ],
+    "clean": [
+        "/word/c/cle/clean.mp4",
+        "/word/c/cle/clean-up.mp4"
+    ],
+    "cloud": [
+        "/word/c/clo/cloud2.mp4",
+        "/word/c/clo/cloud.mp4"
+    ],
+    "compare": [
+        "/word/c/com/compare.mp4"
+    ],
+    "complex": [
+        "/word/c/com/complex.mp4"
+    ],
+    "contact": [
+        "/word/c/cont/contact.mp4"
+    ],
+    "continue": [
+        "/word/c/cont/continue2.mp4",
+        "/word/c/cont/continue.mp4"
+    ],
+    "corner": [
+        "/word/c/cor/corner.mp4",
+        "/word/c/cor/corner2.mp4"
+    ],
+    "correct": [
+        "/word/c/cor/correct.mp4"
+    ],
+    "curse": [
+        "/word/c/cur/curse-fs.mp4",
+        "/word/c/cur/curse-profane.mp4"
+    ],
+    "dead": [
+        "/word/d/dea/dead.mp4",
+        "/word/t/til/till-death-do-us-part2.mp4",
+        "/word/t/til/till-death-do-us-part.mp4"
+    ],
+    "demand": [
+        "/word/d/dem/demand.mp4"
+    ],
+    "depend": [
+        "/word/d/dep/depend.mp4",
+        "/word/d/dep/depend2.mp4"
+    ],
+    "desert": [
+        "/word/d/des/desert.mp4",
+        "/word/d/des/desert-empty.mp4"
+    ],
+    "develop": [
+        "/word/d/dev/develop.mp4"
+    ],
+    "dictionary": [
+        "/word/d/dic/dictionary.mp4",
+        "/word/d/dic/dictionary2.mp4"
+    ],
+    "duty": [
+        "/word/d/dut/duty.mp4"
+    ],
+    "elevator": [
+        "/word/e/ele/elevator-ca.mp4",
+        "/word/e/ele/elevator-us.mp4"
+    ],
+    "email": [
+        "/word/e/ema/email-verb.mp4",
+        "/word/e/ema/email.mp4",
+        "/word/e/ema/email2.mp4",
+        "/word/e/ema/email-noun.mp4"
+    ],
+    "end": [
+        "/word/e/end/end.mp4",
+        "/word/e/end/end-side.mp4"
+    ],
+    "enter": [
+        "/word/e/ent/enter.mp4"
+    ],
+    "event": [
+        "/word/e/eve/event.mp4",
+        "/word/e/eve/events-1910.mp4"
+    ],
+    "exchange": [
+        "/word/e/exc/exchange.mp4"
+    ],
+    "experience": [
+        "/word/e/exp/experience.mp4"
+    ],
+    "face": [
+        "/word/f/fac/face.mp4",
+        "/word/f/fac/face-to.mp4",
+        "/word/f/fac/face-2h.mp4"
+    ],
+    "fail": [
+        "/word/f/fai/fail.mp4"
+    ],
+    "feed": [
+        "/word/f/fee/feed2.mp4",
+        "/word/f/fee/feed3.mp4",
+        "/word/f/fee/feed.mp4"
+    ],
+    "few": [
+        "/word/f/few/few.mp4",
+        "/word/f/few/few-little.mp4",
+        "/word/f/few/few-rosaleetimm.mp4"
+    ],
+    "flag": [
+        "/word/f/fla/flag.mp4"
+    ],
+    "food": [
+        "/word/f/foo/food.mp4",
+        "/word/f/fas/fast-food.mp4",
+        "/word/j/jun/junk-food.mp4",
+        "/word/h/hea/health-food.mp4"
+    ],
+    "for": [
+        "/word/f/for/for.mp4",
+        "/word/f/for/for-for.mp4"
+    ],
+    "form": [
+        "/word/f/for/form-art.mp4",
+        "/word/f/for/form-apply.mp4"
+    ],
+    "freeze": [
+        "/word/f/fre/freeze.mp4",
+        "/word/f/fre/freeze2.mp4"
+    ],
+    "front": [
+        "/word/f/fro/front.mp4"
+    ],
+    "giraffe": [
+        "/word/g/gir/giraffe.mp4"
+    ],
+    "god": [
+        "/word/g/god/god.mp4",
+        "/word/g/god/goddess.mp4"
+    ],
+    "grammar": [
+        "/word/g/gra/grammar.mp4",
+        "/word/w/wor/word-order.mp4",
+        "/word/w/wor/word-order-jacobowitz.mp4"
+    ],
+    "grandfather": [
+        "/word/g/gra/grandfather.mp4",
+        "/kid/asl/g/grandfather-langacq.mp4"
+    ],
+    "great": [
+        "/word/g/gre/great-size.mp4",
+        "/word/g/gre/great-good.mp4"
+    ],
+    "guess": [
+        "/word/g/gue/guess.mp4"
+    ],
+    "guitar": [
+        "/word/g/gui/guitar2.mp4",
+        "/word/g/gui/guitar.mp4",
+        "/word/e/ele/electric-guitar.mp4"
+    ],
+    "hammer": [
+        "/word/h/ham/hammer.mp4"
+    ],
+    "helicopter": [
+        "/word/h/hel/helicopter.mp4",
+        "/word/h/hel/helicopter2.mp4",
+        "/word/h/hel/helicopter-sen.mp4"
+    ],
+    "high": [
+        "/word/h/hig/high.mp4",
+        "/word/h/hig/high-state.mp4",
+        "/word/h/hig/high-drug.mp4"
+    ],
+    "history": [
+        "/word/h/his/history.mp4",
+        "/word/h/his/historical.mp4",
+        "/word/h/his/historic.mp4"
+    ],
+    "hungry": [
+        "/word/h/hun/hungry.mp4",
+        "/word/h/hun/hungry-roar.mp4"
+    ],
+    "hurt": [
+        "/word/h/hur/hurt.mp4",
+        "/word/h/hur/hurt2.mp4",
+        "/word/h/hur/hurt-fs.mp4"
+    ],
+    "introduce": [
+        "/word/i/int/introduce.mp4"
+    ],
+    "invest": [
+        "/word/i/inv/invest.mp4",
+        "/word/i/inv/invest2.mp4",
+        "/word/i/inv/invest-stock.mp4"
+    ],
+    "lazy": [
+        "/word/l/laz/lazy.mp4"
+    ],
+    "library": [
+        "/word/l/lib/library.mp4"
+    ],
+    "lobster": [
+        "/word/l/lob/lobster2.mp4",
+        "/word/l/lob/lobster.mp4"
+    ],
+    "love": [
+        "/word/l/lov/love.mp4",
+        "/word/l/lov/love-it.mp4",
+        "/word/f/fal/fall-in-love.mp4",
+        "/word/f/fal/fall-in-love2.mp4",
+        "/word/l/lov/love-first-sight.mp4",
+        "/word/l/lov/love-ya.mp4"
+    ],
+    "lucky": [
+        "/word/l/luc/lucky.mp4",
+        "/word/l/luc/luck-fs.mp4",
+        "/word/g/goo/good-luck-fs.mp4",
+        "/word/g/goo/good-luck-sarcasm.mp4",
+        "/word/h/hop/hope-fingerscrossed.mp4"
+    ],
+    "magazine": [
+        "/word/m/mag/magazine.mp4"
+    ],
+    "measure": [
+        "/word/m/mea/measure.mp4",
+        "/word/m/mea/measure2.mp4"
+    ],
+    "microwave": [
+        "/word/m/mic/microwave.mp4"
+    ],
+    "my": [
+        "/word/m/my/my.mp4"
+    ],
+    "neighbor": [
+        "/word/n/nei/neighbor.mp4"
+    ],
+    "number": [
+        "/word/n/num/number.mp4"
+    ],
+    "one": [
+        "/word/o/one/one-cardinal.mp4",
+        "/word/o/one/one.mp4"
+    ],
+    "outside": [
+        "/word/o/out/outside.mp4",
+        "/word/o/out/outside3.mp4"
+    ],
+    "peach": [
+        "/word/p/pea/peach.mp4"
+    ],
+    "pig": [
+        "/word/p/pig/pig-animal.mp4"
+    ],
+    "polite": [
+        "/word/p/pol/polite.mp4"
+    ],
+    "postpone": [
+        "/word/p/pos/postpone.mp4"
+    ],
+    "power": [
+        "/word/p/pow/power.mp4",
+        "/word/p/pow/power-strong.mp4",
+        "/word/p/pow/power-strength.mp4"
+    ],
+    "present": [
+        "/word/p/pre/present-time.mp4"
+    ],
+    "price": [
+        "/word/p/pri/price.mp4"
+    ],
+    "prison": [
+        "/word/p/pri/prison.mp4"
+    ],
+    "push": [
+        "/word/p/pus/push.mp4"
+    ],
+    "raccoon": [
+        "/word/r/rac/raccoon.mp4"
+    ],
+    "really": [
+        "/word/r/rea/really.mp4",
+        "/word/r/rea/really-real.mp4"
+    ],
+    "reason": [
+        "/word/r/rea/reason.mp4"
+    ],
+    "religion": [
+        "/word/r/rel/religion.mp4"
+    ],
+    "respect": [
+        "/word/r/res/respect.mp4"
+    ],
+    "rule": [
+        "/word/r/rul/rule.mp4",
+        "/word/r/rul/rule-reign.mp4"
+    ],
+    "salad": [
+        "/word/s/sal/salad2.mp4",
+        "/word/s/sal/salad.mp4"
+    ],
+    "schedule": [
+        "/word/s/sch/schedule.mp4"
+    ],
+    "sell": [
+        "/word/s/sel/sell.mp4",
+        "/word/s/sel/sell-plu.mp4"
+    ],
+    "serious": [
+        "/word/s/ser/serious.mp4"
+    ],
+    "shower": [
+        "/word/s/sho/shower-bath.mp4",
+        "/word/s/sho/shower-rain.mp4",
+        "/word/s/sho/shower-party.mp4"
+    ],
+    "single": [
+        "/word/s/sin/single.mp4",
+        "/word/s/sin/single2.mp4"
+    ],
+    "smart": [
+        "/word/s/sma/smart.mp4"
+    ],
+    "smile": [
+        "/word/s/smi/smile.mp4",
+        "/word/s/smi/smile-big.mp4"
+    ],
+    "soft": [
+        "/word/s/sof/soft.mp4"
+    ],
+    "sound": [
+        "/word/s/sou/sound.mp4",
+        "/word/s/sou/sound-acoustic.mp4",
+        "/word/s/sou/sound-one.mp4",
+        "/word/s/sou/sound-one2.mp4"
+    ],
+    "soup": [
+        "/word/s/sou/soup.mp4",
+        "/word/a/alp/alphabet-soup.mp4"
+    ],
+    "spray": [
+        "/word/s/spr/spray.mp4",
+        "/word/s/spr/spray-plu.mp4"
+    ],
+    "squirrel": [
+        "/word/s/squ/squirrel.mp4"
+    ],
+    "stomach": [
+        "/word/s/sto/stomach.mp4"
+    ],
+    "story": [
+        "/word/s/sto/story2.mp4",
+        "/word/s/sto/story.mp4",
+        "/word/s/sho/short-story.mp4"
+    ],
+    "strange": [
+        "/word/s/str/strange.mp4"
+    ],
+    "street": [
+        "/word/s/str/street.mp4",
+        "/word/s/str/street-st.mp4",
+        "/word/b/bac/backstreet.mp4",
+        "/word/b/bol/bollard.mp4",
+        "/word/b/bol/bollard2.mp4",
+        "/word/m/man/manhole.mp4"
+    ],
+    "stress": [
+        "/word/s/str/stress.mp4"
+    ],
+    "strict": [
+        "/word/s/str/strict.mp4"
+    ],
+    "strong": [
+        "/word/s/str/strong2.mp4",
+        "/word/s/str/strong.mp4",
+        "/word/s/str/strong-freeney.mp4"
+    ],
+    "sugar": [
+        "/word/s/sug/sugar-po.mp4",
+        "/word/s/sug/sugar.mp4"
+    ],
+    "summer": [
+        "/word/s/sum/summer.mp4"
+    ],
+    "suspect": [
+        "/word/s/sus/suspect.mp4"
+    ],
+    "sweetheart": [
+        "/word/s/swe/sweetheart.mp4"
+    ],
+    "tease": [
+        "/word/t/tea/tease.mp4"
+    ],
+    "that": [
+        "/word/t/tha/that-inf.mp4",
+        "/word/t/tha/that.mp4",
+        "/word/t/tha/that-here.mp4",
+        "/word/t/tha/that-there.mp4",
+        "/word/t/tha/that-one.mp4"
+    ],
+    "themselves": [
+        "/word/t/the/themselves.mp4",
+        "/word/t/the/themselves2.mp4"
+    ],
+    "therapy": [
+        "/word/t/the/therapy.mp4"
+    ],
+    "thirsty": [
+        "/word/t/thi/thirsty.mp4"
+    ],
+    "ticket": [
+        "/word/t/tic/ticket.mp4",
+        "/word/t/tic/ticket-give.mp4"
+    ],
+    "top": [
+        "/word/t/top/top.mp4",
+        "/word/t/top/top-best.mp4"
+    ],
+    "turkey": [
+        "/word/t/tur/turkey.mp4"
+    ],
+    "university": [
+        "/word/u/uni/university.mp4",
+        "/word/u/uni/university-u.mp4",
+        "/word/u/uni/university-var.mp4"
+    ],
+    "until": [
+        "/word/u/unt/until.mp4"
+    ],
+    "watch": [
+        "/word/w/wat/watch.mp4",
+        "/word/w/wat/watch-hir.mp4",
+        "/word/w/wat/watch-screen.mp4"
+    ],
+    "weak": [
+        "/word/w/wea/weak.mp4"
+    ],
+    "wedding": [
+        "/word/w/wed/wedding.mp4"
+    ],
+    "will": [
+        "/word/w/wil/will-fs.mp4"
+    ],
+    "wind": [
+        "/word/w/win/wind.mp4"
+    ],
+    "world": [
+        "/word/w/wor/world2.mp4",
+        "/word/w/wor/world.mp4"
+    ],
+    "worry": [
+        "/word/w/wor/worry.mp4",
+        "/word/w/wor/worry2.mp4"
+    ],
+    "wow": [
+        "/word/w/wow/wow.mp4",
+        "/word/w/wow/wow-fs.mp4"
+    ],
+    "young": [
+        "/word/y/you/young.mp4"
+    ],
+    "add": [
+        "/word/a/add/add.mp4",
+        "/word/a/add/add-up-to2.mp4"
+    ],
+    "airplane": [
+        "/word/a/air/airplane.mp4"
+    ],
+    "already": [
+        "/word/a/alr/already.mp4"
+    ],
+    "also": [
+        "/word/a/als/also.mp4"
+    ],
+    "analyze": [
+        "/word/a/ana/analyze.mp4"
+    ],
+    "and": [
+        "/word/a/and/and.mp4"
+    ],
+    "angry": [
+        "/word/a/ang/angry.mp4"
+    ],
+    "appear": [
+        "/word/a/app/appear-showup.mp4",
+        "/word/a/app/appearance.mp4"
+    ],
+    "arm": [
+        "/word/a/arm/arm.mp4",
+        "/word/a/arm/arm-in-arm.mp4"
+    ],
+    "army": [
+        "/word/a/arm/army.mp4"
+    ],
+    "arrest": [
+        "/word/a/arr/arrest.mp4",
+        "/word/a/arr/arrest-wrist.mp4"
+    ],
+    "ask": [
+        "/word/a/ask/ask.mp4",
+        "/word/a/ask/ask-hir-coq.mp4",
+        "/word/a/ask/ask-request.mp4",
+        "/word/a/ask/ask-me.mp4",
+        "/word/a/ask/ask-hirme.mp4",
+        "/word/a/ask/ask-out.mp4",
+        "/word/a/ask/ask-around.mp4",
+        "/word/a/ask/ask-away.mp4",
+        "/word/a/ask/ask-for-it.mp4"
+    ],
+    "attitude": [
+        "/word/a/att/attitude.mp4"
+    ],
+    "attract": [
+        "/word/a/att/attract-shahen.mp4",
+        "/word/a/att/attract-pull.mp4",
+        "/word/a/att/attract-pull2.mp4",
+        "/word/a/att/attract-physics.mp4"
+    ],
+    "bald": [
+        "/word/b/bal/bald.mp4"
+    ],
+    "barely": [
+        "/word/b/bar/barely.mp4"
+    ],
+    "baseball": [
+        "/word/b/bas/baseball.mp4"
+    ],
+    "beg": [
+        "/word/b/beg/beg.mp4",
+        "/word/b/beg/beg2.mp4"
+    ],
+    "benefit": [
+        "/word/b/ben/benefit.mp4"
+    ],
+    "bite": [
+        "/word/b/bit/bite-something.mp4",
+        "/word/b/bit/bite-insect.mp4"
+    ],
+    "blame": [
+        "/word/b/bla/blame.mp4"
+    ],
+    "boat": [
+        "/word/b/boa/boat.mp4"
+    ],
+    "body": [
+        "/word/b/bod/body.mp4"
+    ],
+    "borrow": [
+        "/word/b/bor/borrow.mp4"
+    ],
+    "boss": [
+        "/word/b/bos/boss2.mp4",
+        "/word/b/bos/boss.mp4"
+    ],
+    "bother": [
+        "/word/b/bot/bother.mp4"
+    ],
+    "bottle": [
+        "/word/b/bot/bottle.mp4"
+    ],
+    "bottom": [
+        "/word/b/bot/bottom.mp4"
+    ],
+    "brag": [
+        "/word/b/bra/brag.mp4"
+    ],
+    "build": [
+        "/word/b/bui/build.mp4"
+    ],
+    "bus": [
+        "/word/b/bus/bus.mp4",
+        "/word/b/bus/bus-fs.mp4"
+    ],
+    "butter": [
+        "/word/b/but/butter.mp4"
+    ],
+    "calm": [
+        "/word/c/cal/calm.mp4",
+        "/word/c/cal/calm-down.mp4"
+    ],
+    "cancel": [
+        "/word/c/can/cancel.mp4"
+    ],
+    "candle": [
+        "/word/c/can/candle.mp4"
+    ],
+    "choice": [
+        "/word/c/cho/choice.mp4"
+    ],
+    "comb": [
+        "/word/c/com/comb.mp4"
+    ],
+    "comfortable": [
+        "/word/c/com/comfortable.mp4"
+    ],
+    "conflict": [
+        "/word/c/conf/conflict.mp4",
+        "/word/p/per/personal-conflict.mp4",
+        "/word/c/conf/conflict-of-interest.mp4"
+    ],
+    "cover": [
+        "/word/c/cov/cover.mp4",
+        "/word/c/cov/covering.mp4"
+    ],
+    "deodorant": [
+        "/word/d/deodorant.mp4"
+    ],
+    "dessert": [
+        "/word/d/des/dessert.mp4",
+        "/word/d/des/dessert2.mp4"
+    ],
+    "destroy": [
+        "/word/d/des/destroy.mp4"
+    ],
+    "diamond": [
+        "/word/d/dia/diamond-gem.mp4"
+    ],
+    "dollar": [
+        "/word/d/dol/dollar-bill.mp4",
+        "/word/d/dol/dollar-gregeyben.mp4",
+        "/word/d/dol/dollar-1913.mp4",
+        "/word/o/one/one-dollar.mp4"
+    ],
+    "drawer": [
+        "/word/d/dra/drawer.mp4"
+    ],
+    "dream": [
+        "/word/d/dre/dream.mp4",
+        "/word/d/dre/dreams.mp4",
+        "/word/d/dre/dream-wish.mp4"
+    ],
+    "drunk": [
+        "/word/d/dru/drunk.mp4"
+    ],
+    "duck": [
+        "/word/d/duc/duck.mp4"
+    ],
+    "during": [
+        "/word/d/dur/during.mp4"
+    ],
+    "eagle": [
+        "/word/e/eag/eagle.mp4"
+    ],
+    "early": [
+        "/word/e/ear/early-us.mp4",
+        "/word/e/ear/early-ca.mp4",
+        "/word/e/ear/early-fs.mp4",
+        "/word/e/ear/early-back.mp4"
+    ],
+    "equal": [
+        "/word/e/equ/equal.mp4",
+        "/word/e/equ/equal-even.mp4",
+        "/word/e/equ/equal-to.mp4"
+    ],
+    "every": [
+        "/word/e/eve/every.mp4"
+    ],
+    "excited": [
+        "/word/e/exc/excited.mp4"
+    ],
+    "exercise": [
+        "/word/e/exe/exercise-workout.mp4"
+    ],
+    "experiment": [
+        "/word/e/exp/experiment.mp4",
+        "/word/e/exp/experiment-seetest.mp4"
+    ],
+    "expert": [
+        "/word/e/exp/expert.mp4"
+    ],
+    "fact": [
+        "/word/f/fac/fact.mp4",
+        "/word/f/fac/fact-plu.mp4",
+        "/word/f/fac/fact-fs.mp4"
+    ],
+    "fear": [
+        "/word/f/fea/fear.mp4"
+    ],
+    "feedback": [
+        "/word/f/fee/feedback.mp4",
+        "/word/f/fee/feedback2.mp4",
+        "/word/f/fee/feedback-loop.mp4",
+        "/word/f/fee/feedback-loop2.mp4"
+    ],
+    "fold": [
+        "/word/f/fol/fold.mp4"
+    ],
+    "forest": [
+        "/word/f/for/forest.mp4",
+        "/word/f/for/forest2.mp4",
+        "/word/r/rai/rain-forest.mp4"
+    ],
+    "frog": [
+        "/word/f/fro/frog.mp4"
+    ],
+    "funny": [
+        "/word/f/fun/funny.mp4",
+        "/word/f/fun/funny2.mp4"
+    ],
+    "garage": [
+        "/word/g/gar/garage.mp4",
+        "/word/g/gar/garage-detached.mp4"
+    ],
+    "goal": [
+        "/word/g/goa/goal-aim.mp4",
+        "/word/g/goa/goal-score.mp4",
+        "/word/g/goa/goal-hockey.mp4"
+    ],
+    "golf": [
+        "/word/g/gol/golf.mp4",
+        "/word/d/dri/driving-range-wheeler.mp4"
+    ],
+    "gone": [
+        "/word/g/gon/gone-left.mp4",
+        "/word/g/gon/gone-missing.mp4"
+    ],
+    "gossip": [
+        "/word/g/gos/gossip.mp4"
+    ],
+    "grandmother": [
+        "/word/g/gra/grandmother.mp4",
+        "/word/g/gra/grandmother-langacq.mp4"
+    ],
+    "group": [
+        "/word/g/gro/group.mp4",
+        "/word/g/gro/groups.mp4",
+        "/word/e/en-masse.mp4"
+    ],
+    "guilty": [
+        "/word/g/gui/guilt.mp4",
+        "/word/g/gui/guilty-legal.mp4",
+        "/word/g/gui/guilty-not.mp4"
+    ],
+    "hamburger": [
+        "/word/h/ham/hamburger.mp4"
+    ],
+    "hate": [
+        "/word/h/hat/hate.mp4"
+    ],
+    "head": [
+        "/word/h/hea/head.mp4"
+    ],
+    "horse": [
+        "/word/h/hor/horse.mp4",
+        "/word/h/hor/horse2.mp4"
+    ],
+    "ignore": [
+        "/word/i/ign/ignore.mp4"
+    ],
+    "impossible": [
+        "/word/i/imp/impossible.mp4"
+    ],
+    "in": [
+        "/word/i/in/in.mp4"
+    ],
+    "independent": [
+        "/word/i/ind/independent.mp4"
+    ],
+    "inside": [
+        "/word/i/ins/inside.mp4"
+    ],
+    "insurance": [
+        "/word/i/ins/insurance.mp4",
+        "/word/l/lif/life-insurance.mp4",
+        "/word/l/lif/life-insurance2.mp4",
+        "/word/m/med/medical-insurance.mp4"
+    ],
+    "island": [
+        "/word/i/isl/island.mp4",
+        "/word/a/arc/archipelago.mp4"
+    ],
+    "lecture": [
+        "/word/l/lec/lecture.mp4"
+    ],
+    "lesson": [
+        "/word/l/les/lesson.mp4",
+        "/word/l/lea/learn-lesson.mp4",
+        "/word/t/tea/teach-lesson.mp4"
+    ],
+    "limit": [
+        "/word/l/lim/limit.mp4"
+    ],
+    "lion": [
+        "/word/l/lio/lion.mp4",
+        "/kid/asl/l/lion-age1.mp4"
+    ],
+    "listen": [
+        "/word/l/lis/listen-eye.mp4",
+        "/word/l/lis/listen.mp4"
+    ],
+    "march": [
+        "/word/m/mar/march-parade.mp4"
+    ],
+    "maybe": [
+        "/word/m/may/maybe.mp4"
+    ],
+    "mechanic": [
+        "/word/m/mec/mechanic.mp4"
+    ],
+    "mouse": [
+        "/word/m/mou/mouse.mp4",
+        "/kid/asl/m/mouse-timelapse.mp4",
+        "/kid/asl/m/mouse.mp4"
+    ],
+    "much": [
+        "/word/m/muc/much.mp4"
+    ],
+    "muscle": [
+        "/word/m/mus/muscle.mp4"
+    ],
+    "museum": [
+        "/word/m/mus/museum.mp4"
+    ],
+    "must": [
+        "/word/m/mus/must.mp4",
+        "/word/m/mus/must5.mp4",
+        "/word/m/mus/must-bryant.mp4"
+    ],
+    "negative": [
+        "/word/n/neg/negative-sign.mp4",
+        "/word/n/neg/negative-pessimistic.mp4"
+    ],
+    "nervous": [
+        "/word/n/ner/nervous.mp4",
+        "/word/n/ner/nervous-leg.mp4",
+        "/word/n/ner/nervous-hands.mp4"
+    ],
+    "neutral": [
+        "/word/n/neu/neutral.mp4"
+    ],
+    "nose": [
+        "/word/n/nos/nose.mp4"
+    ],
+    "often": [
+        "/word/o/oft/often.mp4"
+    ],
+    "operate": [
+        "/word/o/ope/operate-run.mp4",
+        "/word/r/run/run-operate.mp4",
+        "/word/o/ope/operate-surgery.mp4"
+    ],
+    "opinion": [
+        "/word/o/opi/opinion.mp4"
+    ],
+    "other": [
+        "/word/o/oth/other.mp4",
+        "/word/o/oth/others.mp4"
+    ],
+    "pass": [
+        "/word/p/pas/pass.mp4",
+        "/word/p/pas/pass-on.mp4",
+        "/word/p/pas/pass-around.mp4"
+    ],
+    "pillow": [
+        "/word/p/pil/pillow.mp4"
+    ],
+    "prepare": [
+        "/word/p/pre/prepare.mp4"
+    ],
+    "pretty": [
+        "/word/p/pre/pretty.mp4"
+    ],
+    "priest": [
+        "/word/p/pri/priest.mp4",
+        "/word/b/bis/bishop.mp4"
+    ],
+    "program": [
+        "/word/p/pro/program.mp4"
+    ],
+    "promise": [
+        "/word/p/pro/promise.mp4"
+    ],
+    "put": [
+        "/word/p/put/put.mp4"
+    ],
+    "queen": [
+        "/word/q/que/queen.mp4"
+    ],
+    "quit": [
+        "/word/q/qui/quit.mp4"
+    ],
+    "radio": [
+        "/word/r/rad/radio.mp4"
+    ],
+    "rat": [
+        "/word/r/rat/rat-animal.mp4"
+    ],
+    "reject": [
+        "/word/r/rej/reject.mp4"
+    ],
+    "require": [
+        "/word/r/req/require.mp4",
+        "/word/r/req/require-compulsory.mp4"
+    ],
+    "rest": [
+        "/word/r/res/rest.mp4"
+    ],
+    "rise": [
+        "/word/r/ris/rise.mp4",
+        "/word/r/ris/rise-getup.mp4"
+    ],
+    "river": [
+        "/word/r/riv/river.mp4"
+    ],
+    "rough": [
+        "/word/r/rou/rough.mp4"
+    ],
+    "see": [
+        "/word/s/see/see.mp4"
+    ],
+    "seem": [
+        "/word/s/see/seem.mp4",
+        "/word/s/see/seem2.mp4"
+    ],
+    "send": [
+        "/word/s/sen/send.mp4",
+        "/word/s/sen/send-email.mp4",
+        "/word/s/sen/send-text.mp4"
+    ],
+    "sew": [
+        "/word/s/sew/sew.mp4"
+    ],
+    "sheep": [
+        "/word/s/she/sheep.mp4"
+    ],
+    "shine": [
+        "/word/s/shi/shine.mp4",
+        "/word/s/shi/shiny.mp4"
+    ],
+    "should": [
+        "/word/s/sho/should.mp4"
+    ],
+    "silent": [
+        "/word/s/sil/silent.mp4",
+        "/pix/s/soundofsilence2003.mp4"
+    ],
+    "skinny": [
+        "/word/s/ski/skinny.mp4"
+    ],
+    "skirt": [
+        "/word/s/ski/skirt.mp4",
+        "/word/m/min/mini-skirt.mp4"
+    ],
+    "sky": [
+        "/word/s/sky/sky.mp4"
+    ],
+    "sour": [
+        "/word/s/sou/sour.mp4"
+    ],
+    "special": [
+        "/word/s/spe/special.mp4"
+    ],
+    "spirit": [
+        "/word/s/spi/spiritual.mp4",
+        "/word/s/spi/spirit.mp4",
+        "/word/s/spi/spirit-cheer.mp4"
+    ],
+    "staff": [
+        "/word/s/sta/staff.mp4",
+        "/word/p/per/personnel-staffgroup.mp4",
+        "/word/p/per/personnel-workergroup.mp4"
+    ],
+    "stand": [
+        "/word/s/sta/stand.mp4",
+        "/word/s/sta/stand-fourlegged.mp4",
+        "/word/s/sta/stand-camera.mp4"
+    ],
+    "stop": [
+        "/word/s/sto/stop.mp4"
+    ],
+    "stupid": [
+        "/word/s/stu/stupid.mp4"
+    ],
+    "summon": [
+        "/word/s/sum/summon.mp4",
+        "/word/s/sum/summon-me.mp4"
+    ],
+    "sunrise": [
+        "/word/s/sun/sunrise.mp4"
+    ],
+    "swallow": [
+        "/word/s/swa/swallow.mp4"
+    ],
+    "to": [
+        "/word/t/to/to.mp4"
+    ],
+    "together": [
+        "/word/t/tog/together.mp4"
+    ],
+    "translate": [
+        "/word/t/tra/translate.mp4"
+    ],
+    "triangle": [
+        "/word/t/tri/triangle.mp4"
+    ],
+    "turtle": [
+        "/word/t/tur/turtle.mp4"
+    ],
+    "underwear": [
+        "/word/u/und/underwear.mp4",
+        "/word/u/und/underwear-panty.mp4",
+        "/word/u/und/underwear-grogers.mp4"
+    ],
+    "up": [
+        "/word/u/up.mp4"
+    ],
+    "upset": [
+        "/word/u/ups/upset.mp4"
+    ],
+    "violin": [
+        "/word/v/vio/violin.mp4",
+        "/word/v/vio/violin-bow.mp4"
+    ],
+    "volunteer": [
+        "/word/v/vol/volunteer.mp4"
+    ],
+    "warm": [
+        "/word/w/war/warm.mp4",
+        "/word/w/war/warm2.mp4",
+        "/word/w/war/warm-lukewarm.mp4"
+    ],
+    "warn": [
+        "/word/w/war/warn.mp4"
+    ],
+    "wash": [
+        "/word/w/was/wash.mp4",
+        "/word/w/was/wash-car.mp4",
+        "/word/w/was/wash-floor.mp4",
+        "/word/w/was/wash-dish.mp4",
+        "/word/w/was/wash-hair.mp4"
+    ],
+    "wine": [
+        "/word/w/win/wine.mp4"
+    ],
+    "witness": [
+        "/word/w/wit/witness.mp4",
+        "/word/w/wit/witness-proof.mp4",
+        "/word/w/wit/witness-forrestsmith.mp4"
+    ],
+    "wood": [
+        "/word/w/woo/wood.mp4",
+        "/word/h/har/hardwood.mp4",
+        "/word/f/fir/firewood.mp4"
+    ],
+    "across": [
+        "/word/c/com/come-across.mp4",
+        "/word/c/com/come-across2.mp4",
+        "/word/c/com/come-across-meet.mp4",
+        "/word/g/get/get-across.mp4"
+    ],
+    "agree": [
+        "/word/a/agr/agree.mp4",
+        "/word/a/agr/agree-with-you.mp4"
+    ],
+    "alarm": [
+        "/word/a/ala/alarm.mp4",
+        "/word/f/fal/false-alarm.mp4"
+    ],
+    "allergy": [
+        "/word/a/all/allergy.mp4",
+        "/word/a/all/allergy-ca.mp4",
+        "/word/a/all/allergy-attack.mp4"
+    ],
+    "almost": [
+        "/word/a/alm/almost.mp4"
+    ],
+    "announce": [
+        "/word/a/ann/announce.mp4"
+    ],
+    "apartment": [
+        "/word/a/apa/apartment.mp4",
+        "/word/a/apa/apartment-c.mp4"
+    ],
+    "attention": [
+        "/word/a/att/attention.mp4"
+    ],
+    "audience": [
+        "/word/a/aud/audience.mp4"
+    ],
+    "autumn": [
+        "/word/a/aut/autumn.mp4"
+    ],
+    "away": [
+        "/word/a/awa/away.mp4",
+        "/word/a/awa/away-game.mp4"
+    ],
+    "beautiful": [
+        "/word/b/bea/beautiful.mp4"
+    ],
+    "become": [
+        "/word/b/bec/become.mp4"
+    ],
+    "below": [
+        "/word/b/bel/below.mp4",
+        "/word/b/ben/beneath.mp4"
+    ],
+    "best": [
+        "/word/b/bes/best.mp4"
+    ],
+    "bet": [
+        "/word/b/bet/bet.mp4"
+    ],
+    "bicycle": [
+        "/word/b/bic/bicycle.mp4",
+        "/word/b/bic/bicycle-tandem.mp4"
+    ],
+    "biology": [
+        "/word/b/bio/biology.mp4"
+    ],
+    "boyfriend": [
+        "/word/b/boy/boyfriend.mp4"
+    ],
+    "break": [
+        "/word/b/bre/break.mp4",
+        "/word/b/bre/break-recess.mp4",
+        "/word/b/bre/break-recess2.mp4"
+    ],
+    "bridge": [
+        "/word/b/bri/bridge.mp4"
+    ],
+    "brush": [
+        "/word/b/bru/brush-comb.mp4",
+        "/word/b/bru/brush-teeth.mp4",
+        "/word/b/bru/brush-teeth-icl.mp4"
+    ],
+    "building": [
+        "/word/b/bui/building.mp4"
+    ],
+    "busy": [
+        "/word/b/bus/busy.mp4",
+        "/word/b/bus/busy-fs.mp4"
+    ],
+    "camera": [
+        "/word/c/cam/camera.mp4"
+    ],
+    "caption": [
+        "/word/c/cap/caption.mp4",
+        "/word/c/cap/captioning.mp4"
+    ],
+    "care": [
+        "/word/c/car/care-for.mp4",
+        "/word/c/car/care-about.mp4",
+        "/word/t/tak/take-care-of.mp4"
+    ],
+    "carry": [
+        "/word/c/car/carry.mp4"
+    ],
+    "celebrate": [
+        "/word/c/cel/celebrate.mp4"
+    ],
+    "certificate": [
+        "/word/c/cer/certificate.mp4"
+    ],
+    "chain": [
+        "/word/c/cha/chain.mp4"
+    ],
+    "chance": [
+        "/word/c/cha/chance.mp4",
+        "/word/s/sli/slim-chance.mp4",
+        "/word/f/fat/fat-chance.mp4"
+    ],
+    "chase": [
+        "/word/c/cha/chase.mp4"
+    ],
+    "classroom": [
+        "/word/c/cla/classroom.mp4"
+    ],
+    "clear": [
+        "/word/c/cle/clear.mp4"
+    ],
+    "climb": [
+        "/word/c/cli/climb.mp4"
+    ],
+    "command": [
+        "/word/c/com/command.mp4",
+        "/word/c/com/command-order.mp4",
+        "/word/c/com/command2.mp4"
+    ],
+    "community": [
+        "/word/c/com/community.mp4"
+    ],
+    "complain": [
+        "/word/c/com/complain.mp4"
+    ],
+    "compromise": [
+        "/word/c/com/compromise2.mp4"
+    ],
+    "contribute": [
+        "/word/c/cont/contribute.mp4"
+    ],
+    "cop": [
+        "/word/c/cop/cop.mp4"
+    ],
+    "cost": [
+        "/word/c/cos/cost.mp4",
+        "/word/c/cos/cost-price.mp4"
+    ],
+    "couch": [
+        "/word/s/sof/sofa.mp4",
+        "/word/c/cou/couch2.mp4"
+    ],
+    "cracker": [
+        "/word/c/cra/cracker-food.mp4"
+    ],
+    "curious": [
+        "/word/c/cur/curious.mp4"
+    ],
+    "curriculum": [
+        "/word/c/cur/curriculum.mp4"
+    ],
+    "deny": [
+        "/word/d/den/deny.mp4"
+    ],
+    "describe": [
+        "/word/d/des/describe.mp4"
+    ],
+    "diaper": [
+        "/word/d/dia/diaper.mp4"
+    ],
+    "diarrhea": [
+        "/word/d/dia/diarrhea.mp4"
+    ],
+    "disagree": [
+        "/word/d/dis/disagree.mp4"
+    ],
+    "dissolve": [
+        "/word/d/dis/dissolve.mp4"
+    ],
+    "divide": [
+        "/word/d/div/divide-math.mp4",
+        "/word/d/div/division.mp4",
+        "/word/d/div/division2.mp4"
+    ],
+    "dolphin": [
+        "/word/d/dol/dolphin.mp4"
+    ],
+    "double": [
+        "/word/d/dou/double.mp4"
+    ],
+    "doubt": [
+        "/word/d/dou/doubt.mp4",
+        "/word/d/dou/doubtful.mp4",
+        "/word/b/ben/benefit-doubt-give.mp4",
+        "/word/b/ben/benefit-doubt-see.mp4",
+        "/word/b/ben/benefit-doubt-ok.mp4",
+        "/word/b/ben/benefit-doubt-ok2.mp4",
+        "/word/b/ben/benefit-of-doubt.mp4"
+    ],
+    "dumb": [
+        "/word/d/dum/dumb.mp4"
+    ],
+    "earth": [
+        "/word/e/ear/earth.mp4"
+    ],
+    "earthquake": [
+        "/word/e/ear/earthquake.mp4"
+    ],
+    "emotion": [
+        "/word/e/emo/emotion.mp4"
+    ],
+    "encourage": [
+        "/word/e/enc/encourage.mp4"
+    ],
+    "energy": [
+        "/word/e/ene/energy.mp4"
+    ],
+    "enough": [
+        "/word/e/eno/enough.mp4",
+        "/word/e/eno/enough-finish.mp4"
+    ],
+    "evaluate": [
+        "/word/e/eva/evaluate.mp4"
+    ],
+    "evidence": [
+        "/word/e/evi/evidence.mp4",
+        "/word/e/evi/evidence-e.mp4",
+        "/word/e/evi/evidence-e2.mp4",
+        "/word/e/evi/evidence2.mp4"
+    ],
+    "exact": [
+        "/word/e/exa/exact.mp4",
+        "/word/e/exa/exact-perfect.mp4"
+    ],
+    "exaggerate": [
+        "/word/e/exa/exaggerate.mp4",
+        "/word/e/exa/exaggerate-very.mp4"
+    ],
+    "expect": [
+        "/word/e/exp/expect.mp4"
+    ],
+    "fancy": [
+        "/word/f/fan/fancy.mp4"
+    ],
+    "favorite": [
+        "/word/f/fav/favorite-prefer.mp4",
+        "/word/f/fav/favorite-us.mp4",
+        "/word/f/fav/favorite-ca.mp4",
+        "/word/f/fav/favorite-loveit.mp4"
+    ],
+    "finally": [
+        "/word/f/fin/finally-pah.mp4"
+    ],
+    "fox": [
+        "/word/f/fox/fox-animal.mp4"
+    ],
+    "fruit": [
+        "/word/f/fru/fruit.mp4"
+    ],
+    "function": [
+        "/word/f/fun/function.mp4"
+    ],
+    "gather": [
+        "/word/g/gat/gather-assemble.mp4",
+        "/word/g/gat/gather-collect.mp4",
+        "/word/g/gat/gather-collect2.mp4"
+    ],
+    "goat": [
+        "/word/g/goa/goat.mp4"
+    ],
+    "goodbye": [
+        "/word/g/goo/good-bye.mp4",
+        "/word/g/goo/goodbye-ily.mp4",
+        "/word/g/goo/goodbye-ily2.mp4"
+    ],
+    "grow": [
+        "/word/g/gro/grow.mp4",
+        "/word/g/gro/grow-ascend.mp4",
+        "/word/g/gro/growup-raise.mp4",
+        "/word/g/gro/grow-up.mp4"
+    ],
+    "gum": [
+        "/word/g/gum/gum.mp4"
+    ],
+    "half": [
+        "/word/h/hal/half.mp4",
+        "/word/h/hal/half2.mp4",
+        "/word/h/hal/half-b.mp4"
+    ],
+    "herself": [
+        "/word/h/her/herself.mp4",
+        "/word/h/her/herself2.mp4"
+    ],
+    "highway": [
+        "/word/h/hig/highway.mp4"
+    ],
+    "homework": [
+        "/word/h/hom/homework.mp4"
+    ],
+    "honor": [
+        "/word/h/hon/honor2.mp4",
+        "/word/h/hon/honor.mp4"
+    ],
+    "ice cream": [
+        "/word/i/ice/ice-cream.mp4",
+        "/word/s/sor/sorbet-fs.mp4"
+    ],
+    "if": [
+        "/word/i/if/if-fs2.mp4",
+        "/word/i/if/if-fs.mp4",
+        "/word/i/if/if-suppose.mp4",
+        "/word/i/if/if-old.mp4",
+        "/word/i/if/ifiwereyou.mp4"
+    ],
+    "increase": [
+        "/word/i/inc/increase.mp4"
+    ],
+    "information": [
+        "/word/i/inf/information.mp4",
+        "/word/f/fyi-inform.mp4"
+    ],
+    "interpret": [
+        "/word/i/int/interpret-translate.mp4",
+        "/word/i/int/interpret-infer.mp4"
+    ],
+    "interview": [
+        "/word/i/int/interview.mp4",
+        "/word/i/int/interview-media.mp4"
+    ],
+    "invite": [
+        "/word/i/inv/invite.mp4",
+        "/word/i/inv/invite-me.mp4"
+    ],
+    "keep": [
+        "/word/k/kee/keep.mp4",
+        "/word/k/kee/keep-continue.mp4"
+    ],
+    "keyboard": [
+        "/word/k/key/keyboard2.mp4",
+        "/word/k/key/keyboard.mp4"
+    ],
+    "land": [
+        "/word/l/lan/land-over.mp4",
+        "/word/l/lan/land.mp4",
+        "/word/l/lan/landing-plane.mp4"
+    ],
+    "lawyer": [
+        "/word/l/law/lawyer.mp4"
+    ],
+    "lead": [
+        "/word/l/lea/lead.mp4",
+        "/word/l/lea/lead-fs.mp4"
+    ],
+    "line": [
+        "/word/l/lin/line-string.mp4"
+    ],
+    "lock": [
+        "/word/l/loc/lock.mp4",
+        "/word/l/loc/lock2.mp4"
+    ],
+    "lousy": [
+        "/word/l/lou/lousy.mp4"
+    ],
+    "lunch": [
+        "/word/l/lun/lunch.mp4"
+    ],
+    "machine": [
+        "/word/m/mac/machine.mp4"
+    ],
+    "mad": [
+        "/word/m/mad/mad.mp4"
+    ],
+    "memorize": [
+        "/word/m/mem/memory.mp4"
+    ],
+    "minus": [
+        "/word/m/min/minus.mp4"
+    ],
+    "mouth": [
+        "/word/m/mou/mouth.mp4",
+        "/pix/t/talking-full-hand.mp4"
+    ],
+    "mushroom": [
+        "/word/m/mus/mushroom.mp4",
+        "/word/m/mus/mushroom-boom.mp4"
+    ],
+    "napkin": [
+        "/word/n/nap/napkin.mp4",
+        "/word/k/kleenex.mp4"
+    ],
+    "neck": [
+        "/word/n/nec/neck.mp4"
+    ],
+    "next": [
+        "/word/n/nex/next.mp4",
+        "/word/n/nex/next-beside.mp4"
+    ],
+    "ocean": [
+        "/word/o/oce/ocean.mp4",
+        "/word/o/oce/ocean-o.mp4"
+    ],
+    "open": [
+        "/word/o/ope/open.mp4",
+        "/word/o/ope/open-frank.mp4"
+    ],
+    "owe": [
+        "/word/o/owe/owe.mp4"
+    ],
+    "page": [
+        "/word/p/pag/page2.mp4",
+        "/word/p/pag/page.mp4",
+        "/word/o/on-same-page.mp4",
+        "/word/o/on-same-page2.mp4"
+    ],
+    "pain": [
+        "/word/p/pai/pain.mp4"
+    ],
+    "parade": [
+        "/word/p/par/parade.mp4"
+    ],
+    "perfect": [
+        "/word/p/per/perfect.mp4",
+        "/word/p/per/perfect-p.mp4"
+    ],
+    "period": [
+        "/word/p/per/period-time.mp4",
+        "/word/p/per/period-time2.mp4",
+        "/word/p/per/period-timeperiod.mp4"
+    ],
+    "philosophy": [
+        "/word/p/phi/philosophy.mp4",
+        "/word/p/phi/philosophy-p.mp4"
+    ],
+    "photographer": [
+        "/word/p/pho/photographer.mp4",
+        "/word/p/pho/photographer2.mp4"
+    ],
+    "place": [
+        "/word/p/pla/place.mp4"
+    ],
+    "policy": [
+        "/word/p/pol/policy.mp4"
+    ],
+    "popular": [
+        "/word/p/pop/popular.mp4"
+    ],
+    "pray": [
+        "/word/p/pra/pray.mp4"
+    ],
+    "predict": [
+        "/word/p/pre/predict.mp4",
+        "/word/p/pre/predict2.mp4"
+    ],
+    "presentation": [
+        "/word/p/pre/presentation.mp4"
+    ],
+    "print": [
+        "/word/p/pri/print.mp4",
+        "/word/p/pri/printing-paper.mp4",
+        "/word/f/foo/footprint-mark.mp4",
+        "/word/f/foo/footprint-plu.mp4"
+    ],
+    "printer": [
+        "/word/p/pri/printer.mp4"
+    ],
+    "private": [
+        "/word/p/pri/private.mp4"
+    ],
+    "procrastinate": [
+        "/word/p/pro/procrastinate.mp4"
+    ],
+    "project": [
+        "/word/p/pro/project.mp4",
+        "/word/p/pro/project-screen.mp4",
+        "/word/p/pro/project-screen2.mp4",
+        "/word/p/pro/project-transfer.mp4"
+    ],
+    "protect": [
+        "/word/p/pro/protect.mp4"
+    ],
+    "prove": [
+        "/word/p/pro/prove.mp4",
+        "/word/p/pro/prove-witness.mp4"
+    ],
+    "provide": [
+        "/word/p/pro/provide.mp4"
+    ],
+    "psychology": [
+        "/word/p/psy/psychology.mp4"
+    ],
+    "punish": [
+        "/word/p/pun/punish.mp4"
+    ],
+    "puzzled": [
+        "/word/p/puz/puzzled.mp4"
+    ],
+    "question": [
+        "/word/q/que/question.mp4",
+        "/word/q/que/questions.mp4"
+    ],
+    "quick": [
+        "/word/q/qui/quick.mp4"
+    ],
+    "rainbow": [
+        "/word/r/rai/rainbow.mp4"
+    ],
+    "rake": [
+        "/word/r/rak/rake.mp4",
+        "/word/r/rak/rake-leaves.mp4"
+    ],
+    "rehearse": [
+        "/word/r/reh/rehearse.mp4"
+    ],
+    "remove": [
+        "/word/r/rem/remove.mp4",
+        "/word/r/rem/removable.mp4",
+        "/word/r/rem/removable2.mp4"
+    ],
+    "revenge": [
+        "/word/r/rev/revenge.mp4"
+    ],
+    "review": [
+        "/word/r/rev/review.mp4"
+    ],
+    "rich": [
+        "/word/r/ric/rich-wealth.mp4",
+        "/word/r/ric/rich-fs.mp4",
+        "/word/r/ric/rich-plentiful.mp4",
+        "/word/r/ric/rich-wow.mp4",
+        "/word/r/ric/rich-deep.mp4"
+    ],
+    "roof": [
+        "/word/r/roo/roof.mp4",
+        "/word/r/roo/roof-auto.mp4"
+    ],
+    "rooster": [
+        "/word/r/roo/rooster.mp4"
+    ],
+    "rude": [
+        "/word/r/rud/rude-ca.mp4",
+        "/word/r/rud/rude-var.mp4"
+    ],
+    "say": [
+        "/word/s/say/say.mp4"
+    ],
+    "scientist": [
+        "/word/s/sci/scientist.mp4"
+    ],
+    "screwdriver": [
+        "/word/s/scr/screwdriver.mp4"
+    ],
+    "second": [
+        "/word/s/sec/second-time.mp4"
+    ],
+    "senate": [
+        "/word/s/sen/senate.mp4"
+    ],
+    "separate": [
+        "/word/s/sep/separate.mp4"
+    ],
+    "service": [
+        "/word/s/ser/service.mp4"
+    ],
+    "shrimp": [
+        "/word/s/shr/shrimp.mp4",
+        "/word/s/shr/shrimp-metsch.mp4",
+        "/word/s/shr/shrimp-i.mp4"
+    ],
+    "shy": [
+        "/word/s/shy/shy.mp4"
+    ],
+    "side": [
+        "/word/s/sid/side.mp4",
+        null,
+        "/word/o/on-side.mp4"
+    ],
+    "situation": [
+        "/word/s/sit/situation.mp4"
+    ],
+    "slave": [
+        "/word/s/sla/slave-labour.mp4"
+    ],
+    "soccer": [
+        "/word/s/soc/soccer.mp4"
+    ],
+    "solid": [
+        "/word/s/sol/solid.mp4",
+        "/word/s/sol/solid2.mp4"
+    ],
+    "sometimes": [
+        "/word/s/som/sometimes.mp4"
+    ],
+    "spider": [
+        "/word/s/spi/spider.mp4"
+    ],
+    "spin": [
+        "/word/s/spi/spinning-side.mp4"
+    ],
+    "square": [
+        "/word/s/squ/square2.mp4",
+        "/word/s/squ/square.mp4"
+    ],
+    "stairs": [
+        "/word/s/sta/stairs.mp4"
+    ],
+    "stare": [
+        "/word/s/sta/stare.mp4"
+    ],
+    "start": [
+        "/word/s/sta/start.mp4",
+        "/word/s/sta/start-engine.mp4",
+        "/word/s/sta/start-over.mp4"
+    ],
+    "store": [
+        "/word/s/sto/store.mp4",
+        "/word/d/dep/department-store.mp4"
+    ],
+    "straw": [
+        "/word/s/str/straw-sip.mp4"
+    ],
+    "structure": [
+        "/word/s/str/structure.mp4"
+    ],
+    "suggest": [
+        "/word/s/sug/suggest.mp4"
+    ],
+    "sun": [
+        "/word/s/sun/sun.mp4",
+        "/word/s/sun/sun-mcgregor1913.mp4"
+    ],
+    "support": [
+        "/word/s/sup/support.mp4"
+    ],
+    "suppose": [
+        "/word/s/sup/suppose-if.mp4",
+        "/word/s/sup/supposedly.mp4"
+    ],
+    "sure": [
+        "/word/s/sur/sure.mp4",
+        "/word/s/sur/sure-fs.mp4",
+        "/word/f/for/for-sure.mp4"
+    ],
+    "sweater": [
+        "/word/s/swe/sweater.mp4"
+    ],
+    "symbol": [
+        "/word/s/sym/symbol.mp4"
+    ],
+    "taste": [
+        "/word/t/tas/taste.mp4"
+    ],
+    "team": [
+        "/word/t/tea/team.mp4"
+    ],
+    "telephone": [
+        "/word/t/tel/telephone.mp4"
+    ],
+    "tennis": [
+        "/word/t/ten/tennis.mp4"
+    ],
+    "their": [
+        "/word/t/the/their.mp4"
+    ],
+    "then": [
+        "/word/t/the/then.mp4",
+        "/word/t/the/then-next.mp4"
+    ],
+    "thermometer": [
+        "/word/t/the/thermometer.mp4",
+        "/word/t/the/thermometer-oral.mp4",
+        "/word/t/the/thermometer-axillary.mp4"
+    ],
+    "thing": [
+        "/word/t/thi/thing.mp4"
+    ],
+    "third": [
+        "/word/t/thi/third.mp4"
+    ],
+    "thousand": [
+        "/word/t/tho/thousand.mp4",
+        "/word/s/six/six-thousand.mp4"
+    ],
+    "three": [
+        "/word/t/thr/three2.mp4"
+    ],
+    "tie": [
+        "/word/t/tie/tie-knot.mp4",
+        "/word/t/tie/tie-cloth.mp4"
+    ],
+    "topic": [
+        "/word/t/top/topic.mp4"
+    ],
+    "touch": [
+        "/word/t/tou/touch.mp4"
+    ],
+    "try": [
+        "/word/t/try/try.mp4"
+    ],
+    "two": [
+        "/word/t/two/two.mp4",
+        "/word/t/two/two2.mp4"
+    ],
+    "type": [
+        "/word/t/typ/type-kind.mp4",
+        "/word/t/typ/type-keyboard.mp4"
+    ],
+    "umbrella": [
+        "/word/u/umb/umbrella.mp4",
+        "/word/p/pat/patio-umbrella.mp4"
+    ],
+    "vegetable": [
+        "/word/v/veg/vegetable.mp4",
+        "/word/v/veg/vegetable-veg.mp4"
+    ],
+    "vocabulary": [
+        "/word/v/voc/vocabulary.mp4",
+        "/word/v/voc/vocabulary-big2.mp4"
+    ],
+    "waste": [
+        "/word/w/was/waste.mp4",
+        "/word/w/was/waste2.mp4"
+    ],
+    "we": [
+        "/word/w/we/we.mp4",
+        "/word/w/we/we-three.mp4",
+        "/word/w/we/we-five.mp4"
+    ],
+    "wear": [
+        "/word/w/wea/wear.mp4",
+        "/word/w/wea/wear-use.mp4"
+    ],
+    "weekly": [
+        "/word/w/wee/weekly.mp4"
+    ],
+    "welcome": [
+        "/word/w/wel/welcome.mp4",
+        "/word/w/wel/welcome2.mp4"
+    ],
+    "winter": [
+        "/word/w/win/winter.mp4",
+        "/word/w/win/winter-time.mp4"
+    ],
+    "without": [
+        "/word/w/wit/without.mp4"
+    ],
+    "wolf": [
+        "/word/w/wol/wolf.mp4"
+    ],
+    "worm": [
+        "/word/w/wor/worm.mp4"
+    ],
+    "wristwatch": [
+        "/word/w/wri/wristwatch.mp4"
+    ],
+    "yourself": [
+        "/word/y/you/yourself2.mp4",
+        "/word/y/you/yourself.mp4",
+        "/word/b/be-yourself.mp4",
+        "/word/b/be-yourself2.mp4"
+    ],
+    "above": [
+        "/word/a/abo/above.mp4"
+    ],
+    "accomplish": [
+        "/word/a/acc/accomplish.mp4"
+    ],
+    "advantage": [
+        "/word/a/adv/advantage.mp4",
+        "/word/t/tak/take-advantage-of.mp4",
+        "/word/t/tak/take-advantage-of2.mp4"
+    ],
+    "alphabet": [
+        "/word/a/abc-fs.mp4",
+        "/word/a/alp/alphabet-abc2.mp4",
+        "/word/a/alp/a-to-z.mp4"
+    ],
+    "anniversary": [
+        "/word/a/ann/anniversary.mp4",
+        "/word/a/ann/anniversary-wed.mp4"
+    ],
+    "another": [
+        "/word/a/ano/another.mp4"
+    ],
+    "appropriate": [
+        "/word/a/app/appropriate-proper.mp4"
+    ],
+    "arrogant": [
+        "/word/a/arr/arrogant.mp4",
+        "/word/a/arr/arrogant-proud.mp4"
+    ],
+    "artist": [
+        "/word/a/art/artist.mp4"
+    ],
+    "background": [
+        "/word/b/bac/background.mp4"
+    ],
+    "behavior": [
+        "/word/b/beh/behavior.mp4",
+        "/word/b/beh/behave-1923.mp4"
+    ],
+    "bell": [
+        "/word/b/bel/bell2.mp4",
+        "/word/b/bel/bell.mp4",
+        "/word/b/bel/bell-bike.mp4"
+    ],
+    "bless": [
+        "/word/b/ble/bless.mp4"
+    ],
+    "blood": [
+        "/word/b/blo/blood.mp4",
+        "/word/b/blo/blood-sugar.mp4"
+    ],
+    "boots": [
+        "/word/b/boo/boots-footwear.mp4",
+        "/word/b/boo/booties.mp4"
+    ],
+    "brave": [
+        "/word/b/bra/brave.mp4"
+    ],
+    "breathe": [
+        "/word/b/bre/breathe.mp4"
+    ],
+    "bright": [
+        "/word/b/bri/bright.mp4",
+        "/word/b/bri/bright-smart.mp4"
+    ],
+    "bull": [
+        "/word/b/bul/bull.mp4"
+    ],
+    "butterfly": [
+        "/word/b/but/butterfly.mp4"
+    ],
+    "card": [
+        "/word/c/car/card-paper.mp4",
+        "/word/f/fla/flashcard.mp4"
+    ],
+    "category": [
+        "/word/c/cat/category.mp4",
+        "/word/c/cat/categories.mp4"
+    ],
+    "cent": [
+        "/word/c/cen/cent.mp4",
+        "/word/c/cen/cents.mp4",
+        "/word/f/fiv/five-cents.mp4"
+    ],
+    "chemistry": [
+        "/word/c/che/chemistry.mp4",
+        "/word/h/hyd/hydrogen-fs.mp4"
+    ],
+    "chop": [
+        "/word/c/cho/chop-food.mp4",
+        "/word/c/cut/cut-slices.mp4",
+        "/word/c/cho/chop-tree.mp4",
+        "/word/c/cho/chop-axe.mp4"
+    ],
+    "cigarette": [
+        "/word/c/cig/cigarette.mp4"
+    ],
+    "clever": [
+        "/word/c/cle/clever.mp4"
+    ],
+    "clown": [
+        "/word/c/clo/clown.mp4"
+    ],
+    "coach": [
+        "/word/c/coa/coach-trainer.mp4"
+    ],
+    "coat": [
+        "/word/c/coa/coat.mp4",
+        "/word/c/coa/coat-puffer.mp4"
+    ],
+    "cochlear implant": [
+        "/word/c/coc/cochlear-implant.mp4"
+    ],
+    "coconut": [
+        "/word/c/coc/coconut.mp4"
+    ],
+    "common": [
+        "/word/c/com/common.mp4",
+        "/word/c/com/common-everyday.mp4"
+    ],
+    "commute": [
+        "/word/c/com/commute.mp4"
+    ],
+    "control": [
+        "/word/c/cont/control.mp4",
+        "/word/o/out/outofcontrol-lost.mp4",
+        "/word/u/und/under-control.mp4"
+    ],
+    "count": [
+        "/word/c/cou/count-plu.mp4",
+        "/word/c/cou/count.mp4",
+        "/word/c/cou/count-plu.mp4"
+    ],
+    "culture": [
+        "/word/c/cul/culture.mp4",
+        "/word/c/cul/culture-sharikido.mp4",
+        "/word/c/cul/culture2.mp4"
+    ],
+    "daily": [
+        "/word/d/dai/daily.mp4"
+    ],
+    "defend": [
+        "/word/d/def/defend.mp4"
+    ],
+    "degree": [
+        "/word/d/deg/degree-college.mp4",
+        "/word/d/deg/degree-level.mp4",
+        "/word/d/deg/degree-measure.mp4"
+    ],
+    "demonstrate": [
+        "/word/d/dem/demonstrate.mp4",
+        "/word/d/dem/demonstrate-protest.mp4"
+    ],
+    "department": [
+        "/word/d/dep/department.mp4",
+        "/word/d/dep/department-fs.mp4"
+    ],
+    "die": [
+        "/word/d/die/die2.mp4",
+        "/word/d/die/die.mp4"
+    ],
+    "dig": [
+        "/word/d/dig/dig-earth.mp4",
+        "/word/d/dig/dig-earth2.mp4"
+    ],
+    "dinner": [
+        "/word/d/din/dinner.mp4"
+    ],
+    "diploma": [
+        "/word/d/dip/diploma.mp4",
+        "/word/h/hig/high-school-diploma.mp4"
+    ],
+    "director": [
+        "/word/d/dir/director.mp4"
+    ],
+    "disconnect": [
+        "/word/d/dis/disconnect.mp4"
+    ],
+    "discover": [
+        "/word/d/dis/discover.mp4",
+        "/word/d/dis/discovery-plu.mp4"
+    ],
+    "drum": [
+        "/word/d/dru/drum.mp4"
+    ],
+    "each": [
+        "/word/e/eac/each.mp4",
+        "/word/e/eac/each-plu.mp4"
+    ],
+    "educate": [
+        "/word/e/edu/educate.mp4",
+        "/word/e/edu/educate-again.mp4"
+    ],
+    "electrician": [
+        "/word/e/ele/electrician.mp4"
+    ],
+    "empty": [
+        "/word/e/emp/empty.mp4",
+        "/word/e/emp/empty-broke.mp4"
+    ],
+    "establish": [
+        "/word/e/est/establish.mp4",
+        "/word/e/est/established-adreanclark.mp4"
+    ],
+    "excuse": [
+        "/word/e/exc/excuse-me.mp4",
+        "/word/e/exc/excuse.mp4",
+        "/word/e/exc/excuse-reason.mp4"
+    ],
+    "eyeglasses": [
+        "/word/e/eye/eyeglasses.mp4",
+        "/word/e/eye/eyeglasses2.mp4",
+        "/word/e/eye/eyeglasses-old.mp4",
+        "/word/e/eye/eyeglasses-old2.mp4"
+    ],
+    "faculty": [
+        "/word/f/fac/faculty.mp4"
+    ],
+    "famous": [
+        "/word/f/fam/famous.mp4"
+    ],
+    "fence": [
+        "/word/f/fen/fence.mp4",
+        "/word/p/pic/picket-fence.mp4"
+    ],
+    "fix": [
+        "/word/f/fix/fix-repair.mp4",
+        "/word/f/fix/fix-fs.mp4",
+        "/word/f/fix/fix-mend.mp4"
+    ],
+    "flexible": [
+        "/word/f/fle/flexible.mp4"
+    ],
+    "flirt": [
+        "/word/f/fli/flirt.mp4"
+    ],
+    "flood": [
+        "/word/f/flo/flood.mp4"
+    ],
+    "fork": [
+        "/word/f/for/fork-cutlery.mp4",
+        "/word/f/for/fork-cutlery2.mp4"
+    ],
+    "four": [
+        "/word/f/fou/four2.mp4"
+    ],
+    "fun": [
+        "/word/f/fun/fun.mp4",
+        "/word/f/fun/fun-fs.mp4",
+        "/word/m/mak/make-fun.mp4",
+        "/word/m/mak/make-fun2.mp4"
+    ],
+    "funeral": [
+        "/word/f/fun/funeral.mp4"
+    ],
+    "furniture": [
+        "/word/f/fur/furniture.mp4"
+    ],
+    "general": [
+        "/word/g/gen/general.mp4"
+    ],
+    "ghost": [
+        "/word/g/gho/ghost.mp4"
+    ],
+    "give up": [
+        "/word/g/giv/give-up.mp4",
+        "/word/g/giv/give-up2.mp4"
+    ],
+    "gorilla": [
+        "/word/g/gor/gorilla.mp4",
+        "/kid/asl/g/gorilla-juli.mp4"
+    ],
+    "gray": [
+        "/word/g/gra/gray-ca.mp4",
+        "/word/g/gra/gray-us.mp4"
+    ],
+    "guide": [
+        "/word/g/gui/guide.mp4",
+        "/word/g/gui/guide2.mp4",
+        "/word/t/tra/travel-guide.mp4"
+    ],
+    "habit": [
+        "/word/h/hab/habit.mp4",
+        "/word/h/hab/habit2.mp4"
+    ],
+    "health": [
+        "/word/h/hea/health.mp4",
+        "/word/m/men/mental-health.mp4"
+    ],
+    "hearing aid": [
+        "/word/h/hea/hearing-aid.mp4"
+    ],
+    "heaven": [
+        "/word/h/hea/heaven.mp4"
+    ],
+    "heavy": [
+        "/word/h/hea/heavy.mp4"
+    ],
+    "helmet": [
+        "/word/h/hel/helmet.mp4"
+    ],
+    "hide": [
+        "/word/h/hid/hide.mp4"
+    ],
+    "high school": [
+        "/word/h/hig/high-school.mp4",
+        "/word/h/hig/high-school2.mp4"
+    ],
+    "hockey": [
+        "/word/h/hoc/hockey.mp4"
+    ],
+    "hold": [
+        "/word/h/hol/hold.mp4",
+        "/word/h/hol/hold-breathe.mp4"
+    ],
+    "honest": [
+        "/word/h/hon/honest.mp4",
+        "/word/h/hon/honest2.mp4"
+    ],
+    "hug": [
+        "/word/h/hug/hug.mp4"
+    ],
+    "hunt": [
+        "/word/h/hun/hunt.mp4",
+        "/word/h/hun/hunt-search.mp4"
+    ],
+    "image": [
+        "/word/i/ima/image.mp4",
+        "/word/i/ima/images.mp4"
+    ],
+    "influence": [
+        "/word/i/inf/influence.mp4",
+        "/word/i/inf/influence-all.mp4"
+    ],
+    "interesting": [
+        "/word/i/int/interested.mp4",
+        "/word/i/int/interesting.mp4",
+        "/word/i/int/interesting2.mp4"
+    ],
+    "interpreter": [
+        "/word/i/int/interpreter.mp4"
+    ],
+    "judge": [
+        "/word/j/jud/judge-opinion.mp4"
+    ],
+    "key": [
+        "/word/k/key/key2.mp4",
+        "/word/k/key/key.mp4",
+        "/word/k/key/key-important.mp4"
+    ],
+    "label": [
+        "/word/l/lab/label.mp4"
+    ],
+    "leaf": [
+        "/word/l/lea/leaf.mp4"
+    ],
+    "left": [
+        "/word/l/lef/left-dir.mp4"
+    ],
+    "lend": [
+        "/word/l/len/lend.mp4",
+        "/word/l/len/lend.mp4",
+        "/word/b/bor/borrow.mp4"
+    ],
+    "less": [
+        "/word/l/les/less.mp4",
+        "/word/l/les/less-less.mp4",
+        "/word/l/les/less-than.mp4"
+    ],
+    "linguistics": [
+        "/word/l/lin/linguistics.mp4"
+    ],
+    "lonely": [
+        "/word/l/lon/lonely.mp4",
+        "/word/a/alo/alone.mp4",
+        "/word/l/lon/lone-solo.mp4"
+    ],
+    "long": [
+        "/word/l/lon/long.mp4"
+    ],
+    "magic": [
+        "/word/m/mag/magic.mp4",
+        "/lang/m/magic/magic-princess.mp4"
+    ],
+    "mainstream": [
+        "/word/m/mai/mainstream.mp4",
+        "/word/m/mai/mainstream-school.mp4",
+        "/word/m/mai/mainstream-one.mp4",
+        "/word/m/mai/mainstream-group.mp4"
+    ],
+    "major": [
+        "/word/m/maj/major-field.mp4"
+    ],
+    "manager": [
+        "/word/m/man/manager.mp4"
+    ],
+    "maximum": [
+        "/word/m/max/maximum.mp4"
+    ],
+    "me": [
+        "/word/m/me/me.mp4"
+    ],
+    "middle": [
+        "/word/m/mid/middle.mp4",
+        "/word/m/mid/middle-aged.mp4"
+    ],
+    "mind": [
+        "/word/m/min/mind-brain.mp4"
+    ],
+    "misunderstand": [
+        "/word/m/mis/misunderstand.mp4",
+        "/word/m/mis/misunderstand-big.mp4"
+    ],
+    "monster": [
+        "/word/m/mon/monster.mp4"
+    ],
+    "myself": [
+        "/word/m/mys/myself2.mp4",
+        "/word/m/mys/myself.mp4"
+    ],
+    "nothing": [
+        "/word/n/not/nothing.mp4",
+        "/word/n/not/nothing-to-it.mp4",
+        "/word/n/not/nothing2.mp4",
+        "/word/n/not/nothing-absolutely.mp4",
+        "/word/n/not/nothing-to-lose.mp4",
+        "/word/n/nada-zero.mp4",
+        "/word/n/not/nothingatall-blow.mp4"
+    ],
+    "odd": [
+        "/word/o/odd/odd-strange.mp4",
+        "/word/o/odd/odd-fs.mp4"
+    ],
+    "offer": [
+        "/word/o/off/offer.mp4"
+    ],
+    "on": [
+        "/word/o/on/on.mp4",
+        "/word/o/on/on-fs.mp4"
+    ],
+    "only": [
+        "/word/o/onl/only.mp4"
+    ],
+    "opposite": [
+        "/word/o/opp/opposite.mp4"
+    ],
+    "out": [
+        "/word/o/out/out.mp4",
+        "/word/o/out/out-kickout.mp4"
+    ],
+    "overlook": [
+        "/word/o/ove/overlook.mp4"
+    ],
+    "path": [
+        "/word/p/pat/path.mp4"
+    ],
+    "percent": [
+        "/word/p/per/percent.mp4"
+    ],
+    "physics": [
+        "/word/p/phy/physics.mp4"
+    ],
+    "piano": [
+        "/word/p/pia/piano.mp4",
+        "/word/p/pia/piano-key.mp4",
+        "/word/p/pia/piano-keys.mp4"
+    ],
+    "pick": [
+        "/word/p/pic/pick.mp4"
+    ],
+    "pie": [
+        "/word/p/pie/pie-food.mp4"
+    ],
+    "pocket": [
+        "/word/p/poc/pocket.mp4"
+    ],
+    "popcorn": [
+        "/word/p/pop/popcorn.mp4"
+    ],
+    "positive": [
+        "/word/p/pos/positive.mp4"
+    ],
+    "pregnant": [
+        "/word/p/pre/pregnant.mp4",
+        "/word/p/pre/pregnant2.mp4",
+        "/word/p/pre/pregnancy-brain.mp4"
+    ],
+    "prevent": [
+        "/word/p/pre/prevent.mp4"
+    ],
+    "proof": [
+        "/word/p/pro/proof.mp4"
+    ],
+    "pumpkin": [
+        "/word/p/pum/pumpkin.mp4"
+    ],
+    "purpose": [
+        "/word/p/pur/purpose.mp4"
+    ],
+    "race": [
+        "/word/r/rac/race-fs.mp4",
+        "/word/r/rac/race-compete.mp4"
+    ],
+    "realize": [
+        "/word/r/rea/realize.mp4"
+    ],
+    "recognize": [
+        "/word/r/rec/recognize.mp4"
+    ],
+    "refuse": [
+        "/word/r/ref/refuse.mp4"
+    ],
+    "relationship": [
+        "/word/r/rel/relationship.mp4"
+    ],
+    "repeat": [
+        "/word/r/rep/repeat.mp4",
+        "/word/r/rep/repeat2.mp4"
+    ],
+    "replace": [
+        "/word/r/rep/replace.mp4"
+    ],
+    "report": [
+        "/word/r/rep/report.mp4",
+        "/word/r/rep/report2.mp4"
+    ],
+    "request": [
+        "/word/r/req/request.mp4"
+    ],
+    "result": [
+        "/word/r/res/result.mp4",
+        "/word/r/res/result-search.mp4"
+    ],
+    "reveal": [
+        "/word/r/rev/reveal-inform.mp4",
+        "/word/r/rev/reveal-confess.mp4",
+        "/word/r/rev/reveal-admit.mp4",
+        "/word/r/rev/reveal-show.mp4"
+    ],
+    "ring": [
+        "/word/r/rin/ring-sound.mp4"
+    ],
+    "rock": [
+        "/word/r/roc/rock-stone.mp4"
+    ],
+    "role": [
+        "/word/r/rol/role.mp4"
+    ],
+    "rope": [
+        "/word/r/rop/rope2.mp4"
+    ],
+    "rush": [
+        "/word/r/rus/rush-hurry.mp4",
+        "/word/r/rus/rush-hurry2.mp4"
+    ],
+    "salute": [
+        "/word/s/sal/salute-military.mp4"
+    ],
+    "search": [
+        "/word/s/sea/search.mp4"
+    ],
+    "selfish": [
+        "/word/s/sel/selfish.mp4",
+        "/word/s/sel/selfish-very.mp4"
+    ],
+    "sensitive": [
+        "/word/s/sen/sensitive.mp4",
+        "/word/s/sen/sensitive-very.mp4"
+    ],
+    "serve": [
+        "/word/s/ser/serve.mp4"
+    ],
+    "shampoo": [
+        "/word/s/sha/shampoo.mp4"
+    ],
+    "she": [
+        "/word/s/she/she.mp4"
+    ],
+    "shelf": [
+        "/word/s/she/shelf.mp4",
+        "/word/s/she/shelves.mp4",
+        "/word/b/boo/bookshelf.mp4",
+        "/word/b/boo/books-shelf.mp4",
+        "/word/b/boo/books-shelf2.mp4"
+    ],
+    "shopping": [
+        "/word/s/sho/shopping.mp4",
+        "/word/s/sho/shopping2.mp4"
+    ],
+    "sign language": [
+        "/word/s/sig/sign-language.mp4"
+    ],
+    "similar": [
+        "/word/s/sim/similar.mp4",
+        "/word/s/sim/similar2.mp4"
+    ],
+    "sing": [
+        "/word/s/sin/sing.mp4"
+    ],
+    "skeleton": [
+        "/word/s/ske/skeleton.mp4"
+    ],
+    "sketch": [
+        "/word/s/ske/sketch-drawing.mp4"
+    ],
+    "skill": [
+        "/word/s/ski/skill.mp4",
+        "/word/s/ski/skill2.mp4"
+    ],
+    "sleepy": [
+        "/word/s/sle/sleepy.mp4",
+        "/word/s/sle/sleepy-eyes.mp4"
+    ],
+    "slip": [
+        "/word/c/cam/camisole.mp4"
+    ],
+    "smell": [
+        "/word/s/sme/smell.mp4"
+    ],
+    "sneeze": [
+        "/word/s/sne/sneeze.mp4",
+        "/word/s/sne/sneeze2.mp4",
+        "/kid/asl/s/sneeze-age1.mp4"
+    ],
+    "specific": [
+        "/word/s/spe/specific.mp4"
+    ],
+    "steel": [
+        "/word/s/ste/steel-fs.mp4",
+        "/word/s/ste/steel.mp4"
+    ],
+    "subtract": [
+        "/word/s/sub/subtract.mp4",
+        "/word/s/sub/subtraction-math.mp4"
+    ],
+    "subway": [
+        "/word/s/sub/subway.mp4",
+        "/word/s/sub/subway-one.mp4"
+    ],
+    "suffer": [
+        "/word/s/suf/suffer.mp4"
+    ],
+    "surface": [
+        "/word/s/sur/surface.mp4"
+    ],
+    "sweep": [
+        "/word/s/swe/sweep.mp4"
+    ],
+    "swing": [
+        "/word/s/swi/swing.mp4"
+    ],
+    "tale": [
+        "/word/t/tal/tale.mp4"
+    ],
+    "tan": [
+        "/word/t/tan/tan-color.mp4",
+        "/word/k/kha/khaki-fs.mp4"
+    ],
+    "teeth": [
+        "/word/t/too/tooth.mp4",
+        "/word/t/tee/teeth.mp4"
+    ],
+    "terrible": [
+        "/word/t/ter/terrible.mp4"
+    ],
+    "thankful": [
+        "/word/t/tha/thankful.mp4",
+        "/word/t/tha/thankful-goodthing.mp4",
+        "/word/t/tha/thankful-good.mp4"
+    ],
+    "they": [
+        "/word/t/the/they.mp4",
+        "/word/t/the/they-two.mp4",
+        "/word/t/the/they-three.mp4"
+    ],
+    "through": [
+        "/word/t/thr/through.mp4",
+        "/word/g/go/go-through.mp4"
+    ],
+    "tiptoe": [
+        "/word/t/tip/tiptoe.mp4",
+        "/word/t/tip/tiptoe-hush.mp4",
+        "/word/t/tip/tiptoe-bpcl.mp4"
+    ],
+    "title": [
+        "/word/t/tit/title.mp4",
+        "/word/t/tit/title2.mp4"
+    ],
+    "tooth": [
+        "/word/t/too/tooth.mp4",
+        "/word/t/tee/teeth.mp4"
+    ],
+    "toothbrush": [
+        "/word/t/too/toothbrush.mp4"
+    ],
+    "total": [
+        "/word/t/tot/total.mp4",
+        "/word/t/tot/total2.mp4"
+    ],
+    "tough": [
+        "/word/t/tou/tough.mp4",
+        "/word/t/tou/tough2.mp4"
+    ],
+    "tradition": [
+        "/word/t/tra/tradition.mp4",
+        "/word/t/tra/tradition-custom.mp4",
+        "/word/t/tra/traditional-years.mp4"
+    ],
+    "trophy": [
+        "/word/t/tro/trophy.mp4"
+    ],
+    "trouble": [
+        "/word/t/tro/trouble.mp4"
+    ],
+    "true": [
+        "/word/t/tru/true.mp4"
+    ],
+    "trust": [
+        "/word/t/tru/trust.mp4"
+    ],
+    "under": [
+        "/word/u/und/under-below.mp4",
+        "/word/u/und/under-less.mp4",
+        "/word/u/und/under-position.mp4"
+    ],
+    "verb": [
+        "/word/v/ver/verb.mp4"
+    ],
+    "wall": [
+        "/word/w/wal/wall.mp4"
+    ],
+    "watermelon": [
+        "/word/w/wat/watermelon.mp4"
+    ],
+    "way": [
+        "/word/w/way/way.mp4",
+        "/word/w/way/way-custom.mp4",
+        "/word/w/way/way-true.mp4"
+    ],
+    "weird": [
+        "/word/w/wei/weird.mp4"
+    ],
+    "while": [
+        "/word/w/whi/while-during.mp4",
+        "/word/w/whi/while-understand.mp4",
+        "/word/b/bee/been-a-while.mp4"
+    ],
+    "wide": [
+        "/word/w/wid/wide.mp4"
+    ],
+    "willing": [
+        "/word/w/wil/willing.mp4"
+    ],
+    "wish": [
+        "/word/w/wis/wish.mp4"
+    ],
+    "wonderful": [
+        "/word/w/won/wonderful.mp4"
+    ],
+    "workshop": [
+        "/word/w/wor/workshop-class.mp4"
+    ],
+    "worse": [
+        "/word/w/wor/worse.mp4",
+        "/word/w/wor/worsen.mp4"
+    ],
+    "wrench": [
+        "/word/w/wre/wrench.mp4"
+    ],
+    "abdomen": [
+        "/word/a/abd/abdomen.mp4"
+    ],
+    "able": [
+        "/word/a/abl/able.mp4"
+    ],
+    "accountant": [
+        "/word/a/acc/accountant.mp4"
+    ],
+    "active": [
+        "/word/a/act/active.mp4"
+    ],
+    "activity": [
+        "/word/a/act/activity.mp4"
+    ],
+    "address": [
+        "/word/a/add/address.mp4",
+        "/word/a/add/address-speak.mp4"
+    ],
+    "affect": [
+        "/word/a/aff/affect.mp4"
+    ],
+    "afraid": [
+        "/word/a/afr/afraid.mp4"
+    ],
+    "against": [
+        "/word/a/aga/against.mp4"
+    ],
+    "agenda": [
+        "/word/a/age/agenda-list.mp4",
+        "/word/a/age/agenda-points.mp4",
+        "/word/a/age/agenda.mp4",
+        "/word/h/hid/hidden-agenda.mp4",
+        "/word/h/hid/hidden-agenda2.mp4"
+    ],
+    "ahead": [
+        "/word/a/ahe/ahead.mp4",
+        "/word/a/ahe/ahead2.mp4"
+    ],
+    "aim": [
+        "/word/a/aim/aim-target.mp4",
+        "/word/a/aim/aim-goal.mp4"
+    ],
+    "alcohol": [
+        "/word/a/alc/alcoholic.mp4",
+        "/word/a/alc/alcoholic-aa.mp4"
+    ],
+    "algebra": [
+        "/word/a/alg/algebra.mp4"
+    ],
+    "apart": [
+        "/word/a/apa/apart.mp4",
+        "/word/g/gro/grow-apart-relation.mp4"
+    ],
+    "apostrophe": [
+        "/word/a/apo/apostrophe.mp4"
+    ],
+    "appetite": [
+        "/word/a/app/appetite-want.mp4",
+        "/word/a/app/appetite-hungry.mp4"
+    ],
+    "appreciate": [
+        "/word/a/app/appreciate.mp4",
+        "/word/a/app/appreciate-1913.mp4"
+    ],
+    "archery": [
+        "/word/a/arc/archery.mp4",
+        "/word/b/bow/bow-archery.mp4"
+    ],
+    "around": [
+        "/word/a/aro/around-env.mp4",
+        "/word/a/aro/around-about.mp4"
+    ],
+    "article": [
+        "/word/a/art/article.mp4"
+    ],
+    "assistant": [
+        "/word/a/ass/assistant.mp4",
+        "/word/a/ass/assistant2.mp4"
+    ],
+    "attend": [
+        "/word/a/att/attend-go.mp4"
+    ],
+    "auction": [
+        "/word/a/auc/auction.mp4"
+    ],
+    "authority": [
+        "/word/a/aut/authority.mp4"
+    ],
+    "average": [
+        "/word/a/ave/average.mp4",
+        "/word/a/ave/average-divide.mp4"
+    ],
+    "awake": [
+        "/word/a/awa/awake.mp4"
+    ],
+    "battle": [
+        "/word/b/bat/battle-war.mp4",
+        "/word/b/bat/battle-struggle.mp4"
+    ],
+    "bible": [
+        "/word/b/bib/bible.mp4"
+    ],
+    "blend": [
+        "/word/b/ble/blend-merge.mp4"
+    ],
+    "bone": [
+        "/word/b/bon/bone.mp4"
+    ],
+    "bra": [
+        "/word/b/bra/bra.mp4"
+    ],
+    "brief": [
+        "/word/b/bri/brief-short.mp4"
+    ],
+    "broke": [
+        "/word/b/bro/broke-empty.mp4"
+    ],
+    "bug": [
+        "/word/b/bug/bug-insect.mp4"
+    ],
+    "bully": [
+        "/word/b/bul/bully.mp4"
+    ],
+    "button": [
+        "/word/b/but/button.mp4",
+        "/word/b/but/buttons.mp4"
+    ],
+    "cabbage": [
+        "/word/c/cab/cabbage.mp4"
+    ],
+    "calculate": [
+        "/word/c/cal/calculate.mp4"
+    ],
+    "calculator": [
+        "/word/c/cal/calculator.mp4"
+    ],
+    "calculus": [
+        "/word/c/cal/calculus.mp4"
+    ],
+    "careless": [
+        "/word/c/car/careless.mp4",
+        "/word/c/car/careless2.mp4",
+        "/word/c/car/careless-accident.mp4",
+        "/word/c/car/careless-sloppy.mp4"
+    ],
+    "cemetery": [
+        "/word/c/cem/cemetery.mp4"
+    ],
+    "chapter": [
+        "/word/c/cha/chapter.mp4"
+    ],
+    "choir": [
+        "/word/c/cho/choir.mp4"
+    ],
+    "circle": [
+        "/word/c/cir/circle.mp4",
+        "/word/c/cir/circle-ref.mp4"
+    ],
+    "come": [
+        "/word/c/com/come.mp4",
+        "/word/c/com/come2.mp4"
+    ],
+    "company": [
+        "/word/c/com/company-co.mp4"
+    ],
+    "complete": [
+        "/word/c/com/complete-done.mp4",
+        "/word/c/com/complete-finish.mp4",
+        "/word/c/com/complete-full.mp4"
+    ],
+    "concept": [
+        "/word/c/conc/concept.mp4",
+        "/word/c/conc/concept-greg-eyben.mp4"
+    ],
+    "confront": [
+        "/word/c/conf/confront-meet.mp4",
+        "/word/c/conf/confront-face.mp4"
+    ],
+    "confused": [
+        "/word/c/conf/confused.mp4"
+    ],
+    "connect": [
+        "/word/c/conn/connect.mp4"
+    ],
+    "conquer": [
+        "/word/c/conq/conquer.mp4",
+        "/word/c/conq/conquer-overcome.mp4",
+        "/word/c/conq/conquer-beat.mp4"
+    ],
+    "constitution": [
+        "/word/c/cons/constitution.mp4"
+    ],
+    "contract": [
+        "/word/c/cont/contract-paper.mp4",
+        "/word/c/cont/contract.mp4",
+        "/word/c/cont/contract-disease.mp4"
+    ],
+    "court": [
+        "/word/c/cou/court-law.mp4"
+    ],
+    "crab": [
+        "/word/c/cra/crab.mp4",
+        "/word/b/blu/bluecrab-dahlgren.mp4",
+        "/word/b/blu/bluecrab-fs-dahlgren.mp4"
+    ],
+    "cross": [
+        "/word/c/cro/cross-shape.mp4"
+    ],
+    "cruel": [
+        "/word/c/cru/cruel.mp4"
+    ],
+    "crush": [
+        "/word/c/cru/crush-infatuation.mp4",
+        "/word/c/cru/crush-press.mp4",
+        "/word/c/cru/crush-press2.mp4"
+    ],
+    "date": [
+        "/word/b/bli/blind-date.mp4",
+        "/word/d/dat/date-courtship.mp4"
+    ],
+    "decrease": [
+        "/word/d/dec/decrease.mp4",
+        "/word/d/dec/decrease2.mp4"
+    ],
+    "deduct": [
+        "/word/d/ded/deduct.mp4",
+        "/word/d/ded/deduct2.mp4"
+    ],
+    "defeat": [
+        "/word/d/def/defeat-hir.mp4",
+        "/word/d/def/defeat-all.mp4",
+        "/word/d/def/defeat-me.mp4",
+        "/word/d/def/defeated.mp4",
+        "/word/d/def/defeat-purpose-wheeler.mp4"
+    ],
+    "deposit": [
+        "/word/d/dep/deposit.mp4",
+        "/word/d/dep/deposit-coins.mp4"
+    ],
+    "depressed": [
+        "/word/d/dep/depressed.mp4"
+    ],
+    "detach": [
+        "/word/d/det/detach.mp4",
+        "/word/d/det/detachment.mp4",
+        "/word/d/det/detachable.mp4",
+        "/word/d/det/detached-garage.mp4"
+    ],
+    "determine": [
+        "/word/d/det/determine-decide.mp4",
+        "/word/d/det/determine-fix.mp4",
+        "/word/d/det/determine-identify.mp4"
+    ],
+    "diabetes": [
+        "/word/d/dia/diabetes.mp4"
+    ],
+    "dime": [
+        "/word/d/dim/dime.mp4"
+    ],
+    "dismiss": [
+        "/word/d/dis/dismiss-excuse.mp4",
+        "/word/d/dis/dismiss-letgo.mp4"
+    ],
+    "dizzy": [
+        "/word/d/diz/dizzy.mp4"
+    ],
+    "dormitory": [
+        "/word/d/dor/dormitory.mp4"
+    ],
+    "downstairs": [
+        "/word/d/dow/downstairs.mp4"
+    ],
+    "economy": [
+        "/word/e/eco/economy.mp4"
+    ],
+    "effort": [
+        "/word/e/eff/effort-try.mp4",
+        "/word/e/eff/effort-labor.mp4"
+    ],
+    "engage": [
+        "/word/e/eng/engage-marry.mp4",
+        "/word/e/eng/engage-attract.mp4",
+        "/word/e/eng/engage-involve.mp4"
+    ],
+    "envelope": [
+        "/word/e/env/envelope.mp4"
+    ],
+    "erase": [
+        "/word/e/era/erase.mp4",
+        "/word/e/era/erase-board.mp4"
+    ],
+    "evening": [
+        "/word/e/eve/evening.mp4",
+        "/word/e/eve/evenings.mp4"
+    ],
+    "everyday": [
+        "/word/e/eve/every-day.mp4"
+    ],
+    "expand": [
+        "/word/e/exp/expand.mp4",
+        "/word/e/exp/expand-word.mp4"
+    ],
+    "farmer": [
+        "/word/f/far/farmer.mp4"
+    ],
+    "federal": [
+        "/word/f/fed/federal.mp4"
+    ],
+    "final": [
+        "/word/f/fin/final-last.mp4"
+    ],
+    "flute": [
+        "/word/f/flu/flute.mp4"
+    ],
+    "forbid": [
+        "/word/f/for/forbid.mp4"
+    ],
+    "forever": [
+        "/word/f/for/forever.mp4",
+        "/word/f/for/forever-and-ever.mp4"
+    ],
+    "fourth": [
+        "/word/f/fou/fourth.mp4",
+        "/word/f/fou/fourth-place.mp4"
+    ],
+    "free": [
+        "/word/f/fre/free.mp4",
+        "/word/f/fre/free-stuff.mp4",
+        "/word/f/fre/free-fs.mp4"
+    ],
+    "gamble": [
+        "/word/g/gam/gamble.mp4"
+    ],
+    "gasoline": [
+        "/word/g/gas/gasoline.mp4",
+        "/word/g/gas/gas.mp4",
+        "/word/g/gas/gas-fuel.mp4"
+    ],
+    "generation": [
+        "/word/g/gen/generation.mp4"
+    ],
+    "girlfriend": [
+        "/word/g/gir/girlfriend.mp4"
+    ],
+    "gold": [
+        "/word/g/gol/gold.mp4"
+    ],
+    "gun": [
+        "/word/g/gun/gun.mp4"
+    ],
+    "haircut": [
+        "/word/h/hai/haircut.mp4",
+        "/word/h/hai/haircut2.mp4"
+    ],
+    "hippopotamus": [
+        "/word/h/hip/hippopotamus.mp4",
+        "/word/h/hip/hippopotamus2.mp4"
+    ],
+    "his": [
+        "/word/h/his/his.mp4",
+        "/word/h/his/his2.mp4"
+    ],
+    "identify": [
+        "/word/i/ide/identify.mp4"
+    ],
+    "include": [
+        "/word/i/inc/include.mp4"
+    ],
+    "insect": [
+        "/word/i/ins/insect.mp4"
+    ],
+    "instead": [
+        "/word/i/ins/instead-of.mp4"
+    ],
+    "institute": [
+        "/word/i/ins/institute.mp4"
+    ],
+    "international": [
+        "/word/i/int/international.mp4"
+    ],
+    "involve": [
+        "/word/i/inv/involve.mp4",
+        "/word/i/inv/involve-participate.mp4"
+    ],
+    "jail": [
+        "/word/j/jail.mp4"
+    ],
+    "joke": [
+        "/word/j/jok/joke.mp4",
+        "/word/j/jok/joke-fs.mp4"
+    ],
+    "kangaroo": [
+        "/word/k/kangaroo.mp4"
+    ],
+    "karate": [
+        "/word/k/kar/karate.mp4"
+    ],
+    "kick": [
+        "/word/k/kick-foot.mp4"
+    ],
+    "kneel": [
+        "/word/k/kne/kneel.mp4"
+    ],
+    "knock": [
+        "/word/k/kno/knock.mp4",
+        "/word/k/kno/knock2.mp4",
+        "/word/k/kno/knock-on-wood.mp4"
+    ],
+    "lift": [
+        "/word/l/lif/lift.mp4",
+        "/word/l/lif/lift-leg.mp4"
+    ],
+    "lip": [
+        "/word/l/lip/lips.mp4",
+        "/word/l/lip/lip.mp4"
+    ],
+    "lipstick": [
+        "/word/l/lip/lipstick.mp4"
+    ],
+    "local": [
+        "/word/l/loc/local.mp4"
+    ],
+    "manage": [
+        "/word/m/man/manage.mp4"
+    ],
+    "mature": [
+        "/word/m/mat/mature.mp4"
+    ],
+    "member": [
+        "/word/m/mem/member.mp4"
+    ],
+    "message": [
+        "/word/m/mes/message.mp4"
+    ],
+    "mix": [
+        "/word/m/mix/mix.mp4"
+    ],
+    "monthly": [
+        "/word/m/mon/monthly.mp4"
+    ],
+    "motor": [
+        "/word/m/mot/motor-machine.mp4"
+    ],
+    "network": [
+        "/word/n/net/network.mp4"
+    ],
+    "nickel": [
+        "/word/n/nic/nickel.mp4",
+        "/word/n/nic/nickel2.mp4",
+        "/word/n/nic/nickel-numinc.mp4",
+        "/word/n/nic/nickel-numinc2.mp4"
+    ],
+    "normal": [
+        "/word/n/nor/normal.mp4"
+    ],
+    "octopus": [
+        "/word/o/oct/octopus.mp4"
+    ],
+    "once": [
+        "/word/o/onc/once.mp4"
+    ],
+    "organize": [
+        "/word/o/org/organize-plan.mp4",
+        "/word/o/org/organize-coordinate.mp4",
+        "/word/o/org/organize-arrange.mp4",
+        "/word/o/org/organized-coordinate.mp4",
+        "/word/o/org/organized-plan.mp4"
+    ],
+    "over": [
+        "/word/o/ove/over.mp4",
+        "/word/o/ove/over-there.mp4"
+    ],
+    "owl": [
+        "/word/o/owl/owl.mp4",
+        "/word/o/owl/owl-moonstar.mov"
+    ],
+    "parachute": [
+        "/word/p/par/parachute.mp4"
+    ],
+    "paragraph": [
+        "/word/p/par/paragraph.mp4"
+    ],
+    "parallel": [
+        "/word/p/par/parallel.mp4",
+        "/word/p/par/parallel-parking.mp4",
+        "/word/p/par/parallel-parking2.mp4"
+    ],
+    "pay attention": [
+        "/word/p/pay/pay-attention.mp4"
+    ],
+    "peace": [
+        "/word/p/pea/peace.mp4",
+        "/word/p/pea/peace-v2.mp4",
+        "/word/p/pea/peace-mind.mp4",
+        "/word/p/pea/peaceofmind-blankmind.mp4"
+    ],
+    "peanut butter": [
+        "/word/p/pea/peanut-butter.mp4"
+    ],
+    "perfume": [
+        "/word/p/per/perfume.mp4",
+        "/word/p/per/perfume-spray.mp4"
+    ],
+    "personality": [
+        "/word/p/per/personality.mp4"
+    ],
+    "pet": [
+        "/word/p/pet/pet.mp4",
+        "/word/p/pet/pet-fs.mp4"
+    ],
+    "physician": [
+        "/word/p/phy/physician.mp4"
+    ],
+    "piece": [
+        "/word/p/pie/piece-part.mp4"
+    ],
+    "plant": [
+        "/word/p/pla/plant.mp4",
+        "/word/p/pla/plant-put.mp4"
+    ],
+    "pneumonia": [
+        "/word/p/pneumonia.mp4"
+    ],
+    "politics": [
+        "/word/p/pol/politics.mp4"
+    ],
+    "position": [
+        "/word/p/pos/position.mp4"
+    ],
+    "pound": [
+        "/word/p/pou/pound-weight.mp4",
+        "/word/p/pou/pound-bam.mp4",
+        "/word/p/pou/pound-money.mp4"
+    ],
+    "pour": [
+        "/word/p/pou/pour-container.mp4",
+        "/word/p/pou/pour-pitcher.mp4",
+        "/word/p/pou/pour-out.mp4"
+    ],
+    "praise": [
+        "/word/p/pra/praise.mp4"
+    ],
+    "preach": [
+        "/word/p/pre/preach.mp4"
+    ],
+    "preacher": [
+        "/word/p/pre/preacher.mp4"
+    ],
+    "prefer": [
+        "/word/p/pre/prefer.mp4"
+    ],
+    "pressure": [
+        "/word/p/pre/pressure.mp4"
+    ],
+    "principal": [
+        "/word/p/pri/principal-school.mp4"
+    ],
+    "priority": [
+        "/word/p/pri/priority.mp4"
+    ],
+    "professional": [
+        "/word/p/pro/professional.mp4"
+    ],
+    "professor": [
+        "/word/p/pro/professor.mp4"
+    ],
+    "promote": [
+        "/word/p/pro/promote-advance.mp4",
+        "/word/p/pro/promote-position.mp4"
+    ],
+    "prostitute": [
+        "/word/p/pro/prostitute.mp4"
+    ],
+    "proud": [
+        "/word/p/pro/proud.mp4"
+    ],
+    "quote": [
+        "/word/q/quo/quote.mp4",
+        "/word/q/quo/quote-say.mp4"
+    ],
+    "receive": [
+        "/word/r/rec/receive.mp4"
+    ],
+    "reduce": [
+        "/word/r/red/reduce.mp4",
+        "/word/r/red/reduce2.mp4",
+        "/word/r/red/reduce-mikeykrajnak.mp4"
+    ],
+    "refer": [
+        "/word/r/ref/refer.mp4"
+    ],
+    "referee": [
+        "/word/r/ref/referee.mp4"
+    ],
+    "relate": [
+        "/word/r/rel/relate-to.mp4"
+    ],
+    "relax": [
+        "/word/r/rel/relax.mp4"
+    ],
+    "remote control": [
+        "/word/r/rem/remote-control.mp4"
+    ],
+    "rent": [
+        "/word/r/ren/rent-fs.mp4"
+    ],
+    "reputation": [
+        "/word/r/rep/reputation.mp4"
+    ],
+    "resign": [
+        "/word/r/res/resign.mp4"
+    ],
+    "responsible": [
+        "/word/r/res/responsible.mp4",
+        "/word/r/res/responsible-patrickgraybill.mp4"
+    ],
+    "ridiculous": [
+        "/word/r/rid/ridiculous-silly.mp4",
+        "/word/r/rid/ridiculous-silly2.mp4"
+    ],
+    "road": [
+        "/word/r/roa/road.mp4",
+        "/word/r/roa/road-car.mp4"
+    ],
+    "robot": [
+        "/word/r/rob/robot.mp4",
+        "/word/r/rob/robot2.mp4"
+    ],
+    "rubber": [
+        "/word/r/rub/rubber.mp4"
+    ],
+    "safe": [
+        "/word/s/saf/safety-box.mp4"
+    ],
+    "sauce": [
+        "/word/s/sau/sauce.mp4",
+        "/word/s/sau/sauce2.mp4",
+        "/word/t/tom/tomato-sauce.mp4"
+    ],
+    "sausage": [
+        "/word/s/sau/sausage.mp4"
+    ],
+    "scold": [
+        "/word/s/sco/scold.mp4",
+        "/word/s/sco/scold-harshly.mp4"
+    ],
+    "several": [
+        "/word/s/sev/several.mp4"
+    ],
+    "shame": [
+        "/word/s/sha/shame.mp4"
+    ],
+    "shave": [
+        "/word/s/sha/shave.mp4",
+        "/word/s/sha/shave-chin.mp4",
+        "/word/s/sha/shave-leg.mp4",
+        "/word/s/sha/shaver.mp4",
+        "/word/s/sha/shaver2.mp4"
+    ],
+    "shoot": [
+        "/word/s/sho/shoot-gun.mp4",
+        "/word/s/sho/shoot-video.mp4",
+        "/word/s/sho/shoot-video2.mp4",
+        "/word/s/sho/shoot-up-grow.mp4",
+        "/word/s/sho/shoot-up-drug.mp4"
+    ],
+    "shoulder": [
+        "/word/s/sho/shoulder-right.mp4"
+    ],
+    "simple": [
+        "/word/s/sim/simple-us.mp4",
+        "/word/s/sim/simple-ca.mp4"
+    ],
+    "siren": [
+        "/word/s/sir/siren.mp4"
+    ],
+    "size": [
+        "/word/s/siz/size-fs.mp4",
+        "/word/s/siz/size.mp4",
+        "/word/p/poc/pocket-sized.mp4"
+    ],
+    "slice": [
+        "/word/s/sli/slice-cut.mp4"
+    ],
+    "smooth": [
+        "/word/s/smo/smooth.mp4"
+    ],
+    "snack": [
+        "/word/s/sna/snack.mp4"
+    ],
+    "snowman": [
+        "/word/s/sno/snowman.mp4"
+    ],
+    "society": [
+        "/word/s/soc/society.mp4"
+    ],
+    "someone": [
+        "/word/s/som/someone.mp4"
+    ],
+    "song": [
+        "/word/s/son/song.mp4"
+    ],
+    "sore throat": [
+        "/word/s/sor/sore-throat.mp4",
+        "/word/s/str/strep-throat.mp4"
+    ],
+    "speed": [
+        "/word/s/spe/speed.mp4",
+        "/word/s/spe/speeding.mp4"
+    ],
+    "spell": [
+        "/word/s/spe/spelling.mp4",
+        "/word/s/spe/spell.mp4"
+    ],
+    "spoon": [
+        "/word/s/spo/spoon-cutlery.mp4"
+    ],
+    "spring": [
+        "/word/s/spr/spring-season.mp4"
+    ],
+    "standard": [
+        "/word/s/sta/standard.mp4"
+    ],
+    "statistics": [
+        "/word/s/sta/statistics.mp4"
+    ],
+    "sticky": [
+        "/word/s/sti/sticky.mp4"
+    ],
+    "still": [
+        "/word/s/sti/still.mp4"
+    ],
+    "stretch": [
+        "/word/s/str/stretch.mp4"
+    ],
+    "surgeon": [
+        "/word/s/sur/surgeon.mp4",
+        "/word/s/sur/surgeon.mp4"
+    ],
+    "swimsuit": [
+        "/word/s/swi/swimsuit-torso.mp4",
+        "/word/s/swi/swimsuit-bottom.mp4"
+    ],
+    "sympathy": [
+        "/word/s/sym/sympathy.mp4"
+    ],
+    "take turns": [
+        "/word/t/tur/turn.mp4",
+        "/word/t/tak/take-turns2.mp4",
+        "/word/t/tak/take-turns.mp4",
+        "/word/t/tak/take-turns-youme.mp4"
+    ],
+    "take up": [
+        "/word/t/tak/take-up.mp4"
+    ],
+    "technology": [
+        "/word/t/tec/technology.mp4"
+    ],
+    "tender": [
+        "/word/t/ten/tender-soft.mp4",
+        "/word/t/ten/tender-nice.mp4"
+    ],
+    "them": [
+        "/word/t/the/them.mp4"
+    ],
+    "theme": [
+        "/word/t/the/theme.mp4"
+    ],
+    "thick": [
+        "/word/t/thi/thick.mp4",
+        "/word/t/thi/thick-erikwitteborg.mp4"
+    ],
+    "this": [
+        "/word/t/thi/this.mp4",
+        "/word/t/thi/this2.mp4"
+    ],
+    "throat": [
+        "/word/t/thr/throat.mp4"
+    ],
+    "tongue": [
+        "/word/t/ton/tongue.mp4"
+    ],
+    "tonight": [
+        "/word/t/ton/tonight.mp4"
+    ],
+    "tornado": [
+        "/word/t/tor/tornado.mp4"
+    ],
+    "tower": [
+        "/word/t/tow/tower-building.mp4",
+        "/word/t/tal/tall-person2.mp4"
+    ],
+    "tranquil": [
+        "/word/t/tra/tranquil.mp4"
+    ],
+    "transform": [
+        "/word/t/tra/transform-change.mp4"
+    ],
+    "tutor": [
+        "/word/t/tut/tutor-teach.mp4",
+        "/word/t/tut/tutor.mp4"
+    ],
+    "twin": [
+        "/word/t/twi/twin-offspring.mp4"
+    ],
+    "visitor": [
+        "/word/v/vis/visitor.mp4"
+    ],
+    "waiter": [
+        "/word/w/wai/waiter.mp4"
+    ],
+    "wander": [
+        "/word/w/wan/wander.mp4"
+    ],
+    "wash face": [
+        "/word/w/was/wash-face.mp4",
+        "/word/w/was/wash-face2.mp4",
+        "/word/w/was/wash-face3.mp4",
+        "/word/w/was/wash-face4.mp4"
+    ],
+    "weight": [
+        "/word/w/wei/weight.mp4",
+        "/word/w/wei/weights.mp4"
+    ],
+    "whale": [
+        "/word/w/wha/whale.mp4"
+    ],
+    "whatever": [
+        "/word/w/wha/whatever.mp4",
+        "/word/w/wha/whatever-slang.mp4",
+        "/word/w/wha/whatever-gregeyben.mp4"
+    ],
+    "within": [
+        "/word/w/wit/within.mp4",
+        "/word/w/wit/within-time.mp4"
+    ],
+    "wonder": [
+        "/word/w/won/wonder.mp4"
+    ],
+    "worker": [
+        "/word/w/wor/worker.mp4"
+    ],
+    "worthless": [
+        "/word/w/wor/worthless-useless.mp4",
+        "/word/w/wor/worthless.mp4"
+    ],
+    "wrap": [
+        "/word/w/wra/wrap-enclose.mp4",
+        "/word/w/wra/wrap-head.mp4",
+        "/word/w/wra/wrap-line.mp4"
+    ],
+    "accent": [
+        "/word/a/acc/accent.mp4",
+        "/word/a/acc/accent-hand.mp4"
+    ],
+    "adjective": [
+        "/word/a/adj/adjective.mp4"
+    ],
+    "adjust": [
+        "/word/a/adj/adjust.mp4"
+    ],
+    "admire": [
+        "/word/a/adm/admire.mp4"
+    ],
+    "admit": [
+        "/word/a/adm/admit.mp4"
+    ],
+    "advanced": [
+        "/word/a/adv/advanced.mp4"
+    ],
+    "adverb": [
+        "/word/a/adv/adverb.mp4"
+    ],
+    "aid": [
+        "/word/a/aid/aid.mp4"
+    ],
+    "alligator": [
+        "/word/a/all/alligator.mp4"
+    ],
+    "amputate": [
+        "/word/a/amp/amputate.mp4"
+    ],
+    "anatomy": [
+        "/word/a/ana/anatomy.mp4"
+    ],
+    "annoy": [
+        "/word/a/ann/annoy.mp4",
+        "/word/a/ann/annoyed.mp4",
+        "/word/a/ann/annoyed-irk.mp4"
+    ],
+    "anyway": [
+        "/word/a/any/anyway.mp4"
+    ],
+    "approach": [
+        "/word/a/app/approach.mp4",
+        "/word/a/app/approach-time.mp4"
+    ],
+    "assist": [
+        "/word/a/ass/assist.mp4"
+    ],
+    "assume": [
+        "/word/a/ass/assume.mp4"
+    ],
+    "attorney": [
+        "/word/a/att/attorney.mp4"
+    ],
+    "audiologist": [
+        "/word/a/aud/audiologist.mp4"
+    ],
+    "audiology": [
+        "/word/a/aud/audiology.mp4"
+    ],
+    "author": [
+        "/word/a/aut/author.mp4"
+    ],
+    "available": [
+        "/word/a/ava/available.mp4"
+    ],
+    "award": [
+        "/word/a/awa/award-verb.mp4",
+        "/word/a/awa/award-noun.mp4"
+    ],
+    "aware": [
+        "/word/a/awa/aware.mp4"
+    ],
+    "bank": [
+        "/word/b/ban/bank-fs.mp4"
+    ],
+    "basic": [
+        "/word/b/bas/basic.mp4"
+    ],
+    "beside": [
+        "/word/b/bes/beside.mp4",
+        "/word/b/bes/besides.mp4"
+    ],
+    "blow": [
+        "/word/b/blo/blowup-puff.mp4",
+        "/word/b/blo/blow-stroke.mp4",
+        "/word/b/blo/blow-puff.mp4",
+        "/word/b/blo/blowup-explode.mp4",
+        "/word/b/blo/blowup-balloon.mp4",
+        "/word/b/blo/blow-it.mp4",
+        "/word/b/blo/blow-hotcold.mp4"
+    ],
+    "boast": [
+        "/word/b/boa/boast.mp4"
+    ],
+    "boil": [
+        "/word/b/boi/boil.mp4",
+        "/word/b/boi/boil-fs.mp4"
+    ],
+    "bookshelf": [
+        "/word/s/she/shelf.mp4",
+        "/word/s/she/shelves.mp4",
+        "/word/b/boo/bookshelf.mp4",
+        "/word/b/boo/books-shelf.mp4",
+        "/word/b/boo/books-shelf2.mp4"
+    ],
+    "bookstore": [
+        "/word/b/boo/bookstore.mp4"
+    ],
+    "boxing": [
+        "/word/b/box/boxing.mp4"
+    ],
+    "braid": [
+        "/word/b/bra/braid.mp4",
+        "/word/b/bra/braid2.mp4",
+        "/word/b/bra/braid-hair.mp4",
+        "/word/b/bra/braids.mp4",
+        "/word/f/fre/french-braid.mp4"
+    ],
+    "brain": [
+        "/word/b/bra/brain.mp4"
+    ],
+    "breakfast": [
+        "/word/b/bre/breakfast.mp4",
+        "/word/b/bre/breakfast-b.mp4"
+    ],
+    "breeze": [
+        "/word/b/bre/breeze.mp4"
+    ],
+    "bribe": [
+        "/word/b/bri/bribe.mp4"
+    ],
+    "brochure": [
+        "/word/b/bro/brochure.mp4"
+    ],
+    "buffalo": [
+        "/word/b/buf/buffalo-y.mp4",
+        "/word/b/buf/buffalo2.mp4"
+    ],
+    "burp": [
+        "/word/b/bur/burp.mp4"
+    ],
+    "bush": [
+        "/word/b/bus/bush-fs.mp4"
+    ],
+    "bye": [
+        "/word/b/bye/bye-wave.mp4"
+    ],
+    "camel": [
+        "/word/c/cam/camel2.mp4",
+        "/word/c/cam/camel.mp4"
+    ],
+    "candidate": [
+        "/word/c/can/candidate.mp4"
+    ],
+    "cannot": [
+        "/word/c/can/cannot.mp4",
+        "/word/c/can/can-cannot.mp4",
+        "/word/c/can/can-cannot2.mp4",
+        "/word/c/can/can-cannot3.mp4"
+    ],
+    "captain": [
+        "/word/c/cap/captain-leader.mp4"
+    ],
+    "caterpillar": [
+        "/word/c/cat/caterpillar.mp4"
+    ],
+    "chemical": [
+        "/word/c/che/chemical.mp4"
+    ],
+    "choke": [
+        "/word/c/cho/choke.mp4"
+    ],
+    "click": [
+        "/word/c/cli/click-fs.mp4",
+        "/word/c/cli/click-computer.mp4",
+        "/word/c/cli/click-computer2.mp4",
+        "/word/c/cli/click-rick-zimmer.mp4",
+        "/word/c/cli/click-photo.mp4",
+        "/word/c/cli/click-heels.mp4"
+    ],
+    "closet": [
+        "/word/c/clo/closet.mp4"
+    ],
+    "clueless": [
+        "/word/c/clu/clueless-unaware.mp4",
+        "/word/c/clu/clueless.mp4",
+        "/word/c/clu/clueless-noidea.mp4"
+    ],
+    "clumsy": [
+        "/word/c/clu/clumsy.mp4"
+    ],
+    "collect": [
+        "/word/c/col/collect.mp4"
+    ],
+    "comma": [
+        "/word/c/com/comma.mp4"
+    ],
+    "comment": [
+        "/word/c/com/comment.mp4"
+    ],
+    "commit": [
+        "/word/c/com/commit.mp4"
+    ],
+    "committee": [
+        "/word/c/com/committee.mp4"
+    ],
+    "common sense": [
+        "/word/c/com/common-sense.mp4"
+    ],
+    "compete": [
+        "/word/c/com/compete.mp4"
+    ],
+    "concentrate": [
+        "/word/c/conc/concentrate.mp4"
+    ],
+    "consider": [
+        "/word/c/cons/consider.mp4"
+    ],
+    "construct": [
+        "/word/c/cons/construct.mp4",
+        "/word/u/und/under-construction-build.mp4"
+    ],
+    "consume": [
+        "/word/c/cons/consume.mp4",
+        "/word/c/cons/consume2.mp4",
+        "/word/c/cons/consume-plu2.mp4",
+        "/word/c/cons/consume-plu2.mp4",
+        "/word/c/cons/consume-useup.mp4"
+    ],
+    "contest": [
+        "/word/c/cont/contest.mp4"
+    ],
+    "conversation": [
+        "/word/c/conv/conversation-chat.mp4"
+    ],
+    "convert": [
+        "/word/c/conv/convert.mp4"
+    ],
+    "cooperate": [
+        "/word/c/coo/cooperate-cir.mp4",
+        "/word/c/coo/cooperate-dir.mp4"
+    ],
+    "crave": [
+        "/word/c/cra/crave.mp4"
+    ],
+    "create": [
+        "/word/c/cre/create-make.mp4"
+    ],
+    "crocodile": [
+        "/word/c/cro/crocodile.mp4"
+    ],
+    "crown": [
+        "/word/c/cro/crown-royal.mp4"
+    ],
+    "curtain": [
+        "/word/c/cur/curtain2.mp4",
+        "/word/c/cur/curtain.mp4",
+        "/word/c/cur/curtains.mp4"
+    ],
+    "customer": [
+        "/word/c/cus/customer.mp4",
+        "/word/c/cus/customer-agent.mp4"
+    ],
+    "damage": [
+        "/word/d/dam/damage.mp4"
+    ],
+    "dancer": [
+        "/word/d/dan/dancer.mp4"
+    ],
+    "dangerous": [
+        "/word/d/dan/danger-us.mp4",
+        "/word/d/dan/danger-ca.mp4"
+    ],
+    "dawn": [
+        "/word/d/daw/dawn-sunrise.mp4",
+        "/word/d/daw/dawn-perceived.mp4"
+    ],
+    "debate": [
+        "/word/d/deb/debate.mp4"
+    ],
+    "debt": [
+        "/word/d/deb/debt-money.mp4"
+    ],
+    "deliver": [
+        "/word/d/del/deliver.mp4",
+        "/word/d/del/deliver-birth.mp4"
+    ],
+    "descend": [
+        "/word/d/des/descend-down.mp4"
+    ],
+    "design": [
+        "/word/d/des/design.mp4"
+    ],
+    "detective": [
+        "/word/d/det/detective.mp4"
+    ],
+    "dice": [
+        "/word/d/dic/dice.mp4",
+        "/word/d/dic/dice-cut.mp4"
+    ],
+    "difficult": [
+        "/word/d/dif/difficult.mp4"
+    ],
+    "discipline": [
+        "/word/d/dis/discipline.mp4"
+    ],
+    "discount": [
+        "/word/d/dis/discount.mp4"
+    ],
+    "disturb": [
+        "/word/d/dis/disturb.mp4"
+    ],
+    "done": [
+        "/word/d/don/done-finish.mp4",
+        "/word/d/don/done-complete.mp4"
+    ],
+    "drag": [
+        "/word/d/dra/drag.mp4",
+        "/word/d/dra/drag-mouse.mp4"
+    ],
+    "dragon": [
+        "/word/d/dra/dragon.mp4"
+    ],
+    "drama": [
+        "/word/d/dra/drama.mp4"
+    ],
+    "drug": [
+        "/word/d/dru/drug-fs.mp4",
+        "/word/d/dru/drug-arm.mp4",
+        "/word/h/hyd/hydroxychloroquine-hcq.mp4"
+    ],
+    "dusk": [
+        "/word/d/dus/dusk.mp4"
+    ],
+    "dye": [
+        "/word/d/dye/dye.mp4",
+        "/word/d/dye/dye-hair.mp4"
+    ],
+    "either": [
+        "/word/e/eit/either.mp4"
+    ],
+    "electricity": [
+        "/word/e/ele/electricity.mp4"
+    ],
+    "elementary": [
+        "/word/e/ele/elementary.mp4"
+    ],
+    "else": [
+        "/word/e/else-other.mp4"
+    ],
+    "emergency": [
+        "/word/e/eme/emergency.mp4",
+        "/word/e/eme/emergency2.mp4"
+    ],
+    "eraser": [
+        "/word/e/era/eraser.mp4"
+    ],
+    "everything": [
+        "/word/e/eve/everything.mp4"
+    ],
+    "exhibit": [
+        "/word/e/exh/exhibit-art.mp4",
+        "/word/e/exh/exhibition-art.mp4",
+        "/word/e/exh/exhibit-court.mp4"
+    ],
+    "explode": [
+        "/word/e/exp/explode.mp4"
+    ],
+    "festival": [
+        "/word/f/fes/festival.mp4"
+    ],
+    "finance": [
+        "/word/f/fin/finances.mp4"
+    ],
+    "fire": [
+        "/word/f/fir/fire.mp4",
+        "/word/f/fir/fire2.mp4"
+    ],
+    "firefighter": [
+        "/word/f/fir/firefighter.mp4"
+    ],
+    "flatter": [
+        "/word/f/fla/flatter.mp4",
+        "/word/f/fla/flattered.mp4"
+    ],
+    "fool": [
+        "/word/f/foo/fool-joke.mp4",
+        "/word/f/foo/fool2.mp4",
+        "/word/f/foo/fool-trick.mp4",
+        "/word/f/foo/fool-around-play.mp4",
+        "/word/f/foo/fool-around.mp4"
+    ],
+    "forgive": [
+        "/word/f/for/forgive.mp4"
+    ],
+    "former": [
+        "/word/f/for/former.mp4",
+        "/word/f/for/former-past.mp4"
+    ],
+    "freeway": [
+        "/word/f/fre/freeway.mp4"
+    ],
+    "from now on": [
+        "/word/f/fro/from-now-on.mp4"
+    ],
+    "gang": [
+        "/word/g/gan/gang.mp4"
+    ],
+    "geometry": [
+        "/word/g/geo/geometry.mp4"
+    ],
+    "get up": [
+        "/word/g/get/get-up.mp4"
+    ],
+    "gift": [
+        "/word/g/gif/gift-fs.mp4",
+        "/word/g/gif/gift.mp4",
+        "/word/t/tal/talent-natural.mp4"
+    ],
+    "grab": [
+        "/word/g/gra/grab.mp4"
+    ],
+    "graduation": [
+        "/word/g/gra/graduation.mp4"
+    ],
+    "gymnastics": [
+        "/word/g/gym/gymnastics.mp4",
+        "/word/g/gym/gymnastics2.mp4",
+        "/word/r/rhy/rhythmic-gymnastics.mp4"
+    ],
+    "hang up": [
+        "/word/h/han/hangup-phone.mp4",
+        "/word/h/han/hangup-phone2.mp4",
+        "/word/h/han/hangup-on.mp4"
+    ],
+    "heap": [
+        "/word/h/hea/heap.mp4"
+    ],
+    "heart attack": [
+        "/word/h/hea/heart-attack.mp4"
+    ],
+    "holy": [
+        "/word/h/hol/holy.mp4"
+    ],
+    "hop": [
+        "/word/h/hop/hop2.mp4",
+        "/word/h/hop/hop.mp4"
+    ],
+    "host": [
+        "/word/h/hos/host-event.mp4"
+    ],
+    "human": [
+        "/word/h/hum/human.mp4",
+        "/word/h/hum/human-fs.mp4",
+        "/word/h/hum/humanbeing.mp4"
+    ],
+    "ill": [
+        "/word/i/ill/ill-sick.mp4"
+    ],
+    "illegal": [
+        "/word/i/ill/illegal.mp4",
+        "/word/i/ill/illegal-law.mp4"
+    ],
+    "impact": [
+        "/word/i/imp/impact.mp4"
+    ],
+    "individual": [
+        "/word/i/ind/individual.mp4"
+    ],
+    "inspect": [
+        "/word/i/ins/inspect.mp4"
+    ],
+    "inspire": [
+        "/word/i/ins/inspire2.mp4"
+    ],
+    "intersection": [
+        "/word/i/int/intersection.mp4",
+        "/word/i/int/intersection2.mp4",
+        "/word/i/int/intersect.mp4"
+    ],
+    "journey": [
+        "/word/j/jou/journey.mp4"
+    ],
+    "joy": [
+        "/word/j/joy/joy.mp4",
+        "/word/o/ove/overjoyed.mp4"
+    ],
+    "kindergarten": [
+        "/word/k/kin/kindergarten.mp4"
+    ],
+    "lady": [
+        "/word/l/lad/lady.mp4"
+    ],
+    "lamp": [
+        "/word/l/lam/lamp.mp4"
+    ],
+    "last week": [
+        "/word/l/las/last-week.mp4"
+    ],
+    "laundry": [
+        "/word/l/lau/laundry.mp4"
+    ],
+    "leader": [
+        "/word/l/lea/leader.mp4"
+    ],
+    "league": [
+        "/word/l/lea/league.mp4"
+    ],
+    "leak": [
+        "/word/l/lea/leak.mp4"
+    ],
+    "legal": [
+        "/word/l/leg/legal.mp4"
+    ],
+    "let": [
+        "/word/l/let/let.mp4",
+        "/word/l/let/let-in.mp4",
+        "/word/l/let/let-go.mp4"
+    ],
+    "license": [
+        "/word/l/lic/license2.mp4",
+        "/word/l/lic/license-number.mp4"
+    ],
+    "loan": [
+        "/word/l/loa/loan-to.mp4"
+    ],
+    "look at": [
+        "/word/l/loo/look-at.mp4",
+        "/word/l/loo/look-at-me.mp4",
+        "/word/l/loo/lookat-eachother.mp4",
+        "/word/l/loo/lookat-eachother2.mp4"
+    ],
+    "look for": [
+        "/word/l/loo/look-for.mp4"
+    ],
+    "lord": [
+        "/word/l/lord.mp4"
+    ],
+    "meaning": [
+        "/word/m/mea/meaning.mp4"
+    ],
+    "melt": [
+        "/word/m/mel/melt.mp4"
+    ],
+    "mention": [
+        "/word/m/men/mention.mp4"
+    ],
+    "microscope": [
+        "/word/m/mic/microscope.mp4"
+    ],
+    "midnight": [
+        "/word/m/mid/midnight.mp4"
+    ],
+    "military": [
+        "/word/m/mil/military.mp4"
+    ],
+    "mine": [
+        "/word/m/min/minefield.mp4",
+        "/word/m/min/minecraft-fs.mp4"
+    ],
+    "mistake": [
+        "/word/m/mis/mistake.mp4",
+        "/word/m/mis/mistake-accidental.mp4"
+    ],
+    "mock": [
+        "/word/m/moc/mock-ridicule.mp4"
+    ],
+    "moose": [
+        "/word/m/moo/moose.mp4"
+    ],
+    "mosquito": [
+        "/word/m/mos/mosquito.mp4"
+    ],
+    "murder": [
+        "/word/m/mur/murder.mp4"
+    ],
+    "narrow": [
+        "/word/n/nar/narrow.mp4"
+    ],
+    "necessary": [
+        "/word/n/nec/necessary.mp4"
+    ],
+    "negotiate": [
+        "/word/n/neg/negotiate2.mp4",
+        "/word/n/neg/negotiate.mp4",
+        "/word/n/neg/negotiable.mp4",
+        "/word/n/neg/negotiation-meaning.mp4"
+    ],
+    "northwest": [
+        "/word/n/nor/northwest.mp4"
+    ],
+    "not yet": [
+        "/word/n/not/not-yet.mp4"
+    ],
+    "notice": [
+        "/word/n/not/notice.mp4",
+        "/word/t/tak/take-notice.mp4"
+    ],
+    "numerous": [
+        "/word/n/num/numerous.mp4",
+        "/word/n/num/numerous2.mp4"
+    ],
+    "nun": [
+        "/word/n/nun/nun.mp4"
+    ],
+    "objective": [
+        "/word/o/obj/objective.mp4"
+    ],
+    "obtain": [
+        "/word/o/obt/obtain.mp4"
+    ],
+    "occur": [
+        "/word/o/occ/occur.mp4",
+        "/word/r/reo/reoccur.mp4"
+    ],
+    "or": [
+        "/word/o/or/or-fs.mp4"
+    ],
+    "oral": [
+        "/word/o/ora/oral.mp4",
+        "/word/o/ora/oral-mouth.mp4",
+        "/word/o/ora/oral-verbal.mp4",
+        "/word/o/ora/oral-fs.mp4"
+    ],
+    "our": [
+        "/word/o/our/our.mp4"
+    ],
+    "overcome": [
+        "/word/o/ove/overcome.mp4"
+    ],
+    "pack": [
+        "/word/p/pac/pack-in.mp4",
+        "/word/p/pac/pack-box.mp4"
+    ],
+    "part": [
+        "/word/p/par/part.mp4"
+    ],
+    "pear": [
+        "/word/p/pea/pear.mp4"
+    ],
+    "peel": [
+        "/word/p/pee/peel-cut.mp4"
+    ],
+    "penalty": [
+        "/word/p/pen/penalty.mp4"
+    ],
+    "penny": [
+        "/word/p/pen/penny.mp4",
+        "/word/p/pen/penny2.mp4"
+    ],
+    "pilot": [
+        "/word/p/pil/pilot.mp4"
+    ],
+    "player": [
+        "/word/p/pla/player.mp4"
+    ],
+    "poop": [
+        "/word/p/poo/poop-feces.mp4"
+    ],
+    "post": [
+        "/word/p/pos/post-wall.mp4",
+        "/word/p/pos/post-submit.mp4",
+        "/word/p/pos/post-pole.mp4"
+    ],
+    "potential": [
+        "/word/p/pot/potential.mp4"
+    ],
+    "poverty": [
+        "/word/p/pov/poverty.mp4",
+        "/word/p/pov/poverty2.mp4"
+    ],
+    "precious": [
+        "/word/p/pre/precious.mp4",
+        "/word/p/pre/precious2.mp4"
+    ],
+    "precise": [
+        "/word/p/pre/precise.mp4"
+    ],
+    "preschool": [
+        "/word/p/pre/preschool.mp4"
+    ],
+    "prince": [
+        "/word/p/pri/prince.mp4"
+    ],
+    "princess": [
+        "/word/p/pri/princess.mp4",
+        "/pix/p/princess-reaction.mp4"
+    ],
+    "process": [
+        "/word/p/pro/process.mp4",
+        "/word/p/pro/processing-mikeykrajnak.mp4"
+    ],
+    "profit": [
+        "/word/p/pro/profit.mp4"
+    ],
+    "progress": [
+        "/word/p/pro/progress.mp4"
+    ],
+    "propaganda": [
+        "/word/p/pro/propaganda.mp4",
+        "/word/p/pro/propaganda-false.mp4",
+        "/word/p/pro/propaganda-manipulate.mp4"
+    ],
+    "proper": [
+        "/word/p/pro/proper.mp4"
+    ],
+    "psychologist": [
+        "/word/p/psy/psychologist.mp4"
+    ],
+    "publish": [
+        "/word/p/pub/publish.mp4"
+    ],
+    "purchase": [
+        "/word/p/pur/purchase.mp4"
+    ],
+    "pure": [
+        "/word/p/pur/pure.mp4",
+        "/word/p/pur/pure-clean.mp4"
+    ],
+    "pursue": [
+        "/word/p/pur/pursue.mp4"
+    ],
+    "put off": [
+        "/word/p/put/put-off.mp4"
+    ],
+    "quality": [
+        "/word/q/qua/quality.mp4"
+    ],
+    "quarrel": [
+        "/word/q/qua/quarrel.mp4"
+    ],
+    "quarter": [
+        "/word/q/qua/quarter-fourth.mp4",
+        "/word/q/qua/quarter-coin.mp4",
+        "/word/q/qua/quarter-1.mp4",
+        "/word/q/qua/quarter-2.mp4",
+        "/word/q/qua/quarter-3.mp4",
+        "/word/q/qua/quarter-4.mp4"
+    ],
+    "rage": [
+        "/word/r/rag/rage-anger.mp4"
+    ],
+    "rather": [
+        "/word/r/rat/rather-prefer.mp4",
+        "/word/r/rat/rather-shoulder.mp4"
+    ],
+    "real": [
+        "/word/r/rea/real.mp4"
+    ],
+    "recliner": [
+        "/word/r/rec/recliner.mp4",
+        "/word/r/rec/recliner2.mp4"
+    ],
+    "recommend": [
+        "/word/r/rec/recommend2.mp4",
+        "/word/r/rec/recommend2.mp4"
+    ],
+    "regular": [
+        "/word/r/reg/regular.mp4"
+    ],
+    "release": [
+        "/word/r/rel/release-letgo.mp4"
+    ],
+    "reply": [
+        "/word/r/rep/reply.mp4"
+    ],
+    "rescue": [
+        "/word/r/res/rescue.mp4"
+    ],
+    "resist": [
+        "/word/r/res/resist.mp4",
+        "/word/r/res/resist2.mp4"
+    ],
+    "restroom": [
+        "/word/r/res/restroom-toilet.mp4"
+    ],
+    "retreat": [
+        "/word/r/ret/retreat.mp4",
+        "/word/r/ret/retreat-military.mp4"
+    ],
+    "roar": [
+        "/word/r/roa/roar-yell.mp4",
+        "/word/r/roa/roar-loud.mp4"
+    ],
+    "roommate": [
+        "/word/r/roo/roommate.mp4"
+    ],
+    "rose": [
+        "/word/r/ros/rose-flower.mp4",
+        "/word/r/ros/rose-wall.mp4"
+    ],
+    "ruin": [
+        "/word/r/ruin.mp4"
+    ],
+    "salary": [
+        "/word/s/sal/salary.mp4"
+    ],
+    "saw": [
+        "/word/s/saw-cut.mp4"
+    ],
+    "scan": [
+        "/word/s/sca/scan.mp4",
+        "/word/s/sca/scan-x.mp4",
+        "/word/s/sca/scan-look.mp4"
+    ],
+    "scream": [
+        "/word/s/scr/scream.mp4"
+    ],
+    "sea": [
+        "/word/s/sea/sea-water.mp4",
+        "/word/s/sea/sea-cl.mp4"
+    ],
+    "seldom": [
+        "/word/s/sel/seldom.mp4",
+        "/word/s/sel/seldom2.mp4"
+    ],
+    "settle": [
+        "/word/s/set/settle-down.mp4"
+    ],
+    "shout": [
+        "/word/s/sho/shout.mp4"
+    ],
+    "shovel": [
+        "/word/s/sho/shovel-dig.mp4",
+        "/word/s/sho/shovel-snow.mp4",
+        "/word/s/sho/shovel-shape.mp4"
+    ],
+    "sin": [
+        "/word/s/sin/sin.mp4"
+    ],
+    "singer": [
+        "/word/s/sin/singer.mp4"
+    ],
+    "skip": [
+        "/word/s/ski/skip-class.mp4",
+        "/word/s/ski/skip-class2.mp4",
+        "/word/s/ski/skip-jump.mp4",
+        "/word/s/ski/skipping.mp4"
+    ],
+    "sofa": [
+        "/word/s/sof/sofa.mp4",
+        "/word/c/cou/couch2.mp4"
+    ],
+    "soldier": [
+        "/word/s/sol/soldier.mp4"
+    ],
+    "solve": [
+        "/word/s/sol/solve.mp4"
+    ],
+    "something": [
+        "/word/s/som/something.mp4"
+    ],
+    "somewhere": [
+        "/word/s/som/somewhere.mp4"
+    ],
+    "soul": [
+        "/word/s/sou/soul.mp4",
+        "/word/s/sou/soul-spirit.mp4"
+    ],
+    "spill": [
+        "/word/s/spi/spill.mp4",
+        "/word/s/spi/spill-container.mp4"
+    ],
+    "spit": [
+        "/word/s/spi/spit.mp4"
+    ],
+    "spread": [
+        "/word/s/spr/spread.mp4"
+    ],
+    "sprint": [
+        "/word/s/spr/sprint.mp4"
+    ],
+    "squeeze": [
+        "/word/s/squ/squeeze.mp4"
+    ],
+    "stepfather": [
+        "/word/s/ste/stepfather2.mp4",
+        "/word/s/ste/step-father.mp4"
+    ],
+    "sting": [
+        "/word/s/sti/sting-bite.mp4"
+    ],
+    "stir": [
+        "/word/s/sti/stir.mp4"
+    ],
+    "stitch": [
+        "/word/s/sti/stitch.mp4"
+    ],
+    "stuck": [
+        "/word/s/stu/stuck.mp4"
+    ],
+    "sue": [
+        "/word/s/sue/sue-lawsuit.mp4",
+        "/word/s/sue/sue-fs.mp4"
+    ],
+    "surrender": [
+        "/word/s/sur/surrender.mp4"
+    ],
+    "suspend": [
+        "/word/s/sus/suspend.mp4"
+    ],
+    "swimming": [
+        "/word/s/swi/swimming-pool-pokorny.mp4",
+        "/word/d/dol/dolphin-kick.mp4",
+        "/word/d/dol/dolphin-kick2.mp4"
+    ],
+    "talent": [
+        "/word/t/tal/talent-natural.mp4",
+        "/word/t/tal/talent.mp4"
+    ],
+    "telescope": [
+        "/word/t/tel/telescope.mp4",
+        "/word/t/tel/telescope-long.mp4"
+    ],
+    "tempt": [
+        "/word/t/tem/tempt.mp4"
+    ],
+    "ten": [
+        "/word/t/ten/ten.mp4"
+    ],
+    "tend": [
+        "/word/t/ten/tend.mp4"
+    ],
+    "than": [
+        "/word/t/tha/than.mp4"
+    ],
+    "therefore": [
+        "/word/t/the/therefore.mp4"
+    ],
+    "tobacco": [
+        "/word/t/tob/tobacco.mp4"
+    ],
+    "toilet paper": [
+        "/word/t/toi/toilet-paper.mp4"
+    ],
+    "tolerate": [
+        "/word/t/tol/tolerate.mp4",
+        "/word/t/tol/tolerable.mp4"
+    ],
+    "torture": [
+        "/word/t/tor/torture.mp4"
+    ],
+    "towel": [
+        "/word/t/tow/towel.mp4",
+        "/word/t/tow/towel-bath.mp4"
+    ],
+    "trip": [
+        "/word/t/tri/trip.mp4"
+    ],
+    "truth": [
+        "/word/t/tru/truth.mp4"
+    ],
+    "turn": [
+        "/word/t/tur/turn-left3.mp4",
+        "/word/t/tur/turn-right.mp4",
+        "/word/t/tur/turn-swim.mp4"
+    ],
+    "upstairs": [
+        "/word/u/ups/upstairs.mp4"
+    ],
+    "vacant": [
+        "/word/v/vac/vacant.mp4"
+    ],
+    "vague": [
+        "/word/v/vag/vague.mp4"
+    ],
+    "valley": [
+        "/word/v/val/valley.mp4"
+    ],
+    "vampire": [
+        "/word/v/vam/vampire.mp4"
+    ],
+    "very": [
+        "/word/v/ver/very.mp4",
+        "/word/v/ver/very-forrestsmith.mp4"
+    ],
+    "vice president": [
+        "/word/v/vic/vice-president.mp4"
+    ],
+    "viewpoint": [
+        "/word/v/vie/viewpoint.mp4",
+        "/word/p/poi/point-of-view.mp4"
+    ],
+    "visualize": [
+        "/word/v/vis/visualization.mp4"
+    ],
+    "vlog": [
+        "/word/v/vlo/vlog.mp4",
+        "/word/v/vlo/vlog-make.mp4",
+        "/word/v/vlo/vlogs-rosaleetimm.mp4"
+    ],
+    "waterfall": [
+        "/word/w/wat/waterfalls.mp4"
+    ],
+    "wheelchair": [
+        "/word/w/whe/wheelchair.mp4"
+    ],
+    "whistle": [
+        "/word/w/whi/whistle.mp4"
+    ]
+}
