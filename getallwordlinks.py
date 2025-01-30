@@ -1,7 +1,7 @@
-import requests, argparse, bs4
+import requests, argparse, bs4, json
 from tqdm import tqdm
 
-API_URL: str = "https://www.handspeak.com/word/asl-eng/asleng-data.php"
+API_URL: str = "https://www.handspeak.com/word/asl-eng/asleng-data.php" 
 HEADERS: dict = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",
     "Accept": "*/*",
@@ -31,7 +31,7 @@ PAYLOAD: dict = {
 }
 LAST_PAGE: int = 549
 
-links = []
+links = {}
 
 def extractWords() -> None:
     for page in tqdm(range(1, LAST_PAGE + 1), desc="Extracting pages"):
@@ -44,18 +44,28 @@ def extractWords() -> None:
         soup: bs4.BeautifulSoup = bs4.BeautifulSoup(response.content, 'lxml')
         wordList = soup.find('body').find('ul', class_='col-abc').find_all('li')
         for word in wordList:
+            word_text = word.find('a').text.strip()
             link = word.find('a').get('href')
-            links.append(link)
+            links[word_text] = link
     
-    with open('allWordLinks.txt', 'w') as file:
-        for l in links:
-            file.write(l + '\n')
+    with open('allWordLinks2.json', 'w') as file:
+        json.dump(links, file, indent=4)
 
+def extractVideosFromArticle(url: str) -> None:
+    pass
 
 if __name__ == "__main__":
     parser : argparse.ArgumentParser = argparse.ArgumentParser(description="stuff")
-    parser.add_argument('-e', "--extract", action='store_true', help="Extract all word links on Handspeak")
+    parser.add_argument('-e', "--extract",    action='store_true', help="Extract all word links on Handspeak")
+    parser.add_argument('-v', "--get-videos", action='store_true', help="Extract videos from all links")
     args : argparse.ArgumentParser = parser.parse_args()
 
     if args.extract:
         extractWords()
+    
+    if args.get_videos:
+        with open('allWordLinks.txt', 'r') as file:
+            allLinks: list[str] = [l.strip() for l in file.readlines()]
+        
+        for link in tqdm(allLinks, desc='Extracting videos'):
+            pass
