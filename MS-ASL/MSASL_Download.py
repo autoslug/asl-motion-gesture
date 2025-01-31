@@ -60,6 +60,7 @@ def download_and_preprocess(video_info, dir):
     trim_command = [
         'ffmpeg',
         '-hide_banner', '-loglevel', 'error',
+        '-n',
         '-i', output_filename + '.mp4',
         '-ss', str(start_time),
         '-to', str(end_time),
@@ -69,7 +70,7 @@ def download_and_preprocess(video_info, dir):
         '-crf', '22',
         '-c:a', 'aac',
         '-b:a', '128k',
-        '-threads', '8',
+        '-threads', '10',
         f'{dir}/{label}_{video_id}_{start_time}.mp4'
     ]
     subprocess.run(trim_command)

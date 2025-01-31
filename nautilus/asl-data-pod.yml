@@ -17,13 +17,13 @@ spec:
     #   name: dshm
     resources:
       limits:
-        memory: 8Gi
-        cpu: "2"
+        memory: 16Gi
+        cpu: "16"
         # nvidia.com/gpu: 1
-        ephemeral-storage: 30Gi
+        ephemeral-storage: 20Gi
       requests:
-        memory: 8Gi
-        cpu: "2"
+        memory: 16Gi
+        cpu: "14"
         # nvidia.com/gpu: 1
         ephemeral-storage: 20Gi
   volumes:
