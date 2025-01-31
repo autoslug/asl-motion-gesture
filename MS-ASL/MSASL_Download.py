@@ -87,7 +87,7 @@ def download_and_preprocess(video_info, dir):
     # os.remove(output_filename + '.mp4')
 
 # Load existing failed downloads
-if os.path.exists('failed_downloads.json'):
+if os.path.exists(f'failed_downloads_{mode}.json'):
     # with open('failed_downloads.json', 'r') as file:
         # try:
         #     existing_failed_downloads = json.load(file)
