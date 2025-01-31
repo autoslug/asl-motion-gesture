@@ -1,16 +1,24 @@
 import json
 import os
 import subprocess
+import argparse
 
+parser = argparse.ArgumentParser(
+    prog='MSASL_Download.py',
+    description='Download and preprocess the MS-ASL dataset'
+)
+parser.add_argument('-m', '--mode', required=True, choices=['train', 'test', 'val'], help='Mode of the dataset to download (train/test/val)')
+mode = parser.parse_args().mode
 
-mode = 'test'
+# default value
+# mode = 'test'
 
 # Load the JSON data
 with open(f'MSASL_{mode}.json', 'r') as file:
     data = json.load(file)
 
 # get list of failed downloads, skip if failed
-with open('failed_downloads.json', 'r') as file:
+with open(f'failed_downloads_{mode}.json', 'r') as file:
     failed_videos = json.load(file)
     
 failed_urls = set([video['url'] for video in failed_videos])
@@ -89,5 +97,5 @@ if os.path.exists('failed_downloads.json'):
     for video_info in filtered_data:
         download_and_preprocess(video_info, dir)
         
-        with open('failed_downloads.json', 'w') as file:
+        with open(f'failed_downloads_{mode}.json', 'w') as file:
             json.dump(failed_downloads, file, indent=4)
