@@ -2,6 +2,7 @@ import json
 import os
 import subprocess
 import argparse
+import tqdm
 
 parser = argparse.ArgumentParser(
     prog='MSASL_Download.py',
@@ -41,55 +42,72 @@ with os.scandir("temp/") as entries:
     for entry in entries:
         if entry.is_file():
             completed_downloads.add(entry.name.split('.')[0])
+            
+processed_videos = set()
+with os.scandir(dir) as entries:
+    for entry in entries:
+        if entry.is_file():
+            processed_videos.add(entry.name)
+            # print(entry.name)
 
 # Function to download and preprocess video
 def download_and_preprocess(video_info, dir):
-    url = video_info['url']
-    start_time = video_info['start_time']
-    end_time = video_info['end_time']
-    label = video_info['label']
-    video_id = url.split('=')[-1]
-    output_filename = f"temp/{video_id}"
-    # print(output_filename)
-    # Download the video using yt-dlp
-    # downloads the file only once to avoid repeated downloads
-    if video_id not in completed_downloads:
-            # '--cookies-from-browser', 'firefox',
-        download_command = [
-            'yt-dlp',
-            '-f', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4',
-            '-o', output_filename,
-            url
-        ]
-        try:
-            subprocess.run(download_command, check=True)
-        except subprocess.CalledProcessError as e:
-            print(f"Failed to download {url}: {e}")
-            failed_downloads.append({'url': url, 'label': label})
-            return
-    else:
-        print(video_id, end=' ')
-        print("already downloaded, skipping.")
-    completed_downloads.add(video_id)
-
-    # Trim and preprocess the video
-    trim_command = [
-        'ffmpeg',
-        '-hide_banner', '-loglevel', 'panic',
-        '-n',
-        '-i', output_filename + '.mp4',
-        '-ss', str(start_time),
-        '-to', str(end_time),
-        '-vf', 'scale=480:-1,fps=30',
-        '-c:v', 'libx264',
-        '-preset', 'fast',
-        '-crf', '22',
-        '-c:a', 'aac',
-        '-b:a', '128k',
-        '-threads', '10',
-        f'{dir}/{label}_{video_id}_{start_time}.mp4'
-    ]
-    subprocess.run(trim_command)
+    try:
+        url = video_info['url']
+        start_time = video_info['start_time']
+        end_time = video_info['end_time']
+        label = video_info['label']
+        video_id = url.split('=')[-1]
+        output_filename = f"temp/{video_id}"
+        # print(output_filename)
+        # Download the video using yt-dlp
+        # downloads the file only once to avoid repeated downloads
+        if video_id not in completed_downloads:
+                # '--cookies-from-browser', 'firefox',
+            download_command = [
+                'yt-dlp',
+                '-q',
+                '-f', 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4',
+                '-o', output_filename,
+                url
+            ]
+            try:
+                subprocess.run(download_command, check=True)
+            except subprocess.CalledProcessError as e:
+                print(f"Failed to download {url}: {e}")
+                failed_downloads.append({'url': url, 'label': label})
+                return
+        # else:
+        #     print(video_id, end=' ')
+        #     print("already downloaded, skipping.")
+        completed_downloads.add(video_id)
+        
+        file_name = f'{label}_{video_id}_{start_time}.mp4'
+        if file_name not in processed_videos:
+            # Trim and preprocess the video
+            file_name = f'{dir}/{file_name}'
+            trim_command = [
+                'ffmpeg',
+                '-hide_banner', '-loglevel', 'panic',
+                '-n',
+                '-i', output_filename + '.mp4',
+                '-ss', str(start_time),
+                '-to', str(end_time),
+                '-vf', 'scale=480:-1,fps=30',
+                '-c:v', 'libx264',
+                '-preset', 'fast',
+                '-crf', '22',
+                '-c:a', 'aac',
+                '-b:a', '128k',
+                '-threads', '8',
+                file_name
+            ]
+            subprocess.run(trim_command)
+    except:
+        print("Interrupted, cleaning. writing data.")
+        with open(f'failed_downloads_{mode}.json', 'w') as file:
+                json.dump(failed_downloads, file, indent=4)
+        exit()
 
     # Remove the original downloaded video
     # os.remove(output_filename + '.mp4')
@@ -104,7 +122,7 @@ if os.path.exists(f'failed_downloads_{mode}.json'):
     # Iterate over each video info in the JSON data
     counter = 0
     try:
-        for video_info in filtered_data:
+        for video_info in tqdm.tqdm(filtered_data):
             download_and_preprocess(video_info, dir)
             counter += 1
             if(counter % 20 == 0):
@@ -114,3 +132,4 @@ if os.path.exists(f'failed_downloads_{mode}.json'):
         print("Interrupted, cleaning. writing data.")
         with open(f'failed_downloads_{mode}.json', 'w') as file:
                 json.dump(failed_downloads, file, indent=4)
+                exit()

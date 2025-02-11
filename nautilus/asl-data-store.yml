@@ -1,7 +1,7 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  name: daksh-nextbrain-job
+  name: daksh-asl-job
   namespace: autoslug
 spec:
   template:
@@ -10,7 +10,7 @@ spec:
       - name: daksh-asl-data-download
         image: ubuntu:22.04
         command: ["/bin/bash", "-c"]
-        args: ["bash ~/persistent/scripts/wlasl-data.sh"]
+        args: ["bash /root/dataset/asl-motion-gesture/MS-ASL/setup_MSASL_Download.sh"]
         volumeMounts:
         - name: dataset
           mountPath: /root/dataset
@@ -19,11 +19,11 @@ spec:
         resources:
           limits:
             memory: 10Gi
-            cpu: "2"
+            cpu: "12"
             ephemeral-storage: 20Gi
           requests:
             memory: 10Gi
-            cpu: "2"
+            cpu: "12"
             ephemeral-storage: 20Gi
       volumes:
       - name: dataset
@@ -33,4 +33,4 @@ spec:
         persistentVolumeClaim:
           claimName: asl-persistent
       restartPolicy: Never
-  backoffLimit: 1
+  backoffLimit: 0
