@@ -128,6 +128,8 @@ if os.path.exists(f'failed_downloads_{mode}.json'):
             if(counter % 20 == 0):
                 with open(f'failed_downloads_{mode}.json', 'w') as file:
                     json.dump(failed_downloads, file, indent=4)
+        with open(f'failed_downloads_{mode}.json', 'w') as file:
+                    json.dump(failed_downloads, file, indent=4)
     except:
         print("Interrupted, cleaning. writing data.")
         with open(f'failed_downloads_{mode}.json', 'w') as file:
